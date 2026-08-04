@@ -14,6 +14,21 @@
         "fr": "Régie Sonore Live",
         "ru": "Пульт звуковых сигналов"
       }
+    },
+    {
+      "slug": "racketBalanceLab",
+      "lastUpdated": "2026-08-04",
+      "appName": {
+        "zh": "拍衡",
+        "en": "Racket Balance Lab",
+        "ja": "ラケットバランスラボ",
+        "ko": "라켓 밸런스 랩",
+        "es": "Racket Balance Lab",
+        "pt": "Racket Balance Lab",
+        "de": "Racket Balance Lab",
+        "fr": "Racket Balance Lab",
+        "ru": "Баланс ракетки"
+      }
     }
   ]
 }
