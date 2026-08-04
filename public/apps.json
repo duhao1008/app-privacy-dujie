@@ -44,6 +44,21 @@
         "fr": "Clap Cinéma 2026",
         "ru": "Кинохлопушка 2026"
       }
+    },
+    {
+      "slug": "golfSwingweightLab",
+      "lastUpdated": "2026-08-04",
+      "appName": {
+        "zh": "球杆挥重",
+        "en": "Golf Swing Weight Lab",
+        "ja": "ゴルフクラブ振り重量",
+        "ko": "골프 클럽 스윙웨이트",
+        "es": "Peso de Swing Golf",
+        "pt": "Peso de Swing Golf",
+        "de": "Golf-Schwunggewicht",
+        "fr": "Poids d'Équilibre Golf",
+        "ru": "Свингвейт гольф-клюшек"
+      }
     }
   ]
 }
