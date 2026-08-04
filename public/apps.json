@@ -59,6 +59,21 @@
         "fr": "Poids d'Équilibre Golf",
         "ru": "Свингвейт гольф-клюшек"
       }
+    },
+    {
+      "slug": "luoguRhythm",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "锣鼓经",
+        "en": "Luogu Jing",
+        "ja": "鑼鼓経",
+        "ko": "나고경",
+        "es": "Luogu Jing",
+        "pt": "Luogu Jing",
+        "de": "Luogu Jing",
+        "fr": "Luogu Jing",
+        "ru": "Логуцзин"
+      }
     }
   ]
 }
