@@ -29,6 +29,21 @@
         "fr": "Racket Balance Lab",
         "ru": "Баланс ракетки"
       }
+    },
+    {
+      "slug": "cineSlateLog",
+      "lastUpdated": "2026-08-04",
+      "appName": {
+        "zh": "场记板2026",
+        "en": "Cine Slate Log 2026",
+        "ja": "撮影カチンコ2026",
+        "ko": "디지털 슬레이트 2026",
+        "es": "Claqueta Cine 2026",
+        "pt": "Claquete de Cinema 2026",
+        "de": "Filmklappe 2026",
+        "fr": "Clap Cinéma 2026",
+        "ru": "Кинохлопушка 2026"
+      }
     }
   ]
 }
