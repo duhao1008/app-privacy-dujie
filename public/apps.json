@@ -1,5 +1,19 @@
 {
-	"apps":[
-		
-	]
+  "apps": [
+    {
+      "slug": "offlineSoundCueBoard",
+      "lastUpdated": "2026-08-04",
+      "appName": {
+        "zh": "现场音效板",
+        "en": "Live Sound Cueboard",
+        "ja": "ライブ音響キューボード",
+        "ko": "라이브 사운드 큐보드",
+        "es": "Panel de Sonido en Vivo",
+        "pt": "Painel de Som ao Vivo",
+        "de": "Live Sound Cueboard",
+        "fr": "Régie Sonore Live",
+        "ru": "Пульт звуковых сигналов"
+      }
+    }
+  ]
 }
