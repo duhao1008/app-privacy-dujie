@@ -509,6 +509,21 @@
         "fr": "Titres pour Invitations",
         "ru": "Обращения для свадьбы"
       }
+    },
+    {
+      "appleId": "6798297968",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "逐格影坊",
+        "en": "FrameCraft",
+        "ja": "コマ撮り工房",
+        "ko": "프레임 공방",
+        "es": "Estudio Fotograma",
+        "pt": "Estúdio Quadro",
+        "de": "Einzelbild Studio",
+        "fr": "Atelier Image par Image",
+        "ru": "Покадровая студия"
+      }
     }
   ]
 }
