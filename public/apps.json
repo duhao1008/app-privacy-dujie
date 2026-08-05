@@ -719,6 +719,21 @@
         "fr": "Réglage Aviron",
         "ru": "Настройка лодки"
       }
+    },
+    {
+      "appleId": "6798354845",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "滑轨定位",
+        "en": "Slide Layout",
+        "ja": "スライドレール位置決め",
+        "ko": "서랍 레일 위치잡기",
+        "es": "Guía de Correderas",
+        "pt": "Guia de Corrediças",
+        "de": "Schubladenführung",
+        "fr": "Guide de Coulisses",
+        "ru": "Разметка направляющих"
+      }
     }
   ]
 }
