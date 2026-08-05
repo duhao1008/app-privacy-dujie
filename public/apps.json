@@ -449,6 +449,21 @@
         "fr": "Dosage de Peinture",
         "ru": "Пропорции краски"
       }
+    },
+    {
+      "appleId": "6798277365",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "舞步路线卡",
+        "en": "Dressage Route Cards",
+        "ja": "馬場馬術ルートカード",
+        "ko": "마장마술 루트 카드",
+        "es": "Rutas de Doma",
+        "pt": "Rotas de Dressage",
+        "de": "Dressurweg-Karten",
+        "fr": "Parcours de Dressage",
+        "ru": "Карточки схем выездки"
+      }
     }
   ]
 }
