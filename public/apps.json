@@ -464,6 +464,21 @@
         "fr": "Parcours de Dressage",
         "ru": "Карточки схем выездки"
       }
+    },
+    {
+      "appleId": "6798282248",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "日语活用练习",
+        "en": "Japanese Verb Lab",
+        "ja": "日本語活用ドリル",
+        "ko": "일본어 활용 연습",
+        "es": "Verbos Japoneses",
+        "pt": "Verbos Japoneses",
+        "de": "Japanische Verben",
+        "fr": "Verbes Japonais",
+        "ru": "Японские глаголы"
+      }
     }
   ]
 }
