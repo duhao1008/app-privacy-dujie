@@ -179,6 +179,21 @@
         "fr": "Laboratoire des Ajustements",
         "ru": "Лаборатория допусков"
       }
+    },
+    {
+      "appleId": "6798158469",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "音效台",
+        "en": "SoundCue",
+        "ja": "サウンドキュー",
+        "ko": "사운드큐",
+        "es": "SoundCue",
+        "pt": "SoundCue",
+        "de": "SoundCue",
+        "fr": "SoundCue",
+        "ru": "SoundCue"
+      }
     }
   ]
 }
