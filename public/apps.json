@@ -479,6 +479,21 @@
         "fr": "Verbes Japonais",
         "ru": "Японские глаголы"
       }
+    },
+    {
+      "appleId": "6798288308",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "校对符号",
+        "en": "Proofreading Marks",
+        "ja": "校正記号",
+        "ko": "교정 기호",
+        "es": "Signos de corrección",
+        "pt": "Marcas de Revisão",
+        "de": "Korrekturzeichen",
+        "fr": "Signes de correction",
+        "ru": "Корректорские знаки"
+      }
     }
   ]
 }
