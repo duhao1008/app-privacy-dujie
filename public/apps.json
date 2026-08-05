@@ -374,6 +374,21 @@
         "fr": "Sac de Disc Golf",
         "ru": "Сумка для диск-гольфа"
       }
+    },
+    {
+      "appleId": "6798251705",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "粗糙度学堂",
+        "en": "Surface Finish Tutor",
+        "ja": "表面粗さ学習帳",
+        "ko": "표면 거칠기 학습실",
+        "es": "Tutor de Rugosidad",
+        "pt": "Tutor de Rugosidade",
+        "de": "Rauheits-Tutor",
+        "fr": "Tuteur de Rugosité",
+        "ru": "Учебник шероховатости"
+      }
     }
   ]
 }
