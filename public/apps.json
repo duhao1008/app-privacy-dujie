@@ -119,6 +119,21 @@
         "fr": "Atelier Longueur Rayons",
         "ru": "Мастерская спиц"
       }
+    },
+    {
+      "slug": "electronConfigTutor",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "电子排布",
+        "en": "Electron Configuration",
+        "ja": "電子配置",
+        "ko": "전자 배치",
+        "es": "Configuración Electrónica",
+        "pt": "Configuração Eletrônica",
+        "de": "Elektronenkonfiguration",
+        "fr": "Configuration Électronique",
+        "ru": "Электронная конфигурация"
+      }
     }
   ]
 }
