@@ -584,6 +584,21 @@
         "fr": "Règle de Reliure",
         "ru": "Линейка переплёта"
       }
+    },
+    {
+      "appleId": "6798326383",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "猜歌主持器",
+        "en": "Song Quiz Host",
+        "ja": "曲当てクイズ司会",
+        "ko": "노래 퀴즈 진행자",
+        "es": "Presentador Quiz Musical",
+        "pt": "Apresentador Quiz Musical",
+        "de": "Songquiz-Moderator",
+        "fr": "Animateur Quiz Musical",
+        "ru": "Ведущий музыкальной викторины"
+      }
     }
   ]
 }
