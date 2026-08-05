@@ -164,6 +164,21 @@
         "fr": "Plan de Housse de Canapé",
         "ru": "Раскрой чехла для дивана"
       }
+    },
+    {
+      "slug": "cycleFitWorkbench",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "骑姿尺码",
+        "en": "Bike Fit Workbench",
+        "ja": "バイクフィット計算帳",
+        "ko": "바이크 핏 워크벤치",
+        "es": "Taller Bike Fit",
+        "pt": "Oficina Bike Fit",
+        "de": "BikeFit Werkbank",
+        "fr": "Atelier Bike Fit",
+        "ru": "Мастерская велофита"
+      }
     }
   ]
 }
