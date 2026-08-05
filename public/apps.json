@@ -569,6 +569,21 @@
         "fr": "Tuteur de Filetages",
         "ru": "Тренажёр резьб"
       }
+    },
+    {
+      "appleId": "6798317291",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "线装尺",
+        "en": "ThreadBind Ruler",
+        "ja": "糸綴じ定規",
+        "ko": "실제본 자",
+        "es": "Regla de Encuadernación",
+        "pt": "Régua de Encadernação",
+        "de": "Fadenheftungs-Lineal",
+        "fr": "Règle de Reliure",
+        "ru": "Линейка переплёта"
+      }
     }
   ]
 }
