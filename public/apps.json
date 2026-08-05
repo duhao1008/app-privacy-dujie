@@ -329,6 +329,21 @@
         "fr": "Raccord Tournage",
         "ru": "Киноляп: Континуитет"
       }
+    },
+    {
+      "appleId": "6798231769",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "家财清单",
+        "en": "Home Asset Ledger",
+        "ja": "家財台帳",
+        "ko": "우리집 자산장부",
+        "es": "Inventario del Hogar",
+        "pt": "Inventário da Casa",
+        "de": "Hausratverzeichnis",
+        "fr": "Inventaire Maison",
+        "ru": "Домашняя опись"
+      }
     }
   ]
 }
