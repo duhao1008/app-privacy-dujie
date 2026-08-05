@@ -614,6 +614,21 @@
         "fr": "Planificateur Clim",
         "ru": "Подбор кондиционера"
       }
+    },
+    {
+      "appleId": "6798330424",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "皮带传动计算",
+        "en": "Belt Drive Calculator",
+        "ja": "ベルト伝動計算",
+        "ko": "벨트 구동 계산기",
+        "es": "Calculadora de correas",
+        "pt": "Calculadora de Correias",
+        "de": "Riemenantrieb Rechner",
+        "fr": "Calculateur de courroies",
+        "ru": "Расчёт ременной передачи"
+      }
     }
   ]
 }
