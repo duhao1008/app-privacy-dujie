@@ -209,6 +209,21 @@
         "fr": "Planificateur de Cartons",
         "ru": "Планировщик коробок"
       }
+    },
+    {
+      "appleId": "6798172552",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "帆船起航仪",
+        "en": "Sailing Start Tactician",
+        "ja": "セーリングスタート戦術計",
+        "ko": "세일링 스타트 전술계",
+        "es": "Táctico de Salida a Vela",
+        "pt": "Tático de Largada à Vela",
+        "de": "Segelstart Taktik",
+        "fr": "Tacticien Départ Voile",
+        "ru": "Тактика старта под парусом"
+      }
     }
   ]
 }
