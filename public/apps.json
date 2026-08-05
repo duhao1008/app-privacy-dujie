@@ -359,6 +359,21 @@
         "fr": "Calcul des Consommables",
         "ru": "Расчёт сварочных материалов"
       }
+    },
+    {
+      "appleId": "6798246823",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "飞盘高尔夫盘包",
+        "en": "Disc Golf Bag",
+        "ja": "ディスクゴルフバッグ",
+        "ko": "디스크 골프 백",
+        "es": "Bolsa de Disc Golf",
+        "pt": "Bolsa de Disc Golf",
+        "de": "Disc-Golf-Tasche",
+        "fr": "Sac de Disc Golf",
+        "ru": "Сумка для диск-гольфа"
+      }
     }
   ]
 }
