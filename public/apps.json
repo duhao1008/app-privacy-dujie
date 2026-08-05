@@ -314,6 +314,21 @@
         "fr": "Niveau de Lecture",
         "ru": "Уровень книги"
       }
+    },
+    {
+      "appleId": "6798222047",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "接戏场记",
+        "en": "Continuity Keeper",
+        "ja": "つながり記録",
+        "ko": "연속성 기록장",
+        "es": "Raccord de Rodaje",
+        "pt": "Raccord de Filmagem",
+        "de": "Anschlussprotokoll",
+        "fr": "Raccord Tournage",
+        "ru": "Киноляп: Континуитет"
+      }
     }
   ]
 }
