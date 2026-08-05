@@ -254,6 +254,21 @@
         "fr": "Comptage de Mise en Page",
         "ru": "Подсчёт текста макета"
       }
+    },
+    {
+      "appleId": "6798184239",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "字幕轴",
+        "en": "Subtitle Timeline",
+        "ja": "字幕タイムライン",
+        "ko": "자막 타임라인",
+        "es": "Línea de Subtítulos",
+        "pt": "Linha de Legendas",
+        "de": "Untertitel-Zeitleiste",
+        "fr": "Chronologie Sous-titres",
+        "ru": "Шкала субтитров"
+      }
     }
   ]
 }
