@@ -74,6 +74,21 @@
         "fr": "Luogu Jing",
         "ru": "Логуцзин"
       }
+    },
+    {
+      "slug": "campKnotGuide",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "营绳结",
+        "en": "Camp Knot Guide",
+        "ja": "キャンプ結びガイド",
+        "ko": "캠핑 매듭 가이드",
+        "es": "Nudos de Campamento",
+        "pt": "Nós de Camping",
+        "de": "Campingknoten",
+        "fr": "Nœuds de Camping",
+        "ru": "Походные узлы"
+      }
     }
   ]
 }
