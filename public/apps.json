@@ -299,6 +299,21 @@
         "fr": "Académie des Symboles de",
         "ru": "Академия сварочных знаков"
       }
+    },
+    {
+      "appleId": "6798215162",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "原版书适读度",
+        "en": "Book Readability",
+        "ja": "洋書リーダビリティ",
+        "ko": "원서 읽기 적합도",
+        "es": "Lectura Adecuada",
+        "pt": "Leitura Adequada",
+        "de": "Buch-Lesbarkeit",
+        "fr": "Niveau de Lecture",
+        "ru": "Уровень книги"
+      }
     }
   ]
 }
