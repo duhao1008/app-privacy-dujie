@@ -104,6 +104,21 @@
         "fr": "Formule de Savon",
         "ru": "Формула мыла"
       }
+    },
+    {
+      "slug": "spokeLengthLab",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "辐长工坊",
+        "en": "Spoke Length Lab",
+        "ja": "スポーク長ラボ",
+        "ko": "스포크 길이 연구소",
+        "es": "Taller de Radios",
+        "pt": "Oficina de Raios",
+        "de": "Speichenlängen-Werkstatt",
+        "fr": "Atelier Longueur Rayons",
+        "ru": "Мастерская спиц"
+      }
     }
   ]
 }
