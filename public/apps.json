@@ -239,6 +239,21 @@
         "fr": "Entraînement aux 3 Vues",
         "ru": "Тренажёр трёх проекций"
       }
+    },
+    {
+      "appleId": "6798181826",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "版面字数",
+        "en": "Layout Word Count",
+        "ja": "版面文字数",
+        "ko": "판면 글자수",
+        "es": "Conteo de Maquetación",
+        "pt": "Contagem de Diagramação",
+        "de": "Layout-Wortzahl",
+        "fr": "Comptage de Mise en Page",
+        "ru": "Подсчёт текста макета"
+      }
     }
   ]
 }
