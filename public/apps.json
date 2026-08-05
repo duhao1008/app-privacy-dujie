@@ -704,6 +704,21 @@
         "fr": "Planificateur de Prises",
         "ru": "Планировщик Розеток"
       }
+    },
+    {
+      "appleId": "6798359577",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "赛艇调校",
+        "en": "Rowing Rig Setup",
+        "ja": "ローイング艇セッティング",
+        "ko": "조정 리깅 설정",
+        "es": "Ajuste de Remo",
+        "pt": "Ajuste de Remo",
+        "de": "Ruderboot Setup",
+        "fr": "Réglage Aviron",
+        "ru": "Настройка лодки"
+      }
     }
   ]
 }
