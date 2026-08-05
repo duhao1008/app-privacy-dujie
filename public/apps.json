@@ -674,6 +674,21 @@
         "fr": "Planificateur d'Étagères",
         "ru": "Планировщик нагрузки полок"
       }
+    },
+    {
+      "appleId": "6798347606",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "宾果主持台",
+        "en": "Bingo Host Desk",
+        "ja": "ビンゴ司会デスク",
+        "ko": "빙고 진행 데스크",
+        "es": "Mesa de Bingo",
+        "pt": "Mesa de Bingo",
+        "de": "Bingo-Spielleitung",
+        "fr": "Table de Bingo",
+        "ru": "Ведущий бинго"
+      }
     }
   ]
 }
