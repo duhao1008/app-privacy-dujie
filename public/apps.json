@@ -524,6 +524,21 @@
         "fr": "Atelier Image par Image",
         "ru": "Покадровая студия"
       }
+    },
+    {
+      "appleId": "6798304083",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "墙纸裁量",
+        "en": "Wallpaper Cut Planner",
+        "ja": "壁紙カットプランナー",
+        "ko": "벽지 재단 플래너",
+        "es": "Planificador de Papel",
+        "pt": "Planejador de Papel",
+        "de": "Tapeten-Zuschnittplaner",
+        "fr": "Planificateur de Papier",
+        "ru": "Раскрой обоев"
+      }
     }
   ]
 }
