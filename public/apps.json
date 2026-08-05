@@ -224,6 +224,21 @@
         "fr": "Tacticien Départ Voile",
         "ru": "Тактика старта под парусом"
       }
+    },
+    {
+      "appleId": "6798175382",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "三视图训练",
+        "en": "Orthographic View Trainer",
+        "ja": "三面図トレーナー",
+        "ko": "삼면도 훈련",
+        "es": "Entrenador de Vistas 3D",
+        "pt": "Treinador de Vistas 3D",
+        "de": "Dreitafelbild-Trainer",
+        "fr": "Entraînement aux 3 Vues",
+        "ru": "Тренажёр трёх проекций"
+      }
     }
   ]
 }
