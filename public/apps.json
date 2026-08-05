@@ -539,6 +539,21 @@
         "fr": "Planificateur de Papier",
         "ru": "Раскрой обоев"
       }
+    },
+    {
+      "appleId": "6798307647",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "试举规划",
+        "en": "Attempt Planner",
+        "ja": "試技プラン",
+        "ko": "시기 계획",
+        "es": "Plan de Intentos",
+        "pt": "Plano de Tentativas",
+        "de": "Versuchsplaner",
+        "fr": "Plan d'Essais",
+        "ru": "План попыток"
+      }
     }
   ]
 }
