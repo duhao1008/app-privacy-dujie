@@ -284,6 +284,21 @@
         "fr": "Carnet Suspension Tout-Terrain",
         "ru": "Журнал мотоподвески"
       }
+    },
+    {
+      "appleId": "6798202546",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "焊接符号学堂",
+        "en": "Weld Symbol Academy",
+        "ja": "溶接記号アカデミー",
+        "ko": "용접 기호 아카데미",
+        "es": "Academia de Símbolos de",
+        "pt": "Academia de Símbolos de Solda",
+        "de": "Schweißzeichen-Akademie",
+        "fr": "Académie des Symboles de",
+        "ru": "Академия сварочных знаков"
+      }
     }
   ]
 }
