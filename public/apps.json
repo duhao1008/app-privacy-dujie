@@ -764,6 +764,21 @@
         "fr": "Registre des Soumissions",
         "ru": "Реестр рукописей"
       }
+    },
+    {
+      "appleId": "6798370171",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "补货点",
+        "en": "Reorder Point",
+        "ja": "発注点",
+        "ko": "재주문점",
+        "es": "Punto de Pedido",
+        "pt": "Ponto de Reposição",
+        "de": "Meldebestand",
+        "fr": "Point de Commande",
+        "ru": "Точка заказа"
+      }
     }
   ]
 }
