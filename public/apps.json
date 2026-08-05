@@ -434,6 +434,21 @@
         "fr": "Liste Changement d’Adresse",
         "ru": "Список смены адреса"
       }
+    },
+    {
+      "appleId": "6798273417",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "油漆配比",
+        "en": "Paint Mix Ratio",
+        "ja": "塗料配合",
+        "ko": "페인트 배합",
+        "es": "Proporción de Pintura",
+        "pt": "Proporção de Tinta",
+        "de": "Lack-Mischverhältnis",
+        "fr": "Dosage de Peinture",
+        "ru": "Пропорции краски"
+      }
     }
   ]
 }
