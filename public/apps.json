@@ -629,6 +629,21 @@
         "fr": "Calculateur de courroies",
         "ru": "Расчёт ременной передачи"
       }
+    },
+    {
+      "appleId": "6798335487",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "钻球布局",
+        "en": "Bowling Layout Lab",
+        "ja": "ボウリングレイアウト研究所",
+        "ko": "볼링 레이아웃 랩",
+        "es": "Laboratorio de Layouts",
+        "pt": "Laboratório de Layouts",
+        "de": "Bowling Layout Labor",
+        "fr": "Laboratoire de Layouts",
+        "ru": "Лаборатория схем"
+      }
     }
   ]
 }
