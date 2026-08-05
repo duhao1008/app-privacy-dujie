@@ -344,6 +344,21 @@
         "fr": "Inventaire Maison",
         "ru": "Домашняя опись"
       }
+    },
+    {
+      "appleId": "6798238115",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "焊材用量",
+        "en": "Weld Consumable Calculator",
+        "ja": "溶接材料使用量計算",
+        "ko": "용접 소모재 계산기",
+        "es": "Cálculo de Consumibles",
+        "pt": "Cálculo de Consumíveis",
+        "de": "Schweißzusatz-Rechner",
+        "fr": "Calcul des Consommables",
+        "ru": "Расчёт сварочных материалов"
+      }
     }
   ]
 }
