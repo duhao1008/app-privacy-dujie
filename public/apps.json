@@ -194,6 +194,21 @@
         "fr": "SoundCue",
         "ru": "SoundCue"
       }
+    },
+    {
+      "appleId": "6798166713",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "搬家装箱",
+        "en": "Move Box Planner",
+        "ja": "引越し箱プランナー",
+        "ko": "이사 박스 플래너",
+        "es": "Planificador de Cajas",
+        "pt": "Planejador de Caixas",
+        "de": "Umzugskisten Planer",
+        "fr": "Planificateur de Cartons",
+        "ru": "Планировщик коробок"
+      }
     }
   ]
 }
