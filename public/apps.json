@@ -794,6 +794,21 @@
         "fr": "Atelier Masques d’Opéra",
         "ru": "Мастерская оперных масок"
       }
+    },
+    {
+      "appleId": "6798377510",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "家具入户尺",
+        "en": "Furniture Entry Gauge",
+        "ja": "家具搬入メジャー",
+        "ko": "가구 반입 측정기",
+        "es": "Medidor de Acceso",
+        "pt": "Medidor de Entrada",
+        "de": "Möbel-Einpasshilfe",
+        "fr": "Gabarit Meubles",
+        "ru": "Пронос мебели"
+      }
     }
   ]
 }
