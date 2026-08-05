@@ -734,6 +734,21 @@
         "fr": "Guide de Coulisses",
         "ru": "Разметка направляющих"
       }
+    },
+    {
+      "appleId": "6798362507",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "信号旗训练",
+        "en": "Signal Flag Trainer",
+        "ja": "国際信号旗トレーナー",
+        "ko": "국제 신호기 트레이너",
+        "es": "Entrenador de Banderas",
+        "pt": "Treino de Bandeiras",
+        "de": "Signalflaggen-Trainer",
+        "fr": "Entraîneur de Pavillons",
+        "ru": "Тренажёр морских флагов"
+      }
     }
   ]
 }
