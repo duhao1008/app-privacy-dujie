@@ -149,6 +149,21 @@
         "fr": "Recettes de Peinture",
         "ru": "Рецепты Красок"
       }
+    },
+    {
+      "slug": "sofaCoverPlanner",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "沙发套裁剪",
+        "en": "Sofa Cover Cut Planner",
+        "ja": "ソファカバー裁断プラン",
+        "ko": "소파 커버 재단 플래너",
+        "es": "Corte de Fundas de Sofá",
+        "pt": "Corte de Capas de Sofá",
+        "de": "Sofabezug Zuschnittplan",
+        "fr": "Plan de Housse de Canapé",
+        "ru": "Раскрой чехла для дивана"
+      }
     }
   ]
 }
