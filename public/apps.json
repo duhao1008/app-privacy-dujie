@@ -599,6 +599,21 @@
         "fr": "Animateur Quiz Musical",
         "ru": "Ведущий музыкальной викторины"
       }
+    },
+    {
+      "appleId": "6798327142",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "空调匹数",
+        "en": "AC Size Planner",
+        "ja": "エアコン容量プランナー",
+        "ko": "에어컨 용량 플래너",
+        "es": "Planificador de Aire",
+        "pt": "Planejador de Ar",
+        "de": "Klimaanlagen-Planer",
+        "fr": "Planificateur Clim",
+        "ru": "Подбор кондиционера"
+      }
     }
   ]
 }
