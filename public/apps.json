@@ -749,6 +749,21 @@
         "fr": "Entraîneur de Pavillons",
         "ru": "Тренажёр морских флагов"
       }
+    },
+    {
+      "appleId": "6798366935",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "投稿台账",
+        "en": "Submission Ledger",
+        "ja": "投稿台帳",
+        "ko": "투고 장부",
+        "es": "Registro de Envíos",
+        "pt": "Registro de Submissões",
+        "de": "Einreichungsregister",
+        "fr": "Registre des Soumissions",
+        "ru": "Реестр рукописей"
+      }
     }
   ]
 }
