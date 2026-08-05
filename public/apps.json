@@ -659,6 +659,21 @@
         "fr": "Tuteur de Tolérancement",
         "ru": "Тренажёр геомдопусков"
       }
+    },
+    {
+      "appleId": "6798343467",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "书架承重",
+        "en": "Shelf Load Planner",
+        "ja": "本棚耐荷重プランナー",
+        "ko": "책장 하중 플래너",
+        "es": "Planificador de Estantes",
+        "pt": "Planejador de Prateleiras",
+        "de": "Regallast Planer",
+        "fr": "Planificateur d'Étagères",
+        "ru": "Планировщик нагрузки полок"
+      }
     }
   ]
 }
