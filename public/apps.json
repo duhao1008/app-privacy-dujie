@@ -269,6 +269,21 @@
         "fr": "Chronologie Sous-titres",
         "ru": "Шкала субтитров"
       }
+    },
+    {
+      "appleId": "6798193891",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "越野悬挂簿",
+        "en": "Off-Road Suspension Log",
+        "ja": "オフロードサス記録帳",
+        "ko": "오프로드 서스펜션 로그",
+        "es": "Suspensión Off-Road",
+        "pt": "Suspensão Off-Road",
+        "de": "Offroad-Fahrwerkslog",
+        "fr": "Carnet Suspension Tout-Terrain",
+        "ru": "Журнал мотоподвески"
+      }
     }
   ]
 }
