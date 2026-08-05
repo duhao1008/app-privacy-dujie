@@ -89,6 +89,21 @@
         "fr": "Nœuds de Camping",
         "ru": "Походные узлы"
       }
+    },
+    {
+      "slug": "soapFormulaCalc",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "皂方计算",
+        "en": "Soap Formula Calculator",
+        "ja": "石けん配合計算",
+        "ko": "비누 레시피 계산기",
+        "es": "Fórmula de Jabón",
+        "pt": "Fórmula de Sabão",
+        "de": "Seifenformel-Rechner",
+        "fr": "Formule de Savon",
+        "ru": "Формула мыла"
+      }
     }
   ]
 }
