@@ -644,6 +644,21 @@
         "fr": "Laboratoire de Layouts",
         "ru": "Лаборатория схем"
       }
+    },
+    {
+      "appleId": "6798339565",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "形位公差通",
+        "en": "GD&T Tutor",
+        "ja": "幾何公差チューター",
+        "ko": "기하공차 튜터",
+        "es": "Tutor de Tolerancias",
+        "pt": "Tutor de Tolerâncias",
+        "de": "Geometrietoleranz-Trainer",
+        "fr": "Tuteur de Tolérancement",
+        "ru": "Тренажёр геомдопусков"
+      }
     }
   ]
 }
