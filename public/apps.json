@@ -689,6 +689,21 @@
         "fr": "Table de Bingo",
         "ru": "Ведущий бинго"
       }
+    },
+    {
+      "appleId": "6798350737",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "插座点位",
+        "en": "Outlet Layout Planner",
+        "ja": "コンセント配置プランナー",
+        "ko": "콘센트 배치 플래너",
+        "es": "Planificador de Enchufes",
+        "pt": "Planejador de Tomadas",
+        "de": "Steckdosenplaner",
+        "fr": "Planificateur de Prises",
+        "ru": "Планировщик Розеток"
+      }
     }
   ]
 }
