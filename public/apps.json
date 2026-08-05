@@ -389,6 +389,21 @@
         "fr": "Tuteur de Rugosité",
         "ru": "Учебник шероховатости"
       }
+    },
+    {
+      "appleId": "6798257398",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "书迁",
+        "en": "BookMove Planner",
+        "ja": "本の引越しプランナー",
+        "ko": "책이사 플래너",
+        "es": "Mudanza de Libros",
+        "pt": "Mudança de Livros",
+        "de": "Bücherumzug Planer",
+        "fr": "Déménagement de Livres",
+        "ru": "Переезд библиотеки"
+      }
     }
   ]
 }
