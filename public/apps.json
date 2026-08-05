@@ -779,6 +779,21 @@
         "fr": "Point de Commande",
         "ru": "Точка заказа"
       }
+    },
+    {
+      "appleId": "6798373509",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "脸谱工坊",
+        "en": "Opera Mask Studio",
+        "ja": "京劇隈取工房",
+        "ko": "경극 가면 공방",
+        "es": "Taller de Máscaras",
+        "pt": "Ateliê de Máscaras",
+        "de": "Opernmasken Atelier",
+        "fr": "Atelier Masques d’Opéra",
+        "ru": "Мастерская оперных масок"
+      }
     }
   ]
 }
