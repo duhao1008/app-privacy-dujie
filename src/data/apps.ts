@@ -25,7 +25,7 @@ export interface LocalizedText {
 }
 
 export interface PrivacyApp {
-  slug: string
+  appleId: string
   appName: LocalizedText
   lastUpdated: string
   contactEmail?: string
@@ -39,7 +39,7 @@ export const defaultContactEmail = 'duhao1008@126.com'
 
 export const fallbackPrivacyApps: PrivacyApp[] = [
   {
-    slug: 'cableDropCalc',
+    appleId: '6774123126',
     appName: {
       zh: '压降计算',
       en: 'Cable Drop Calc',
@@ -76,7 +76,7 @@ function isPrivacyApp(value: unknown): value is PrivacyApp {
   }
   const app = value as PrivacyApp
   return Boolean(
-    app.slug &&
+    app.appleId &&
       app.appName?.zh &&
       app.appName?.en &&
       app.appName?.ja &&
@@ -89,7 +89,7 @@ export function getLocalizedAppName(app: PrivacyApp, locale: Locale) {
   return app.appName[locale] || app.appName.en || app.appName.zh
 }
 
-export function findPrivacyApp(apps: PrivacyApp[], slug: string) {
-  const normalized = slug.replace(/\.html$/i, '')
-  return apps.find((app) => app.slug === normalized)
+export function findPrivacyApp(apps: PrivacyApp[], appleId: string) {
+  const normalized = appleId.replace(/\.html$/i, '')
+  return apps.find((app) => app.appleId === normalized)
 }

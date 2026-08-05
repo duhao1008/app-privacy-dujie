@@ -1,22 +1,7 @@
 {
   "apps": [
     {
-      "slug": "offlineSoundCueBoard",
-      "lastUpdated": "2026-08-04",
-      "appName": {
-        "zh": "现场音效板",
-        "en": "Live Sound Cueboard",
-        "ja": "ライブ音響キューボード",
-        "ko": "라이브 사운드 큐보드",
-        "es": "Panel de Sonido en Vivo",
-        "pt": "Painel de Som ao Vivo",
-        "de": "Live Sound Cueboard",
-        "fr": "Régie Sonore Live",
-        "ru": "Пульт звуковых сигналов"
-      }
-    },
-    {
-      "slug": "racketBalanceLab",
+      "appleId": "6797797214",
       "lastUpdated": "2026-08-04",
       "appName": {
         "zh": "拍衡",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "slug": "cineSlateLog",
+      "appleId": "6797885834",
       "lastUpdated": "2026-08-04",
       "appName": {
         "zh": "场记板2026",
@@ -46,7 +31,7 @@
       }
     },
     {
-      "slug": "golfSwingweightLab",
+      "appleId": "6797893881",
       "lastUpdated": "2026-08-04",
       "appName": {
         "zh": "球杆挥重",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "slug": "luoguRhythm",
+      "appleId": "6797987983",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "锣鼓经",
@@ -76,7 +61,7 @@
       }
     },
     {
-      "slug": "campKnotGuide",
+      "appleId": "6798078448",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "营绳结",
@@ -91,7 +76,7 @@
       }
     },
     {
-      "slug": "soapFormulaCalc",
+      "appleId": "6798078977",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "皂方计算",
@@ -106,7 +91,7 @@
       }
     },
     {
-      "slug": "spokeLengthLab",
+      "appleId": "6798079084",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "辐长工坊",
@@ -121,7 +106,7 @@
       }
     },
     {
-      "slug": "electronConfigTutor",
+      "appleId": "6798079191",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "电子排布",
@@ -136,7 +121,7 @@
       }
     },
     {
-      "slug": "modelPaintRecipe",
+      "appleId": "6798079261",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "涂装配方",
@@ -151,7 +136,7 @@
       }
     },
     {
-      "slug": "sofaCoverPlanner",
+      "appleId": "6798079619",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "沙发套裁剪",
@@ -166,7 +151,7 @@
       }
     },
     {
-      "slug": "cycleFitWorkbench",
+      "appleId": "6798080088",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "骑姿尺码",
@@ -181,7 +166,7 @@
       }
     },
     {
-      "slug": "6798146716",
+      "appleId": "6798146716",
       "lastUpdated": "2026-08-05",
       "appName": {
         "zh": "公差配合",

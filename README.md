@@ -8,7 +8,7 @@ Example:
 
 ```json
 {
-  "slug": "newAppProjectName",
+  "appleId": "6798079191",
   "appName": {
     "zh": "中文 App 名",
     "en": "English App Name",
@@ -27,15 +27,14 @@ The page uses fixed privacy-policy templates for each language and replaces the 
 
 Routes:
 
-- `/{slug}/zh`
-- `/{slug}/en`
-- `/{slug}/ja`
-- `/{slug}/ko`
-- `/{slug}/es`
-- `/{slug}/pt`
-- `/{slug}/de`
-- `/{slug}/fr`
-- legacy: `/app_privacy/{slug}.html`
+- `/{appleId}/zh`
+- `/{appleId}/en`
+- `/{appleId}/ja`
+- `/{appleId}/ko`
+- `/{appleId}/es`
+- `/{appleId}/pt`
+- `/{appleId}/de`
+- `/{appleId}/fr`
 
 Cloudflare Pages:
 

@@ -24,17 +24,17 @@ const routeInfo = computed(() => {
   const parts = route.path.split('/').filter(Boolean)
   if (parts[0] === 'app_privacy' && parts[1]) {
     return {
-      slug: parts[1].replace(/\.html$/i, ''),
+      appleId: parts[1].replace(/\.html$/i, ''),
       locale: 'zh' as Locale,
     }
   }
   return {
-    slug: parts[0] || '',
+    appleId: parts[0] || '',
     locale: locales.includes(parts[1] as Locale) ? (parts[1] as Locale) : ('zh' as Locale),
   }
 })
 
-const currentApp = computed(() => findPrivacyApp(apps.value, routeInfo.value.slug))
+const currentApp = computed(() => findPrivacyApp(apps.value, routeInfo.value.appleId))
 const locale = computed(() => routeInfo.value.locale)
 const email = computed(() => currentApp.value?.contactEmail || defaultContactEmail)
 
@@ -284,12 +284,12 @@ const currentAppName = computed(() => {
 <template>
   <main v-if="!currentApp" class="shell">
     <section class="panel">
-      <h1>{{ routeInfo.slug ? t.notFound : t.homeTitle }}</h1>
-      <p class="lead">{{ routeInfo.slug ? '' : t.homeLead }}</p>
+      <h1>{{ routeInfo.appleId ? t.notFound : t.homeTitle }}</h1>
+      <p class="lead">{{ routeInfo.appleId ? '' : t.homeLead }}</p>
       <div class="app-list">
-        <a v-for="item in apps" :key="item.slug" class="app-link" :href="`/${item.slug}/zh`">
+        <a v-for="item in apps" :key="item.appleId" class="app-link" :href="`/${item.appleId}/zh`">
           <strong>{{ getLocalizedAppName(item, 'zh') }}</strong>
-          <span>{{ item.slug }}</span>
+          <span>{{ item.appleId }}</span>
         </a>
       </div>
     </section>
@@ -298,7 +298,7 @@ const currentAppName = computed(() => {
   <main v-else class="shell">
     <article class="panel">
       <nav class="lang-nav" aria-label="Language">
-        <a v-for="item in locales" :key="item" :href="`/${currentApp.slug}/${item}`" :class="{ active: item === locale }">
+        <a v-for="item in locales" :key="item" :href="`/${currentApp.appleId}/${item}`" :class="{ active: item === locale }">
           {{ localeLabels[item] }}
         </a>
       </nav>
