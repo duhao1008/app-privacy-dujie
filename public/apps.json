@@ -134,6 +134,21 @@
         "fr": "Configuration Électronique",
         "ru": "Электронная конфигурация"
       }
+    },
+    {
+      "slug": "modelPaintRecipe",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "涂装配方",
+        "en": "Paint Recipe",
+        "ja": "塗装レシピ",
+        "ko": "도색 레시피",
+        "es": "Recetas de Pintura",
+        "pt": "Receitas de Pintura",
+        "de": "Farbrezepte",
+        "fr": "Recettes de Peinture",
+        "ru": "Рецепты Красок"
+      }
     }
   ]
 }
