@@ -494,6 +494,21 @@
         "fr": "Signes de correction",
         "ru": "Корректорские знаки"
       }
+    },
+    {
+      "appleId": "6798298836",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "请柬称谓",
+        "en": "Wedding Title Guide",
+        "ja": "結婚招待状の敬称",
+        "ko": "청첩장 호칭 가이드",
+        "es": "Títulos para Invitaciones",
+        "pt": "Títulos para Convites",
+        "de": "Anrede für Hochzeiten",
+        "fr": "Titres pour Invitations",
+        "ru": "Обращения для свадьбы"
+      }
     }
   ]
 }
