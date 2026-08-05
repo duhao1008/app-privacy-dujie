@@ -404,6 +404,21 @@
         "fr": "Déménagement de Livres",
         "ru": "Переезд библиотеки"
       }
+    },
+    {
+      "appleId": "6798263454",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "片尾工坊",
+        "en": "Credit Roll Studio",
+        "ja": "エンドロール工房",
+        "ko": "엔딩 크레딧 스튜디오",
+        "es": "Taller de Créditos",
+        "pt": "Estúdio de Créditos",
+        "de": "Abspann Studio",
+        "fr": "Studio de Générique",
+        "ru": "Студия титров"
+      }
     }
   ]
 }
