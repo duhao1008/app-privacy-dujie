@@ -419,6 +419,21 @@
         "fr": "Studio de Générique",
         "ru": "Студия титров"
       }
+    },
+    {
+      "appleId": "6798267708",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "改址清单",
+        "en": "Move Address Checklist",
+        "ja": "引越し住所変更リスト",
+        "ko": "이사 주소 변경 목록",
+        "es": "Lista Cambio de Domicilio",
+        "pt": "Checklist de Novo Endereço",
+        "de": "Umzugs-Adresscheckliste",
+        "fr": "Liste Changement d’Adresse",
+        "ru": "Список смены адреса"
+      }
     }
   ]
 }
