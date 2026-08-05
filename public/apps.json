@@ -179,6 +179,21 @@
         "fr": "Atelier Bike Fit",
         "ru": "Мастерская велофита"
       }
+    },
+    {
+      "slug": "6798146716",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "公差配合",
+        "en": "Tolerance Fit Lab",
+        "ja": "公差・はめあいラボ",
+        "ko": "공차 끼워맞춤 랩",
+        "es": "Laboratorio de Ajustes",
+        "pt": "Laboratório de Ajustes",
+        "de": "Toleranz & Passung Labor",
+        "fr": "Laboratoire des Ajustements",
+        "ru": "Лаборатория допусков"
+      }
     }
   ]
 }
