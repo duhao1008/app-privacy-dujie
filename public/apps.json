@@ -554,6 +554,21 @@
         "fr": "Plan d'Essais",
         "ru": "План попыток"
       }
+    },
+    {
+      "appleId": "6798313153",
+      "lastUpdated": "2026-08-05",
+      "appName": {
+        "zh": "螺纹标注通",
+        "en": "Thread Mark Tutor",
+        "ja": "ねじ記号トレーナー",
+        "ko": "나사 표기 학습기",
+        "es": "Tutor de Roscas",
+        "pt": "Tutor de Roscas",
+        "de": "Gewindezeichen-Trainer",
+        "fr": "Tuteur de Filetages",
+        "ru": "Тренажёр резьб"
+      }
     }
   ]
 }
