@@ -809,6 +809,21 @@
         "fr": "Gabarit Meubles",
         "ru": "Пронос мебели"
       }
+    },
+    {
+      "appleId": "6798463614",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "帆船让分",
+        "en": "Sail Handicap",
+        "ja": "セーリングハンディキャップ",
+        "ko": "세일링 핸디캡",
+        "es": "Hándicap de Vela",
+        "pt": "Handicap de Vela",
+        "de": "Segel-Handicap",
+        "fr": "Handicap Voile",
+        "ru": "Гандикап парусных гонок"
+      }
     }
   ]
 }
