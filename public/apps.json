@@ -1889,6 +1889,21 @@
         "fr": "Matrice de Décision",
         "ru": "Матрица решений"
       }
+    },
+    {
+      "appleId": "6798787924",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "接力排阵",
+        "en": "Relay Lineup Lab",
+        "ja": "リレーオーダー研究室",
+        "ko": "계주 라인업 연구소",
+        "es": "Laboratorio de Relevos",
+        "pt": "Laboratório de Revezamento",
+        "de": "Staffelauf Labor",
+        "fr": "Labo Relais",
+        "ru": "Лаборатория эстафеты"
+      }
     }
   ]
 }
