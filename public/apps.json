@@ -1109,6 +1109,21 @@
         "fr": "Points Épreuves Combinées",
         "ru": "Очки многоборья"
       }
+    },
+    {
+      "appleId": "6798515074",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "船灯号型",
+        "en": "Vessel Lights Trainer",
+        "ja": "船舶灯火・形象物トレーナー",
+        "ko": "선박 등화·형상물 트레이너",
+        "es": "Luces y Marcas de Buques",
+        "pt": "Luzes e Marcas de Navios",
+        "de": "Schiffslichter-Trainer",
+        "fr": "Feux et Marques de Navires",
+        "ru": "Огни и знаки судов"
+      }
     }
   ]
 }
