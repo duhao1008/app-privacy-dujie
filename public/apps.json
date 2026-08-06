@@ -914,6 +914,21 @@
         "fr": "Chronomètre d’agenda",
         "ru": "Таймер повестки"
       }
+    },
+    {
+      "appleId": "6798477366",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "开卷索引贴",
+        "en": "OpenBook Tab Planner",
+        "ja": "開巻インデックスタブ",
+        "ko": "오픈북 인덱스 탭",
+        "es": "Planificador de Pestañas",
+        "pt": "Planejador de Abas",
+        "de": "Buchregister Planer",
+        "fr": "Planificateur d’Onglets",
+        "ru": "Планировщик вкладок"
+      }
     }
   ]
 }
