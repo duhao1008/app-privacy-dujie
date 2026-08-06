@@ -1499,6 +1499,21 @@
         "fr": "CompteMailles",
         "ru": "Счётчик петель"
       }
+    },
+    {
+      "appleId": "6798632159",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "链传动尺",
+        "en": "Chain Drive Calculator",
+        "ja": "チェーン伝動計算機",
+        "ko": "체인 드라이브 계산기",
+        "es": "Calculadora de Cadenas",
+        "pt": "Calculadora de Correntes",
+        "de": "Kettenantrieb-Rechner",
+        "fr": "Calculateur de Chaînes",
+        "ru": "Расчёт цепной передачи"
+      }
     }
   ]
 }
