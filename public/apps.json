@@ -1004,6 +1004,21 @@
         "fr": "Exercices de Boulier",
         "ru": "Тренажёр абакуса"
       }
+    },
+    {
+      "appleId": "6798494374",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "书架排布",
+        "en": "Shelf Planner",
+        "ja": "本棚レイアウト",
+        "ko": "책장 배치",
+        "es": "Organizador de Estantes",
+        "pt": "Organizador de Estantes",
+        "de": "Bücherregal-Planer",
+        "fr": "Organisateur d’étagères",
+        "ru": "Расстановка книг"
+      }
     }
   ]
 }
