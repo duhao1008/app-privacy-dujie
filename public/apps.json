@@ -944,6 +944,21 @@
         "fr": "Feuille d'Animation",
         "ru": "Эксполист анимации"
       }
+    },
+    {
+      "appleId": "6798482202",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "布灯助手",
+        "en": "Light Layout Helper",
+        "ja": "照明レイアウト助手",
+        "ko": "조명 배치 도우미",
+        "es": "Asistente de Iluminación",
+        "pt": "Assistente de Iluminação",
+        "de": "Lichtplaner Helfer",
+        "fr": "Assistant Plan d'Éclairage",
+        "ru": "Помощник по освещению"
+      }
     }
   ]
 }
