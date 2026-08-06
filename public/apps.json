@@ -824,6 +824,21 @@
         "fr": "Handicap Voile",
         "ru": "Гандикап парусных гонок"
       }
+    },
+    {
+      "appleId": "6798463870",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "钢筋下料",
+        "en": "Rebar Cut Planner",
+        "ja": "鉄筋切断プランナー",
+        "ko": "철근 절단 플래너",
+        "es": "Corte de Barras",
+        "pt": "Corte de Vergalhão",
+        "de": "Bewehrungsstahl Zuschnitt",
+        "fr": "Plan de Coupe Ferraillage",
+        "ru": "Раскрой арматуры"
+      }
     }
   ]
 }
