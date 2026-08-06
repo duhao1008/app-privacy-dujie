@@ -1589,6 +1589,21 @@
         "fr": "Registre de Clés",
         "ru": "Журнал ключей"
       }
+    },
+    {
+      "appleId": "6798661115",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "配音对戏器",
+        "en": "Dub Scene Studio",
+        "ja": "アフレコ対演スタジオ",
+        "ko": "더빙 대사 연습실",
+        "es": "Estudio de Doblaje",
+        "pt": "Estúdio de Dublagem",
+        "de": "Synchronstudio",
+        "fr": "Studio de Doublage",
+        "ru": "Студия дубляжа"
+      }
     }
   ]
 }
