@@ -1454,6 +1454,21 @@
         "fr": "Folios de Livres Anciens",
         "ru": "Листы старинных книг"
       }
+    },
+    {
+      "appleId": "6798614547",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "托盘码垛",
+        "en": "Pallet Stack Planner",
+        "ja": "パレット積付プランナー",
+        "ko": "팔레트 적재 플래너",
+        "es": "Planificador de Palés",
+        "pt": "Planejador de Paletes",
+        "de": "Paletten-Stapelplaner",
+        "fr": "Planificateur de Palettes",
+        "ru": "Планировщик палет"
+      }
     }
   ]
 }
