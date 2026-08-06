@@ -2129,6 +2129,21 @@
         "fr": "Journal de Torréfaction",
         "ru": "Журнал обжарки"
       }
+    },
+    {
+      "appleId": "6798855726",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "弓瞄刻度",
+        "en": "Archery Sight Scale",
+        "ja": "アーチェリーサイト目盛",
+        "ko": "양궁 사이트 눈금",
+        "es": "Escala de Mira de Tiro",
+        "pt": "Escala de Mira do Arco",
+        "de": "Bogenvisier-Skala",
+        "fr": "Échelle de Viseur Arc",
+        "ru": "Шкала прицела для лука"
+      }
     }
   ]
 }
