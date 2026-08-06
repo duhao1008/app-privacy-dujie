@@ -1409,6 +1409,21 @@
         "fr": "Calcul de Boîtes Carton",
         "ru": "Раскрой коробок"
       }
+    },
+    {
+      "appleId": "6798602779",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "线杯容量",
+        "en": "Spool Capacity Planner",
+        "ja": "スプール容量プランナー",
+        "ko": "스풀 용량 플래너",
+        "es": "Planificador de Carrete",
+        "pt": "Planejador de Carretel",
+        "de": "Spulenkapazität Planer",
+        "fr": "Planificateur de Bobine",
+        "ru": "Планировщик шпули"
+      }
     }
   ]
 }
