@@ -1919,6 +1919,21 @@
         "fr": "Morse : Entraînement",
         "ru": "Азбука Морзе: Диктант"
       }
+    },
+    {
+      "appleId": "6798801250",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "版心工坊",
+        "en": "Banxin Studio",
+        "ja": "版心工房",
+        "ko": "판심 공방",
+        "es": "Taller Banxin",
+        "pt": "Ateliê Banxin",
+        "de": "Banxin Werkstatt",
+        "fr": "Atelier Banxin",
+        "ru": "Мастерская Баньсинь"
+      }
     }
   ]
 }
