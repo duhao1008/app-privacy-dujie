@@ -1874,6 +1874,21 @@
         "fr": "Calcul de Ressorts",
         "ru": "Расчёт пружин"
       }
+    },
+    {
+      "appleId": "6798786356",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "决策矩阵本",
+        "en": "Decision Matrix Notebook",
+        "ja": "意思決定マトリクスノート",
+        "ko": "의사결정 매트릭스 노트",
+        "es": "Matriz de Decisiones",
+        "pt": "Matriz de Decisões",
+        "de": "Entscheidungsmatrix",
+        "fr": "Matrice de Décision",
+        "ru": "Матрица решений"
+      }
     }
   ]
 }
