@@ -1769,6 +1769,21 @@
         "fr": "Calculateur de Timecode",
         "ru": "Калькулятор таймкода"
       }
+    },
+    {
+      "appleId": "6798752499",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "力量积分",
+        "en": "Strength Points",
+        "ja": "パワーリフティングポイント",
+        "ko": "스트렝스 포인트",
+        "es": "Puntos de Fuerza",
+        "pt": "Pontos de Força",
+        "de": "Kraftpunkte",
+        "fr": "Points de Force",
+        "ru": "Очки силы"
+      }
     }
   ]
 }
