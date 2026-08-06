@@ -1709,6 +1709,21 @@
         "fr": "Registre des Remises",
         "ru": "Книга расчёта бонусов"
       }
+    },
+    {
+      "appleId": "6798729232",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "押韵词典",
+        "en": "Chinese Rhyme Dictionary",
+        "ja": "中国語韻辞典",
+        "ko": "중국어 운율 사전",
+        "es": "Rimas Chinas",
+        "pt": "Rimas Chinesas",
+        "de": "Chinesisches Reimlexikon",
+        "fr": "Dictionnaire de rimes",
+        "ru": "Словарь китайских рифм"
+      }
     }
   ]
 }
