@@ -2174,6 +2174,21 @@
         "fr": "Planificateur de Couverture",
         "ru": "Раскрой книжной крышки"
       }
+    },
+    {
+      "appleId": "6798865523",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "寄售分账",
+        "en": "Consignment Ledger",
+        "ja": "委託販売分配台帳",
+        "ko": "위탁판매 정산장부",
+        "es": "Libro de Consignación",
+        "pt": "Livro de Consignação",
+        "de": "Kommissionsbuch",
+        "fr": "Registre de Dépôt-Vente",
+        "ru": "Учёт консигнации"
+      }
     }
   ]
 }
