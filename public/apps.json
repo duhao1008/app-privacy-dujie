@@ -1529,6 +1529,21 @@
         "fr": "Guide de Perçage Taraudage",
         "ru": "Справочник отверстий"
       }
+    },
+    {
+      "appleId": "6798642149",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "雪鞋调校",
+        "en": "BootFit Log",
+        "ja": "スキーブーツ調整記録",
+        "ko": "스키부츠 핏 로그",
+        "es": "Diario BootFit",
+        "pt": "Diário BootFit",
+        "de": "BootFit Tagebuch",
+        "fr": "Journal BootFit",
+        "ru": "Дневник BootFit"
+      }
     }
   ]
 }
