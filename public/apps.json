@@ -2024,6 +2024,21 @@
         "fr": "Carnet de Ball-Trap",
         "ru": "Дневник стендовой стрельбы"
       }
+    },
+    {
+      "appleId": "6798825518",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "牙位研习",
+        "en": "Dental Notation Atlas",
+        "ja": "歯式アトラス",
+        "ko": "치아 표기 아틀라스",
+        "es": "Atlas de Notación Dental",
+        "pt": "Atlas de Notação Dentária",
+        "de": "Zahnschema Atlas",
+        "fr": "Atlas de Notation Dentaire",
+        "ru": "Атлас зубных обозначений"
+      }
     }
   ]
 }
