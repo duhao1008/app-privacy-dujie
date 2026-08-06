@@ -869,6 +869,21 @@
         "fr": "Labo Revêtements Ping",
         "ru": "Лаборатория накладок"
       }
+    },
+    {
+      "appleId": "6798471114",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "胶缝用量",
+        "en": "Sealant Joint Planner",
+        "ja": "シーリング材使用量",
+        "ko": "실란트 줄눈 사용량",
+        "es": "Planificador de Sellador",
+        "pt": "Planejador de Selante",
+        "de": "Fugenplaner",
+        "fr": "Planificateur de Joints",
+        "ru": "Расчёт герметика"
+      }
     }
   ]
 }
