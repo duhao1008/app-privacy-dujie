@@ -1574,6 +1574,21 @@
         "fr": "Désherbage de Collections",
         "ru": "Списание фонда"
       }
+    },
+    {
+      "appleId": "6798655626",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "钥匙台账",
+        "en": "Key Ledger",
+        "ja": "鍵台帳",
+        "ko": "열쇠 대장",
+        "es": "Registro de Llaves",
+        "pt": "Registro de Chaves",
+        "de": "Schlüsselregister",
+        "fr": "Registre de Clés",
+        "ru": "Журнал ключей"
+      }
     }
   ]
 }
