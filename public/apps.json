@@ -1514,6 +1514,21 @@
         "fr": "Calculateur de Chaînes",
         "ru": "Расчёт цепной передачи"
       }
+    },
+    {
+      "appleId": "6798638379",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "攻丝底孔",
+        "en": "Tap Drill Guide",
+        "ja": "タップ下穴ガイド",
+        "ko": "탭 드릴 가이드",
+        "es": "Guía de Brocas para Roscar",
+        "pt": "Guia de Brocas para Rosca",
+        "de": "Kernloch-Ratgeber",
+        "fr": "Guide de Perçage Taraudage",
+        "ru": "Справочник отверстий"
+      }
     }
   ]
 }
