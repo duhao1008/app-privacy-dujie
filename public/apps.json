@@ -1394,6 +1394,21 @@
         "fr": "Apport Thermique Soudage",
         "ru": "Тепловложение при сварке"
       }
+    },
+    {
+      "appleId": "6798596296",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "纸箱展开计算",
+        "en": "Carton Layout Calculator",
+        "ja": "段ボール展開計算",
+        "ko": "골판지 상자 전개 계산기",
+        "es": "Cálculo de Cajas",
+        "pt": "Cálculo de Caixas",
+        "de": "Karton-Zuschnittrechner",
+        "fr": "Calcul de Boîtes Carton",
+        "ru": "Раскрой коробок"
+      }
     }
   ]
 }
