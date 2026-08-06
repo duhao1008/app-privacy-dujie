@@ -1979,6 +1979,21 @@
         "fr": "Équilibre Plancher Chauffant",
         "ru": "Баланс тёплого пола"
       }
+    },
+    {
+      "appleId": "6798813986",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "瓷砖排版尺",
+        "en": "Tile Layout Ruler",
+        "ja": "タイル割付定規",
+        "ko": "타일 배치 자",
+        "es": "Regla de Azulejos",
+        "pt": "Régua de Azulejos",
+        "de": "Fliesenplaner",
+        "fr": "Règle de Carrelage",
+        "ru": "Раскладка плитки"
+      }
     }
   ]
 }
