@@ -1259,6 +1259,21 @@
         "fr": "Mesures Ergonomiques",
         "ru": "Эрго Размеры"
       }
+    },
+    {
+      "appleId": "6798557352",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "铆钉选型",
+        "en": "Rivet Size Guide",
+        "ja": "リベット選定",
+        "ko": "리벳 규격 도우미",
+        "es": "Guía de Remaches",
+        "pt": "Guia de Rebites",
+        "de": "Nietgrößen-Ratgeber",
+        "fr": "Guide des Rivets",
+        "ru": "Подбор заклёпок"
+      }
     }
   ]
 }
