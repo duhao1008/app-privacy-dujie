@@ -1349,6 +1349,21 @@
         "fr": "Vote des Actionnaires",
         "ru": "Реестр голосования"
       }
+    },
+    {
+      "appleId": "6798587519",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "灯谜主持台",
+        "en": "Lantern Riddle Host",
+        "ja": "灯籠なぞなぞ司会台",
+        "ko": "등불 수수께끼 진행자",
+        "es": "Anfitrión de Acertijos",
+        "pt": "Mestre de Charadas",
+        "de": "Laternenrätsel Moderator",
+        "fr": "Maître des Énigmes",
+        "ru": "Ведущий загадок"
+      }
     }
   ]
 }
