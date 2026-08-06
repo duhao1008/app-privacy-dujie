@@ -1934,6 +1934,21 @@
         "fr": "Atelier Banxin",
         "ru": "Мастерская Баньсинь"
       }
+    },
+    {
+      "appleId": "6798803190",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "骑缝章定位",
+        "en": "Seam Seal Planner",
+        "ja": "割印位置プランナー",
+        "ko": "간인 위치 플래너",
+        "es": "Planificador Sello Unido",
+        "pt": "Planejador de Selo Contínuo",
+        "de": "Seitenstempel-Planer",
+        "fr": "Planificateur Sceau Relié",
+        "ru": "Планировщик сквозной печати"
+      }
     }
   ]
 }
