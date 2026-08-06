@@ -1439,6 +1439,21 @@
         "fr": "Décodeur METAR",
         "ru": "Декодер METAR"
       }
+    },
+    {
+      "appleId": "6798611331",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "古籍叶码",
+        "en": "Ancient Book Folios",
+        "ja": "古書葉番号",
+        "ko": "고서 엽수",
+        "es": "Folios de Libros Antiguos",
+        "pt": "Fólios de Livros Antigos",
+        "de": "Alte Buchfolien",
+        "fr": "Folios de Livres Anciens",
+        "ru": "Листы старинных книг"
+      }
     }
   ]
 }
