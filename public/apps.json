@@ -2099,6 +2099,21 @@
         "fr": "Règle de Carrelage",
         "ru": "Линейка плитки"
       }
+    },
+    {
+      "appleId": "6798843033",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "支架孔距卡",
+        "en": "Bracket Hole Pitch Card",
+        "ja": "ブラケット穴ピッチカード",
+        "ko": "브래킷 구멍 간격 카드",
+        "es": "Ficha de Paso de Soportes",
+        "pt": "Ficha de Furos de Suporte",
+        "de": "Halter-Lochabstandskarte",
+        "fr": "Fiche Entraxe de Support",
+        "ru": "Карта отверстий крепежа"
+      }
     }
   ]
 }
