@@ -1124,6 +1124,21 @@
         "fr": "Feux et Marques de Navires",
         "ru": "Огни и знаки судов"
       }
+    },
+    {
+      "appleId": "6798515614",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "族谱世系簿",
+        "en": "Family Lineage Book",
+        "ja": "家系系譜帳",
+        "ko": "가족 계보책",
+        "es": "Libro de Linaje Familiar",
+        "pt": "Livro de Linhagem Familiar",
+        "de": "Familienlinienbuch",
+        "fr": "Registre de Lignée",
+        "ru": "Книга родословной"
+      }
     }
   ]
 }
