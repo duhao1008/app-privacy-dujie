@@ -1964,6 +1964,21 @@
         "fr": "Carnet ScoutFrame",
         "ru": "Блокнот СкаутКадр"
       }
+    },
+    {
+      "appleId": "6798810137",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "地暖调平",
+        "en": "Floor Heat Balance",
+        "ja": "床暖房バランス",
+        "ko": "바닥난방 밸런스",
+        "es": "Equilibrio de Suelo Térmico",
+        "pt": "Equilíbrio do Piso Térmico",
+        "de": "Fußbodenheizung Balance",
+        "fr": "Équilibre Plancher Chauffant",
+        "ru": "Баланс тёплого пола"
+      }
     }
   ]
 }
