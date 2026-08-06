@@ -1544,6 +1544,21 @@
         "fr": "Journal BootFit",
         "ru": "Дневник BootFit"
       }
+    },
+    {
+      "appleId": "6798646867",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "量具读数",
+        "en": "Gauge Reading Trainer",
+        "ja": "測定器の読み方トレーナー",
+        "ko": "측정기 읽기 트레이너",
+        "es": "Entrenador de Medición",
+        "pt": "Treinador de Medição",
+        "de": "Messgeräte-Lesetrainer",
+        "fr": "Entraîneur de Mesure",
+        "ru": "Тренажёр измерений"
+      }
     }
   ]
 }
