@@ -1694,6 +1694,21 @@
         "fr": "Atelier Ex-Libris",
         "ru": "Мастерская экслибриса"
       }
+    },
+    {
+      "appleId": "6798724185",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "返利核算簿",
+        "en": "Rebate Ledger",
+        "ja": "リベート計算帳",
+        "ko": "리베이트 계산장",
+        "es": "Libro de Reembolsos",
+        "pt": "Livro de Bonificações",
+        "de": "Bonus-Abrechnungsbuch",
+        "fr": "Registre des Remises",
+        "ru": "Книга расчёта бонусов"
+      }
     }
   ]
 }
