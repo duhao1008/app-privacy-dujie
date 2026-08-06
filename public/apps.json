@@ -2039,6 +2039,21 @@
         "fr": "Atlas de Notation Dentaire",
         "ru": "Атлас зубных обозначений"
       }
+    },
+    {
+      "appleId": "6798828759",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "避讳字考",
+        "en": "Chinese Taboo Characters",
+        "ja": "避諱字考",
+        "ko": "피휘 문자 고증",
+        "es": "Caracteres Tabú Chinos",
+        "pt": "Caracteres Tabu Chineses",
+        "de": "Chinesische Tabuzeichen",
+        "fr": "Caractères Tabous Chinois",
+        "ru": "Китайские табу-иероглифы"
+      }
     }
   ]
 }
