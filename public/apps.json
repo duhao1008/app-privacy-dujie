@@ -1994,6 +1994,21 @@
         "fr": "Règle de Carrelage",
         "ru": "Раскладка плитки"
       }
+    },
+    {
+      "appleId": "6798818005",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "拍摄场记",
+        "en": "Take Ledger",
+        "ja": "撮影テイク記録",
+        "ko": "촬영 테이크 기록",
+        "es": "Registro de Tomas",
+        "pt": "Registro de Takes",
+        "de": "Take-Protokoll",
+        "fr": "Carnet de Prises",
+        "ru": "Журнал дублей"
+      }
     }
   ]
 }
