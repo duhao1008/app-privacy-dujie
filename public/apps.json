@@ -2234,6 +2234,21 @@
         "fr": "Carnet de Cuisson",
         "ru": "Журнал обжига"
       }
+    },
+    {
+      "appleId": "6798885443",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "圈槽尺",
+        "en": "O-Ring Groove Gauge",
+        "ja": "Oリング溝ゲージ",
+        "ko": "오링 홈 게이지",
+        "es": "Medidor de Ranuras O-Ring",
+        "pt": "Medidor de Ranhuras O-Ring",
+        "de": "O-Ring-Nutenlehre",
+        "fr": "Jauge de Gorge pour Joint",
+        "ru": "Калибр канавок O-Ring"
+      }
     }
   ]
 }
