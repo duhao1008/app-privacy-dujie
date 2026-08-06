@@ -1754,6 +1754,21 @@
         "fr": "Diviseur de Cercle",
         "ru": "Делитель окружности"
       }
+    },
+    {
+      "appleId": "6798745133",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "时间码帧数计算器",
+        "en": "Timecode Frame Calculator",
+        "ja": "タイムコード・フレーム計算機",
+        "ko": "타임코드 프레임 계산기",
+        "es": "Calculadora de Timecode",
+        "pt": "Calculadora de Timecode",
+        "de": "Timecode Bildrechner",
+        "fr": "Calculateur de Timecode",
+        "ru": "Калькулятор таймкода"
+      }
     }
   ]
 }
