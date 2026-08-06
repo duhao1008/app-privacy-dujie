@@ -2114,6 +2114,21 @@
         "fr": "Fiche Entraxe de Support",
         "ru": "Карта отверстий крепежа"
       }
+    },
+    {
+      "appleId": "6798846606",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "烘豆批次",
+        "en": "Roast Batch Journal",
+        "ja": "焙煎バッチノート",
+        "ko": "로스팅 배치 노트",
+        "es": "Diario de Tostado",
+        "pt": "Diário de Torra",
+        "de": "RöstChargenbuch",
+        "fr": "Journal de Torréfaction",
+        "ru": "Журнал обжарки"
+      }
     }
   ]
 }
