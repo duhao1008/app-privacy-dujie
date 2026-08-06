@@ -1184,6 +1184,21 @@
         "fr": "StitchGrid",
         "ru": "StitchGrid"
       }
+    },
+    {
+      "appleId": "6798535477",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "液压识图",
+        "en": "Fluid Symbol Tutor",
+        "ja": "油圧記号トレーナー",
+        "ko": "유압 기호 트레이너",
+        "es": "Tutor de Símbolos Fluidos",
+        "pt": "Tutor de Símbolos Fluidos",
+        "de": "Fluidzeichen Trainer",
+        "fr": "Tuteur Symboles Fluides",
+        "ru": "Тренер гидросимволов"
+      }
     }
   ]
 }
