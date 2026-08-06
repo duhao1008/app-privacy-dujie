@@ -1319,6 +1319,21 @@
         "fr": "Tuteur de Code CNC",
         "ru": "Тренажёр CNC-кодов"
       }
+    },
+    {
+      "appleId": "6798574660",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "版权页工坊",
+        "en": "Copyright Page Studio",
+        "ja": "奥付工房",
+        "ko": "판권면 공방",
+        "es": "Taller de Créditos",
+        "pt": "Ateliê de Créditos",
+        "de": "Impressum-Werkstatt",
+        "fr": "Atelier de Mentions",
+        "ru": "Мастерская выходных данных"
+      }
     }
   ]
 }
