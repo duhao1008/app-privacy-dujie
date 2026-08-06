@@ -1199,6 +1199,21 @@
         "fr": "Tuteur Symboles Fluides",
         "ru": "Тренер гидросимволов"
       }
+    },
+    {
+      "appleId": "6798538267",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "稿期",
+        "en": "Draft Deadline",
+        "ja": "原稿締切",
+        "ko": "원고 마감",
+        "es": "Plazo de Escritura",
+        "pt": "Prazo de Escrita",
+        "de": "Schreibfrist",
+        "fr": "Échéance d'Écriture",
+        "ru": "Срок Рукописи"
+      }
     }
   ]
 }
