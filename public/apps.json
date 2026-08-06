@@ -1799,6 +1799,21 @@
         "fr": "Lecture Plans Béton Armé",
         "ru": "Учебник по схемам арматуры"
       }
+    },
+    {
+      "appleId": "6798761355",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "异体字考",
+        "en": "Han Variant Lexicon",
+        "ja": "異体字考",
+        "ko": "이체자 고증",
+        "es": "Variantes Han",
+        "pt": "Variantes Han",
+        "de": "Han-Schriftvarianten",
+        "fr": "Variantes Han",
+        "ru": "Варианты иероглифов"
+      }
     }
   ]
 }
