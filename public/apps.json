@@ -1784,6 +1784,21 @@
         "fr": "Points de Force",
         "ru": "Очки силы"
       }
+    },
+    {
+      "appleId": "6798756061",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "平法识图",
+        "en": "Rebar Drawing Tutor",
+        "ja": "鉄筋配筋図トレーナー",
+        "ko": "철근 배근도 학습",
+        "es": "Tutor de Planos de Armado",
+        "pt": "Tutor de Plantas de Armação",
+        "de": "Bewehrungsplan-Trainer",
+        "fr": "Lecture Plans Béton Armé",
+        "ru": "Учебник по схемам арматуры"
+      }
     }
   ]
 }
