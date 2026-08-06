@@ -854,6 +854,21 @@
         "fr": "Calculateur Queue d'Aronde",
         "ru": "Расчёт ласточкина хвоста"
       }
+    },
+    {
+      "appleId": "6798470690",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "乒乓配胶",
+        "en": "Table Tennis Rubber Lab",
+        "ja": "卓球ラバー研究室",
+        "ko": "탁구 러버 연구소",
+        "es": "Laboratorio de Gomas TT",
+        "pt": "Laboratório de Borrachas",
+        "de": "Tischtennis-Belaglabor",
+        "fr": "Labo Revêtements Ping",
+        "ru": "Лаборатория накладок"
+      }
     }
   ]
 }
