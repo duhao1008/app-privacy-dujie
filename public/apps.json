@@ -974,6 +974,21 @@
         "fr": "Capacité du Tambour",
         "ru": "Ёмкость канатного барабана"
       }
+    },
+    {
+      "appleId": "6798492287",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "冰刀研磨册",
+        "en": "Blade Hollow Log",
+        "ja": "スケート研磨ログ",
+        "ko": "스케이트 날 연마 기록",
+        "es": "Diario de Afilado",
+        "pt": "Diário de Afiação",
+        "de": "Kufenschliff-Tagebuch",
+        "fr": "Carnet d’Affûtage",
+        "ru": "Журнал заточки коньков"
+      }
     }
   ]
 }
