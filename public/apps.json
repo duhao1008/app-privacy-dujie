@@ -1304,6 +1304,21 @@
         "fr": "Volume de Planche",
         "ru": "Объём серфборда"
       }
+    },
+    {
+      "appleId": "6798570323",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "数控代码通",
+        "en": "CNC Code Tutor",
+        "ja": "CNCコード学習帳",
+        "ko": "CNC 코드 튜터",
+        "es": "Tutor de Código CNC",
+        "pt": "Tutor de Código CNC",
+        "de": "CNC-Code-Trainer",
+        "fr": "Tuteur de Code CNC",
+        "ru": "Тренажёр CNC-кодов"
+      }
     }
   ]
 }
