@@ -1214,6 +1214,21 @@
         "fr": "Échéance d'Écriture",
         "ru": "Срок Рукописи"
       }
+    },
+    {
+      "appleId": "6798543188",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "纸箱抗压",
+        "en": "Carton Strength",
+        "ja": "段ボール圧縮強度",
+        "ko": "골판지 상자 강도",
+        "es": "Resistencia de Cajas",
+        "pt": "Resistência de Caixas",
+        "de": "Kartondruckfestigkeit",
+        "fr": "Résistance des Cartons",
+        "ru": "Прочность коробок"
+      }
     }
   ]
 }
