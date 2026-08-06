@@ -2144,6 +2144,21 @@
         "fr": "Échelle de Viseur Arc",
         "ru": "Шкала прицела для лука"
       }
+    },
+    {
+      "appleId": "6798870275",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "点字练习",
+        "en": "Braille Dot Practice",
+        "ja": "点字トレーニング",
+        "ko": "점자 연습",
+        "es": "Práctica Braille",
+        "pt": "Prática de Braille",
+        "de": "Braille-Punktetraining",
+        "fr": "Exercices de braille",
+        "ru": "Тренажёр Брайля"
+      }
     }
   ]
 }
