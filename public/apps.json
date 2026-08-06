@@ -1739,6 +1739,21 @@
         "fr": "Planificateur de Plinthes",
         "ru": "Расчёт плинтуса"
       }
+    },
+    {
+      "appleId": "6798738881",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "孔位分度",
+        "en": "Bolt Circle Indexer",
+        "ja": "穴位置インデックス",
+        "ko": "홀 원주 분할기",
+        "es": "Divisor de Círculo",
+        "pt": "Divisor de Círculo",
+        "de": "Lochkreis-Teiler",
+        "fr": "Diviseur de Cercle",
+        "ru": "Делитель окружности"
+      }
     }
   ]
 }
