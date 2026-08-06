@@ -1604,6 +1604,21 @@
         "fr": "Studio de Doublage",
         "ru": "Студия дубляжа"
       }
+    },
+    {
+      "appleId": "6798667218",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "回路铭牌",
+        "en": "Circuit Nameplates",
+        "ja": "回路ネームプレート",
+        "ko": "회로 명판",
+        "es": "Placas de Circuitos",
+        "pt": "Placas de Circuitos",
+        "de": "Stromkreis-Schilder",
+        "fr": "Plaques de Circuits",
+        "ru": "Таблички цепей"
+      }
     }
   ]
 }
