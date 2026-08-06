@@ -1064,6 +1064,21 @@
         "fr": "Point Parfait",
         "ru": "Точный стежок"
       }
+    },
+    {
+      "appleId": "6798506825",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "锥台放样",
+        "en": "Cone Pattern Calculator",
+        "ja": "円すい展開計算",
+        "ko": "원뿔 전개 계산기",
+        "es": "Patrones de Conos",
+        "pt": "Planificação de Cones",
+        "de": "Kegel-Abwicklung",
+        "fr": "Développé de Cône",
+        "ru": "Развёртка конуса"
+      }
     }
   ]
 }
