@@ -2069,6 +2069,21 @@
         "fr": "Étiquettes d’Archives",
         "ru": "Корешки для архивов"
       }
+    },
+    {
+      "appleId": "6798835364",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "起手概率",
+        "en": "Opening Hand Odds",
+        "ja": "初手確率",
+        "ko": "첫 패 확률",
+        "es": "Probabilidad de Mano",
+        "pt": "Probabilidade da Mão",
+        "de": "Starthand-Chancen",
+        "fr": "Probabilité de Main",
+        "ru": "Шансы стартовой руки"
+      }
     }
   ]
 }
