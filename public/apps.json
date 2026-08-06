@@ -1859,6 +1859,21 @@
         "fr": "Planificateur TV",
         "ru": "Планировщик ТВ"
       }
+    },
+    {
+      "appleId": "6798777361",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "压簧计算",
+        "en": "Compression Spring Calc",
+        "ja": "圧縮ばね計算",
+        "ko": "압축 스프링 계산",
+        "es": "Cálculo de Resortes",
+        "pt": "Cálculo de Molas",
+        "de": "Druckfeder-Berechnung",
+        "fr": "Calcul de Ressorts",
+        "ru": "Расчёт пружин"
+      }
     }
   ]
 }
