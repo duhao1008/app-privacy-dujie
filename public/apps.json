@@ -1949,6 +1949,21 @@
         "fr": "Planificateur Sceau Relié",
         "ru": "Планировщик сквозной печати"
       }
+    },
+    {
+      "appleId": "6798807265",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "景框勘记",
+        "en": "ScoutFrame Notebook",
+        "ja": "ロケハンノート",
+        "ko": "로케이션 프레임 노트",
+        "es": "Cuaderno ScoutFrame",
+        "pt": "Caderno ScoutFrame",
+        "de": "ScoutFrame Notizbuch",
+        "fr": "Carnet ScoutFrame",
+        "ru": "Блокнот СкаутКадр"
+      }
     }
   ]
 }
