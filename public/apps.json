@@ -1844,6 +1844,21 @@
         "fr": "Miroir de Danse 2026",
         "ru": "Зеркало танца 2026"
       }
+    },
+    {
+      "appleId": "6798773987",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "电视墙规划",
+        "en": "TV Wall Planner",
+        "ja": "テレビ壁面プランナー",
+        "ko": "TV 벽면 플래너",
+        "es": "Planificador de TV",
+        "pt": "Planejador de TV",
+        "de": "TV-Wandplaner",
+        "fr": "Planificateur TV",
+        "ru": "Планировщик ТВ"
+      }
     }
   ]
 }
