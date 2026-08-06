@@ -1469,6 +1469,21 @@
         "fr": "Planificateur de Palettes",
         "ru": "Планировщик палет"
       }
+    },
+    {
+      "appleId": "6798621637",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "镜头分镜板",
+        "en": "ShotBoard Planner",
+        "ja": "ショットボード",
+        "ko": "샷보드 플래너",
+        "es": "Planificador ShotBoard",
+        "pt": "Planejador ShotBoard",
+        "de": "ShotBoard Planer",
+        "fr": "Planificateur ShotBoard",
+        "ru": "Планировщик ShotBoard"
+      }
     }
   ]
 }
