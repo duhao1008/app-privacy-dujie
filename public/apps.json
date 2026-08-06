@@ -899,6 +899,21 @@
         "fr": "Labo des Résistances",
         "ru": "Лаборатория резисторов"
       }
+    },
+    {
+      "appleId": "6798477403",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "议程控时",
+        "en": "Agenda Timekeeper",
+        "ja": "アジェンダタイマー",
+        "ko": "아젠다 타임키퍼",
+        "es": "Cronómetro de Agenda",
+        "pt": "Cronômetro de Agenda",
+        "de": "Agenda-Zeitnehmer",
+        "fr": "Chronomètre d’agenda",
+        "ru": "Таймер повестки"
+      }
     }
   ]
 }
