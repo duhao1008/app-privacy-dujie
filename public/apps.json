@@ -1094,6 +1094,21 @@
         "fr": "Planificateur de Rideaux",
         "ru": "Расчёт ткани для штор"
       }
+    },
+    {
+      "appleId": "6798511783",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "全能田径积分",
+        "en": "Combined Events Score",
+        "ja": "混成競技スコア",
+        "ko": "종합경기 점수",
+        "es": "Puntos Pruebas Combinadas",
+        "pt": "Pontos Provas Combinadas",
+        "de": "Mehrkampf Punkte",
+        "fr": "Points Épreuves Combinées",
+        "ru": "Очки многоборья"
+      }
     }
   ]
 }
