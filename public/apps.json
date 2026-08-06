@@ -1649,6 +1649,21 @@
         "fr": "Tolérances & Ajustements",
         "ru": "Допуски и посадки Pro"
       }
+    },
+    {
+      "appleId": "6798683721",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "轮滑轮管家",
+        "en": "Skate Wheel Keeper",
+        "ja": "スケートホイール管理",
+        "ko": "스케이트 휠 관리",
+        "es": "Gestor de Ruedas Skate",
+        "pt": "Gestor de Rodas",
+        "de": "Skate-Radmanager",
+        "fr": "Gestion Roues Roller",
+        "ru": "Менеджер колёс роликов"
+      }
     }
   ]
 }
