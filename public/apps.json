@@ -1169,6 +1169,21 @@
         "fr": "Studio de Bruitage",
         "ru": "Студия шумовых эффектов"
       }
+    },
+    {
+      "appleId": "6798525054",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "绣格尺",
+        "en": "StitchGrid",
+        "ja": "ステッチグリッド",
+        "ko": "스티치그리드",
+        "es": "StitchGrid",
+        "pt": "StitchGrid",
+        "de": "StitchGrid",
+        "fr": "StitchGrid",
+        "ru": "StitchGrid"
+      }
     }
   ]
 }
