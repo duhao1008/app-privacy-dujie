@@ -1244,6 +1244,21 @@
         "fr": "Rythme Kuaiban",
         "ru": "Ритм-тренер Куайбань"
       }
+    },
+    {
+      "appleId": "6798550949",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "桌椅人体工学尺",
+        "en": "Desk Ergo Sizer",
+        "ja": "デスク姿勢サイズ計算",
+        "ko": "책상 의자 높이 플래너",
+        "es": "Medidor Ergonómico",
+        "pt": "Medidor Ergonômico",
+        "de": "Ergo-Maßplaner",
+        "fr": "Mesures Ergonomiques",
+        "ru": "Эрго Размеры"
+      }
     }
   ]
 }
