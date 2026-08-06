@@ -1814,6 +1814,21 @@
         "fr": "Variantes Han",
         "ru": "Варианты иероглифов"
       }
+    },
+    {
+      "appleId": "6798765191",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "菜品成本簿",
+        "en": "Dish Cost Ledger",
+        "ja": "料理原価台帳",
+        "ko": "메뉴 원가 장부",
+        "es": "Coste de Platos",
+        "pt": "Custo de Pratos",
+        "de": "Gerichte-Kostenbuch",
+        "fr": "Coût des Plats",
+        "ru": "Себестоимость блюд"
+      }
     }
   ]
 }
