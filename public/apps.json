@@ -1379,6 +1379,21 @@
         "fr": "Dimensions d’Escalier",
         "ru": "Размеры лестницы"
       }
+    },
+    {
+      "appleId": "6798592300",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "焊接热输入",
+        "en": "Weld Heat Input",
+        "ja": "溶接入熱",
+        "ko": "용접 입열량",
+        "es": "Aporte Térmico Soldadura",
+        "pt": "Calor de Soldagem",
+        "de": "Schweißwärmeeinbringung",
+        "fr": "Apport Thermique Soudage",
+        "ru": "Тепловложение при сварке"
+      }
     }
   ]
 }
