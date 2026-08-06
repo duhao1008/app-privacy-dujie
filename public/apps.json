@@ -2054,6 +2054,21 @@
         "fr": "Caractères Tabous Chinois",
         "ru": "Китайские табу-иероглифы"
       }
+    },
+    {
+      "appleId": "6798831578",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "档案脊标工坊",
+        "en": "Archive Spine Labeler",
+        "ja": "アーカイブ背表紙ラベル",
+        "ko": "문서함 등표지 제작소",
+        "es": "Etiquetas de Archivo",
+        "pt": "Etiquetas de Arquivo",
+        "de": "Archiv-Rückenetiketten",
+        "fr": "Étiquettes d’Archives",
+        "ru": "Корешки для архивов"
+      }
     }
   ]
 }
