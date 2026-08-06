@@ -1664,6 +1664,21 @@
         "fr": "Gestion Roues Roller",
         "ru": "Менеджер колёс роликов"
       }
+    },
+    {
+      "appleId": "6798697518",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "赤平投影",
+        "en": "Stereonet Tutor",
+        "ja": "ステレオネット学習",
+        "ko": "스테레오넷 튜터",
+        "es": "Tutor de Estereograma",
+        "pt": "Tutor de Estereograma",
+        "de": "Stereonetz-Trainer",
+        "fr": "Tuteur Stéréonet",
+        "ru": "Тренажёр стереосетки"
+      }
     }
   ]
 }
