@@ -1679,6 +1679,21 @@
         "fr": "Tuteur Stéréonet",
         "ru": "Тренажёр стереосетки"
       }
+    },
+    {
+      "appleId": "6798720283",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "藏书票工坊",
+        "en": "Bookplate Studio",
+        "ja": "蔵書票工房",
+        "ko": "장서표 공방",
+        "es": "Taller de Ex Libris",
+        "pt": "Ateliê de Ex-Líbris",
+        "de": "Exlibris-Werkstatt",
+        "fr": "Atelier Ex-Libris",
+        "ru": "Мастерская экслибриса"
+      }
     }
   ]
 }
