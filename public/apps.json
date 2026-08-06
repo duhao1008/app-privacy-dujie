@@ -959,6 +959,21 @@
         "fr": "Assistant Plan d'Éclairage",
         "ru": "Помощник по освещению"
       }
+    },
+    {
+      "appleId": "6798483406",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "卷筒容绳",
+        "en": "Drum Rope Capacity",
+        "ja": "ドラムロープ容量",
+        "ko": "드럼 로프 용량",
+        "es": "Capacidad de Tambor",
+        "pt": "Capacidade do Tambor",
+        "de": "Seiltrommel-Kapazität",
+        "fr": "Capacité du Tambour",
+        "ru": "Ёмкость канатного барабана"
+      }
     }
   ]
 }
