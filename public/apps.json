@@ -1289,6 +1289,21 @@
         "fr": "Estimateur de Bobines",
         "ru": "Расчёт рулонных материалов"
       }
+    },
+    {
+      "appleId": "6798566782",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "冲浪板容积",
+        "en": "Surfboard Volume",
+        "ja": "サーフボード容積",
+        "ko": "서프보드 볼륨",
+        "es": "Volumen de Tabla",
+        "pt": "Volume da Prancha",
+        "de": "Surfboard-Volumen",
+        "fr": "Volume de Planche",
+        "ru": "Объём серфборда"
+      }
     }
   ]
 }
