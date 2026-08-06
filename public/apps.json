@@ -1619,6 +1619,21 @@
         "fr": "Plaques de Circuits",
         "ru": "Таблички цепей"
       }
+    },
+    {
+      "appleId": "6798671010",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "管口放样",
+        "en": "Pipe Notch Layout",
+        "ja": "管口けがき",
+        "ko": "파이프 노치 전개",
+        "es": "Trazado de Tubos",
+        "pt": "Traçado de Tubos",
+        "de": "Rohrzuschnitt",
+        "fr": "Traçage de Tubes",
+        "ru": "Разметка труб"
+      }
     }
   ]
 }
