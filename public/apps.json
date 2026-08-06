@@ -989,6 +989,21 @@
         "fr": "Carnet d’Affûtage",
         "ru": "Журнал заточки коньков"
       }
+    },
+    {
+      "appleId": "6798492558",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "珠算练习",
+        "en": "Abacus Practice",
+        "ja": "そろばん練習",
+        "ko": "주산 연습",
+        "es": "Práctica de Ábaco",
+        "pt": "Prática de Ábaco",
+        "de": "Abakus-Übungen",
+        "fr": "Exercices de Boulier",
+        "ru": "Тренажёр абакуса"
+      }
     }
   ]
 }
