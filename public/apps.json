@@ -1154,6 +1154,21 @@
         "fr": "Labo de Notation des Offres",
         "ru": "Лаборатория оценки заявок"
       }
+    },
+    {
+      "appleId": "6798524638",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "拟音工坊",
+        "en": "Foley Cue Studio",
+        "ja": "フォーリー工房",
+        "ko": "폴리 큐 스튜디오",
+        "es": "Estudio de Foley",
+        "pt": "Estúdio de Foley",
+        "de": "Foley Cue Studio",
+        "fr": "Studio de Bruitage",
+        "ru": "Студия шумовых эффектов"
+      }
     }
   ]
 }
