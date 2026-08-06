@@ -2189,6 +2189,21 @@
         "fr": "Registre de Dépôt-Vente",
         "ru": "Учёт консигнации"
       }
+    },
+    {
+      "appleId": "6798878329",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "先攻簿",
+        "en": "Initiative Ledger",
+        "ja": "イニシアチブ台帳",
+        "ko": "이니셔티브 장부",
+        "es": "Registro de Iniciativa",
+        "pt": "Registro de Iniciativa",
+        "de": "Initiative-Chronik",
+        "fr": "Registre d'Initiative",
+        "ru": "Журнал инициативы"
+      }
     }
   ]
 }
