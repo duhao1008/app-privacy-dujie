@@ -1229,6 +1229,21 @@
         "fr": "Résistance des Cartons",
         "ru": "Прочность коробок"
       }
+    },
+    {
+      "appleId": "6798546772",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "快板节拍器",
+        "en": "Kuaiban Rhythm Trainer",
+        "ja": "快板リズムトレーナー",
+        "ko": "콰이반 리듬 트레이너",
+        "es": "Ritmo Kuaiban",
+        "pt": "Ritmo Kuaiban",
+        "de": "Kuaiban Rhythmustrainer",
+        "fr": "Rythme Kuaiban",
+        "ru": "Ритм-тренер Куайбань"
+      }
     }
   ]
 }
