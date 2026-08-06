@@ -839,6 +839,21 @@
         "fr": "Plan de Coupe Ferraillage",
         "ru": "Раскрой арматуры"
       }
+    },
+    {
+      "appleId": "6798465430",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "燕尾榫计算器",
+        "en": "Dovetail Joint Calculator",
+        "ja": "蟻継ぎ計算機",
+        "ko": "도브테일 계산기",
+        "es": "Calculadora de Cola de Milano",
+        "pt": "Cálculo de Cauda de Andorinha",
+        "de": "Schwalbenschwanz-Rechner",
+        "fr": "Calculateur Queue d'Aronde",
+        "ru": "Расчёт ласточкина хвоста"
+      }
     }
   ]
 }
