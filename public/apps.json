@@ -1049,6 +1049,21 @@
         "fr": "Danse en 8 Temps",
         "ru": "Танец на восемь"
       }
+    },
+    {
+      "appleId": "6798504203",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "针线配",
+        "en": "Stitch Match",
+        "ja": "針糸マッチ",
+        "ko": "바늘실 매치",
+        "es": "Punto Ideal",
+        "pt": "Ponto Certo",
+        "de": "StichPlan",
+        "fr": "Point Parfait",
+        "ru": "Точный стежок"
+      }
     }
   ]
 }
