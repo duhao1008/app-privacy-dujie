@@ -1484,6 +1484,21 @@
         "fr": "Planificateur ShotBoard",
         "ru": "Планировщик ShotBoard"
       }
+    },
+    {
+      "appleId": "6798627156",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "织数",
+        "en": "Stitch Count",
+        "ja": "編み目カウント",
+        "ko": "뜨개수",
+        "es": "CuentaPuntos",
+        "pt": "ContaPontos",
+        "de": "MaschenPlan",
+        "fr": "CompteMailles",
+        "ru": "Счётчик петель"
+      }
     }
   ]
 }
