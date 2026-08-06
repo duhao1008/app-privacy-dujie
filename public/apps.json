@@ -2219,6 +2219,21 @@
         "fr": "Plan de Couture Cuir",
         "ru": "Разметка шва по коже"
       }
+    },
+    {
+      "appleId": "6798868965",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "窑程册",
+        "en": "Kiln Firing Notebook",
+        "ja": "窯焼成ノート",
+        "ko": "가마 소성 노트",
+        "es": "Cuaderno de Horneado",
+        "pt": "Caderno de Queima",
+        "de": "Brennofen-Notizbuch",
+        "fr": "Carnet de Cuisson",
+        "ru": "Журнал обжига"
+      }
     }
   ]
 }
