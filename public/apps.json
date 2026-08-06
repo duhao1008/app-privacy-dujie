@@ -2204,6 +2204,21 @@
         "fr": "Registre d'Initiative",
         "ru": "Журнал инициативы"
       }
+    },
+    {
+      "appleId": "6798862734",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "皮革排孔尺",
+        "en": "Leather Stitch Planner",
+        "ja": "レザーステッチ設計",
+        "ko": "가죽 스티치 설계자",
+        "es": "Planificador de Cuero",
+        "pt": "Planejador de Couro",
+        "de": "Lederstich-Planer",
+        "fr": "Plan de Couture Cuir",
+        "ru": "Разметка шва по коже"
+      }
     }
   ]
 }
