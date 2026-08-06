@@ -1079,6 +1079,21 @@
         "fr": "Développé de Cône",
         "ru": "Развёртка конуса"
       }
+    },
+    {
+      "appleId": "6798507477",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "窗帘用料",
+        "en": "Curtain Fabric Planner",
+        "ja": "カーテン生地プランナー",
+        "ko": "커튼 원단 플래너",
+        "es": "Planificador de Cortinas",
+        "pt": "Planejador de Cortinas",
+        "de": "Vorhangstoff-Planer",
+        "fr": "Planificateur de Rideaux",
+        "ru": "Расчёт ткани для штор"
+      }
     }
   ]
 }
