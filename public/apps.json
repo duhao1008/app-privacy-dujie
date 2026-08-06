@@ -1724,6 +1724,21 @@
         "fr": "Dictionnaire de rimes",
         "ru": "Словарь китайских рифм"
       }
+    },
+    {
+      "appleId": "6798734721",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "踢脚线计算",
+        "en": "Baseboard Planner",
+        "ja": "巾木計算",
+        "ko": "걸레받이 계산기",
+        "es": "Planificador de Rodapiés",
+        "pt": "Planejador de Rodapés",
+        "de": "Sockelleisten-Planer",
+        "fr": "Planificateur de Plinthes",
+        "ru": "Расчёт плинтуса"
+      }
     }
   ]
 }
