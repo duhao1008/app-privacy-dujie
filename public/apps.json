@@ -1559,6 +1559,21 @@
         "fr": "Entraîneur de Mesure",
         "ru": "Тренажёр измерений"
       }
+    },
+    {
+      "appleId": "6798652364",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "馆藏剔旧",
+        "en": "Collection Weeder",
+        "ja": "蔵書除籍",
+        "ko": "장서 제적",
+        "es": "Expurgo de Colecciones",
+        "pt": "Desbaste de Acervo",
+        "de": "Bestandsaussonderung",
+        "fr": "Désherbage de Collections",
+        "ru": "Списание фонда"
+      }
     }
   ]
 }
