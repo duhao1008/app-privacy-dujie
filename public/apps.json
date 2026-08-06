@@ -2264,6 +2264,21 @@
         "fr": "StringBench",
         "ru": "StringBench"
       }
+    },
+    {
+      "appleId": "6798891185",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "配平学堂",
+        "en": "Equation Balance Tutor",
+        "ja": "化学式バランス学習帳",
+        "ko": "화학식 균형 학습",
+        "es": "Tutor de Balanceo Químico",
+        "pt": "Tutor de Balanceamento",
+        "de": "Chemie-Ausgleichstrainer",
+        "fr": "Coach Équations Chimiques",
+        "ru": "Тренер химических уравнений"
+      }
     }
   ]
 }
