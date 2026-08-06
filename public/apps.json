@@ -1034,6 +1034,21 @@
         "fr": "Planificateur de Loyer",
         "ru": "Планировщик аренды"
       }
+    },
+    {
+      "appleId": "6798501261",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "八拍排舞",
+        "en": "Eight Count Choreo",
+        "ja": "エイトカウント振付",
+        "ko": "에잇카운트 안무",
+        "es": "8 Tiempos",
+        "pt": "Oito Tempos",
+        "de": "Achtzähler Tanz",
+        "fr": "Danse en 8 Temps",
+        "ru": "Танец на восемь"
+      }
     }
   ]
 }
