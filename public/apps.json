@@ -1364,6 +1364,21 @@
         "fr": "Maître des Énigmes",
         "ru": "Ведущий загадок"
       }
+    },
+    {
+      "appleId": "6798590017",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "楼梯尺寸",
+        "en": "Stair Dimensions",
+        "ja": "階段寸法",
+        "ko": "계단 치수",
+        "es": "Medidas de Escaleras",
+        "pt": "Medidas de Escadas",
+        "de": "Treppenmaße",
+        "fr": "Dimensions d’Escalier",
+        "ru": "Размеры лестницы"
+      }
     }
   ]
 }
