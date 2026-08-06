@@ -929,6 +929,21 @@
         "fr": "Planificateur d’Onglets",
         "ru": "Планировщик вкладок"
       }
+    },
+    {
+      "appleId": "6798480490",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "动画律表",
+        "en": "Animation X-Sheet",
+        "ja": "アニメーション律表",
+        "ko": "애니메이션 타임시트",
+        "es": "Hoja de Animación",
+        "pt": "Folha de Animação",
+        "de": "Animations-X-Sheet",
+        "fr": "Feuille d'Animation",
+        "ru": "Эксполист анимации"
+      }
     }
   ]
 }
