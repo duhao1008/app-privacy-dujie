@@ -2009,6 +2009,21 @@
         "fr": "Carnet de Prises",
         "ru": "Журнал дублей"
       }
+    },
+    {
+      "appleId": "6798821203",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "飞靶轮记",
+        "en": "Clay Round Log",
+        "ja": "クレーラウンド記録",
+        "ko": "클레이 라운드 기록",
+        "es": "Registro de Tiro al Plato",
+        "pt": "Registro de Tiro ao Prato",
+        "de": "Wurfscheiben-Rundenbuch",
+        "fr": "Carnet de Ball-Trap",
+        "ru": "Дневник стендовой стрельбы"
+      }
     }
   ]
 }
