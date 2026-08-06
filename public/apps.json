@@ -2249,6 +2249,21 @@
         "fr": "Jauge de Gorge pour Joint",
         "ru": "Калибр канавок O-Ring"
       }
+    },
+    {
+      "appleId": "6798887682",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "羽线工尺",
+        "en": "StringBench",
+        "ja": "ストリングベンチ",
+        "ko": "스트링벤치",
+        "es": "StringBench",
+        "pt": "StringBench",
+        "de": "StringBench",
+        "fr": "StringBench",
+        "ru": "StringBench"
+      }
     }
   ]
 }
