@@ -1829,6 +1829,21 @@
         "fr": "Coût des Plats",
         "ru": "Себестоимость блюд"
       }
+    },
+    {
+      "appleId": "6798769565",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "舞镜2026",
+        "en": "Dance Mirror 2026",
+        "ja": "ダンスミラー2026",
+        "ko": "댄스 미러 2026",
+        "es": "Espejo de Baile 2026",
+        "pt": "Espelho de Dança 2026",
+        "de": "Tanzspiegel 2026",
+        "fr": "Miroir de Danse 2026",
+        "ru": "Зеркало танца 2026"
+      }
     }
   ]
 }
