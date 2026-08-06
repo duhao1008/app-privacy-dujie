@@ -1334,6 +1334,21 @@
         "fr": "Atelier de Mentions",
         "ru": "Мастерская выходных данных"
       }
+    },
+    {
+      "appleId": "6798580203",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "股权表决",
+        "en": "Equity Vote Ledger",
+        "ja": "株式議決権集計",
+        "ko": "지분 의결권 계산기",
+        "es": "Voto de Capital",
+        "pt": "Voto Societário",
+        "de": "Stimmrechte Rechner",
+        "fr": "Vote des Actionnaires",
+        "ru": "Реестр голосования"
+      }
     }
   ]
 }
