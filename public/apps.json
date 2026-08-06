@@ -1904,6 +1904,21 @@
         "fr": "Labo Relais",
         "ru": "Лаборатория эстафеты"
       }
+    },
+    {
+      "appleId": "6798789900",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "电码听写",
+        "en": "Morse Copy Trainer",
+        "ja": "モールス聞き取り練習",
+        "ko": "모스 부호 받아쓰기",
+        "es": "Morse: Práctica de Copia",
+        "pt": "Morse: Treino de Cópia",
+        "de": "Morse-Hörtrainer",
+        "fr": "Morse : Entraînement",
+        "ru": "Азбука Морзе: Диктант"
+      }
     }
   ]
 }
