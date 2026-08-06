@@ -1274,6 +1274,21 @@
         "fr": "Guide des Rivets",
         "ru": "Подбор заклёпок"
       }
+    },
+    {
+      "appleId": "6798560747",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "卷材估算",
+        "en": "Roll Material Estimator",
+        "ja": "ロール材見積もり",
+        "ko": "롤 자재 계산기",
+        "es": "Estimador de Bobinas",
+        "pt": "Estimador de Bobinas",
+        "de": "Rollenmaterial Rechner",
+        "fr": "Estimateur de Bobines",
+        "ru": "Расчёт рулонных материалов"
+      }
     }
   ]
 }
