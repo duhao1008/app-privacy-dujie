@@ -1634,6 +1634,21 @@
         "fr": "Traçage de Tubes",
         "ru": "Разметка труб"
       }
+    },
+    {
+      "appleId": "6798677569",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "公差配合",
+        "en": "Tolerance Fit Pro",
+        "ja": "公差・はめあい Pro",
+        "ko": "공차 끼워맞춤 Pro",
+        "es": "Tolerancias y Ajustes Pro",
+        "pt": "Tolerâncias e Ajustes Pro",
+        "de": "Toleranz & Passung Pro",
+        "fr": "Tolérances & Ajustements",
+        "ru": "Допуски и посадки Pro"
+      }
     }
   ]
 }
