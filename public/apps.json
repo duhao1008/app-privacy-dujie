@@ -2159,6 +2159,21 @@
         "fr": "Exercices de braille",
         "ru": "Тренажёр Брайля"
       }
+    },
+    {
+      "appleId": "6798864484",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "精装壳尺",
+        "en": "Hardcover Case Planner",
+        "ja": "上製本ケース設計",
+        "ko": "하드커버 케이스 설계",
+        "es": "Planificador de Tapas",
+        "pt": "Planejador de Capas",
+        "de": "Buchdecken-Planer",
+        "fr": "Planificateur de Couverture",
+        "ru": "Раскрой книжной крышки"
+      }
     }
   ]
 }
