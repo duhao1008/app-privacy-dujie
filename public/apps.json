@@ -884,6 +884,21 @@
         "fr": "Planificateur de Joints",
         "ru": "Расчёт герметика"
       }
+    },
+    {
+      "appleId": "6798471351",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "电阻识码",
+        "en": "Resistor Code Lab",
+        "ja": "抵抗コードラボ",
+        "ko": "저항 코드 랩",
+        "es": "Laboratorio de Resistencias",
+        "pt": "Laboratório de Resistores",
+        "de": "Widerstandscode-Labor",
+        "fr": "Labo des Résistances",
+        "ru": "Лаборатория резисторов"
+      }
     }
   ]
 }
