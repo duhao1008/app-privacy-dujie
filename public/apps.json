@@ -1019,6 +1019,21 @@
         "fr": "Organisateur d’étagères",
         "ru": "Расстановка книг"
       }
+    },
+    {
+      "appleId": "6798500092",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "租金阶梯规划",
+        "en": "Rent Step Planner",
+        "ja": "段階家賃プランナー",
+        "ko": "단계별 임대료 플래너",
+        "es": "Plan de Alquiler Escalonado",
+        "pt": "Plano de Aluguel Escalonado",
+        "de": "Staffelmietplaner",
+        "fr": "Planificateur de Loyer",
+        "ru": "Планировщик аренды"
+      }
     }
   ]
 }
