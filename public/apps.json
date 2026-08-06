@@ -1424,6 +1424,21 @@
         "fr": "Planificateur de Bobine",
         "ru": "Планировщик шпули"
       }
+    },
+    {
+      "appleId": "6798606459",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "航报解码",
+        "en": "METAR Decoder",
+        "ja": "METARデコーダー",
+        "ko": "METAR 디코더",
+        "es": "Decodificador METAR",
+        "pt": "Decodificador METAR",
+        "de": "METAR-Decoder",
+        "fr": "Décodeur METAR",
+        "ru": "Декодер METAR"
+      }
     }
   ]
 }
