@@ -1139,6 +1139,21 @@
         "fr": "Registre de Lignée",
         "ru": "Книга родословной"
       }
+    },
+    {
+      "appleId": "6798520348",
+      "lastUpdated": "2026-08-06",
+      "appName": {
+        "zh": "标价测算",
+        "en": "Bid Score Lab",
+        "ja": "入札スコアラボ",
+        "ko": "입찰 점수 연구소",
+        "es": "Laboratorio de Ofertas",
+        "pt": "Laboratório de Propostas",
+        "de": "Angebotswertung Labor",
+        "fr": "Labo de Notation des Offres",
+        "ru": "Лаборатория оценки заявок"
+      }
     }
   ]
 }
