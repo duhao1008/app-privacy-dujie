@@ -3044,6 +3044,21 @@
         "fr": "Carnet Ferroviaire",
         "ru": "Журнал движения поездов"
       }
+    },
+    {
+      "appleId": "6799106061",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "天幕尺",
+        "en": "Tarp Ruler",
+        "ja": "タープ定規",
+        "ko": "타프 자",
+        "es": "Regla de Toldo",
+        "pt": "Régua de Toldo",
+        "de": "Tarp-Maß",
+        "fr": "Règle à Tarp",
+        "ru": "Линейка тента"
+      }
     }
   ]
 }
