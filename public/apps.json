@@ -2354,6 +2354,21 @@
         "fr": "Atelier de Calcul de Gaines",
         "ru": "Расчёт воздуховодов"
       }
+    },
+    {
+      "appleId": "6798907958",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "网印参数",
+        "en": "Screen Print Parameters",
+        "ja": "スクリーン印刷パラメータ",
+        "ko": "스크린 인쇄 파라미터",
+        "es": "Parámetros de Serigrafía",
+        "pt": "Parâmetros de Serigrafia",
+        "de": "Siebdruck-Parameter",
+        "fr": "Paramètres de Sérigraphie",
+        "ru": "Параметры шелкографии"
+      }
     }
   ]
 }
