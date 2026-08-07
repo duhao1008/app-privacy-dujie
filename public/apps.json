@@ -3149,6 +3149,21 @@
         "fr": "Maître du Colisage",
         "ru": "Мастер упаковочных листов"
       }
+    },
+    {
+      "appleId": "6799133663",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "贯口练习",
+        "en": "Patter Recital Practice",
+        "ja": "早口口上トレーニング",
+        "ko": "빠른 대사 암송 연습",
+        "es": "Práctica de Recitación",
+        "pt": "Prática de Recitação",
+        "de": "Sprechtext-Trainer",
+        "fr": "Pratique de Récitation",
+        "ru": "Тренер скороговорок"
+      }
     }
   ]
 }
