@@ -2954,6 +2954,21 @@
         "fr": "Planificateur Goutte-à-Goutte",
         "ru": "Планировщик капельного полива"
       }
+    },
+    {
+      "appleId": "6799078438",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "拼布用料尺",
+        "en": "Quilt Yardage Planner",
+        "ja": "キルト用尺プランナー",
+        "ko": "퀼트 원단 계산기",
+        "es": "Metraje para Quilts",
+        "pt": "Metragem para Quilts",
+        "de": "Quilt-Stoffrechner",
+        "fr": "Métrage pour Quilts",
+        "ru": "Расход ткани для квилта"
+      }
     }
   ]
 }
