@@ -3209,6 +3209,21 @@
         "fr": "Carnet Sensoriel du Thé",
         "ru": "Сенсорный журнал чая"
       }
+    },
+    {
+      "appleId": "6799150472",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "球路板",
+        "en": "CuePath Board",
+        "ja": "キューパスボード",
+        "ko": "큐패스 보드",
+        "es": "Mesa CuePath",
+        "pt": "Mesa CuePath",
+        "de": "CuePath Tafel",
+        "fr": "Table CuePath",
+        "ru": "Доска CuePath"
+      }
     }
   ]
 }
