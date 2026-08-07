@@ -2924,6 +2924,21 @@
         "fr": "Carnet de Puzzle",
         "ru": "Дневник пазлов"
       }
+    },
+    {
+      "appleId": "6799068848",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "唱盘调校",
+        "en": "Turntable Setup",
+        "ja": "ターンテーブル調整",
+        "ko": "턴테이블 세팅",
+        "es": "Ajuste de Tocadiscos",
+        "pt": "Ajuste de Toca-Discos",
+        "de": "Plattenspieler Setup",
+        "fr": "Réglage Platine Vinyle",
+        "ru": "Настройка проигрывателя"
+      }
     }
   ]
 }
