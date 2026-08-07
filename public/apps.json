@@ -2309,6 +2309,21 @@
         "fr": "Plan de Table",
         "ru": "Порядок мест"
       }
+    },
+    {
+      "appleId": "6798899179",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "剧控台",
+        "en": "Mystery Host Desk",
+        "ja": "ミステリー進行卓",
+        "ko": "미스터리 진행 데스크",
+        "es": "Mesa del Anfitrión",
+        "pt": "Mesa do Anfitrião",
+        "de": "Spielleiter-Pult",
+        "fr": "Console du Maître",
+        "ru": "Пульт ведущего"
+      }
     }
   ]
 }
