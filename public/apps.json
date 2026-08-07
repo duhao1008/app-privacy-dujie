@@ -3119,6 +3119,21 @@
         "fr": "Signes d’Aérodrome",
         "ru": "Знаки аэродрома"
       }
+    },
+    {
+      "appleId": "6799125065",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "折手配页",
+        "en": "Signature Collator",
+        "ja": "折丁・丁合プランナー",
+        "ko": "접지 대조 플래너",
+        "es": "Cuadernillos y Alzado",
+        "pt": "Cadernos e Alceamento",
+        "de": "Lagen & Kollation",
+        "fr": "Cahiers et Collation",
+        "ru": "Тетради и подборка"
+      }
     }
   ]
 }
