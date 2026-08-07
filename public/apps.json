@@ -3059,6 +3059,21 @@
         "fr": "Règle à Tarp",
         "ru": "Линейка тента"
       }
+    },
+    {
+      "appleId": "6799110157",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "卡纸开窗尺",
+        "en": "Mat Window Ruler",
+        "ja": "マット窓抜き定規",
+        "ko": "매트보드 창 재단자",
+        "es": "Regla de Paspartú",
+        "pt": "Régua de Passe-Partout",
+        "de": "Passepartout-Rechner",
+        "fr": "Règle Passe-Partout",
+        "ru": "Линейка паспарту"
+      }
     }
   ]
 }
