@@ -3029,6 +3029,21 @@
         "fr": "Frais de Déplacement",
         "ru": "Учёт командировок"
       }
+    },
+    {
+      "appleId": "6799102424",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "铁道运转簿",
+        "en": "Railway Ops Log",
+        "ja": "鉄道運転台帳",
+        "ko": "철도 운행 장부",
+        "es": "Bitácora Ferroviaria",
+        "pt": "Diário Ferroviário",
+        "de": "Modellbahn-Betriebsbuch",
+        "fr": "Carnet Ferroviaire",
+        "ru": "Журнал движения поездов"
+      }
     }
   ]
 }
