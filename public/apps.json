@@ -2969,6 +2969,21 @@
         "fr": "Métrage pour Quilts",
         "ru": "Расход ткани для квилта"
       }
+    },
+    {
+      "appleId": "6799083047",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "雪蜡簿",
+        "en": "Ski Wax Log",
+        "ja": "雪ワックス手帳",
+        "ko": "스키 왁스 로그",
+        "es": "Diario de Cera de Esquí",
+        "pt": "Diário de Cera de Esqui",
+        "de": "Skiwachs-Tagebuch",
+        "fr": "Carnet de Fartage",
+        "ru": "Журнал лыжной смазки"
+      }
     }
   ]
 }
