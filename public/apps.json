@@ -2639,6 +2639,21 @@
         "fr": "Exercices de Karnaugh",
         "ru": "Карты Карно: практика"
       }
+    },
+    {
+      "appleId": "6798979409",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "索引编",
+        "en": "IndexCraft",
+        "ja": "索引編",
+        "ko": "색인편집기",
+        "es": "Indexa",
+        "pt": "Indexador",
+        "de": "IndexWerk",
+        "fr": "IndexPro",
+        "ru": "Индексатор"
+      }
     }
   ]
 }
