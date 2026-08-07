@@ -3644,6 +3644,21 @@
         "fr": "Atlas des Jeux de Ficelle",
         "ru": "Атлас фигур из верёвки"
       }
+    },
+    {
+      "appleId": "6799269756",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "孵化簿",
+        "en": "Hatch Ledger",
+        "ja": "ふ化ノート",
+        "ko": "부화 장부",
+        "es": "Bitácora de Eclosión",
+        "pt": "Diário de Incubação",
+        "de": "Brut-Tagebuch",
+        "fr": "Carnet d’Éclosion",
+        "ru": "Журнал инкубации"
+      }
     }
   ]
 }
