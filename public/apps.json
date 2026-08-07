@@ -3299,6 +3299,21 @@
         "fr": "Mesure Ongles Press-On",
         "ru": "Размеры накладных ногтей"
       }
+    },
+    {
+      "appleId": "6799176430",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "弦张力尺",
+        "en": "String Tension Gauge",
+        "ja": "弦テンションゲージ",
+        "ko": "현 장력 게이지",
+        "es": "Medidor de Tensión",
+        "pt": "Medidor de Tensão",
+        "de": "Saitenspannungsmesser",
+        "fr": "Jauge de Tension",
+        "ru": "Измеритель натяжения"
+      }
     }
   ]
 }
