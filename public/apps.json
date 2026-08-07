@@ -2399,6 +2399,21 @@
         "fr": "Coach de Transposition",
         "ru": "Тренажёр транспонирования"
       }
+    },
+    {
+      "appleId": "6798916189",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "诗律校",
+        "en": "VerseTone",
+        "ja": "詩律チェッカー",
+        "ko": "시율 검사기",
+        "es": "Métrica Han",
+        "pt": "Métrica Han",
+        "de": "Han-Versmaß",
+        "fr": "Métrique Han",
+        "ru": "Метрика Хань"
+      }
     }
   ]
 }
