@@ -3269,6 +3269,21 @@
         "fr": "Fiche de Non-Conformité",
         "ru": "Акт несоответствия"
       }
+    },
+    {
+      "appleId": "6799167530",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "密室流程",
+        "en": "Escape Room Flow",
+        "ja": "脱出ゲームフロー",
+        "ko": "방탈출 플로우",
+        "es": "Flujo de Escape Room",
+        "pt": "Fluxo de Escape Room",
+        "de": "Escape-Room-Ablauf",
+        "fr": "Parcours Escape Room",
+        "ru": "Сценарий квест-комнаты"
+      }
     }
   ]
 }
