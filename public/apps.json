@@ -3674,6 +3674,21 @@
         "fr": "Titre & Poids Textile",
         "ru": "Номер пряжи и вес ткани"
       }
+    },
+    {
+      "appleId": "6799276122",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "挂轮尺",
+        "en": "Change Gear Gauge",
+        "ja": "掛け歯車ゲージ",
+        "ko": "교환기어 게이지",
+        "es": "Medidor de Engranajes",
+        "pt": "Medidor de Engrenagens",
+        "de": "Wechselrad-Messer",
+        "fr": "Jauge d'Engrenages",
+        "ru": "Калибр сменных шестерён"
+      }
     }
   ]
 }
