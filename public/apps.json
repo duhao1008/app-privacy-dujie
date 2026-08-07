@@ -3239,6 +3239,21 @@
         "fr": "Coach de Nivellement",
         "ru": "Тренажёр нивелирования"
       }
+    },
+    {
+      "appleId": "6799158624",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "盘书核架",
+        "en": "Shelf Audit",
+        "ja": "蔵書棚卸し",
+        "ko": "도서 재고 점검",
+        "es": "Auditor de Estanterías",
+        "pt": "Auditoria de Estantes",
+        "de": "Regalprüfung",
+        "fr": "Audit des Rayons",
+        "ru": "Проверка книжных полок"
+      }
     }
   ]
 }
