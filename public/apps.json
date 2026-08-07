@@ -2804,6 +2804,21 @@
         "fr": "Score de Bridge",
         "ru": "Счёт в бридже"
       }
+    },
+    {
+      "appleId": "6799029043",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "胶片曝光尺",
+        "en": "Film Exposure Meter",
+        "ja": "フィルム露出計",
+        "ko": "필름 노출계",
+        "es": "Exposición Analógica",
+        "pt": "Exposição Analógica",
+        "de": "Analoge Belichtung",
+        "fr": "Exposition Argentique",
+        "ru": "Плёночная экспозиция"
+      }
     }
   ]
 }
