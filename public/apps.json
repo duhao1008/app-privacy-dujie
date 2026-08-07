@@ -3599,6 +3599,21 @@
         "fr": "Cursive Russe",
         "ru": "Русская пропись"
       }
+    },
+    {
+      "appleId": "6799260525",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "漫页序",
+        "en": "Comic Page Order",
+        "ja": "マンガページ順",
+        "ko": "만화 페이지 순서",
+        "es": "Orden de Páginas Cómic",
+        "pt": "Ordem de Páginas HQ",
+        "de": "Comic-Seitenfolge",
+        "fr": "Ordre des Pages BD",
+        "ru": "Порядок страниц комикса"
+      }
     }
   ]
 }
