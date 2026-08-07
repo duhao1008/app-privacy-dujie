@@ -2414,6 +2414,21 @@
         "fr": "Métrique Han",
         "ru": "Метрика Хань"
       }
+    },
+    {
+      "appleId": "6798920075",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "账龄簿",
+        "en": "Aging Ledger",
+        "ja": "売掛年齢台帳",
+        "ko": "매출채권 연령장부",
+        "es": "Cartera por Antigüedad",
+        "pt": "Carteira por Idade",
+        "de": "Forderungsalter",
+        "fr": "Balance Âgée",
+        "ru": "Реестр дебиторки"
+      }
     }
   ]
 }
