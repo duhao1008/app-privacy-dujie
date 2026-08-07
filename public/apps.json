@@ -2369,6 +2369,21 @@
         "fr": "Paramètres de Sérigraphie",
         "ru": "Параметры шелкографии"
       }
+    },
+    {
+      "appleId": "6798910805",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "箭脊工尺",
+        "en": "Arrow Spine Workbench",
+        "ja": "アロースパイン工房",
+        "ko": "화살 스파인 작업실",
+        "es": "Taller de Spine de Flecha",
+        "pt": "Oficina de Spine da Flecha",
+        "de": "Pfeilspine Werkstatt",
+        "fr": "Atelier Spine de Flèche",
+        "ru": "Мастерская спайна стрел"
+      }
     }
   ]
 }
