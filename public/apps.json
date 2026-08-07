@@ -2939,6 +2939,21 @@
         "fr": "Réglage Platine Vinyle",
         "ru": "Настройка проигрывателя"
       }
+    },
+    {
+      "appleId": "6799074878",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "滴灌配算",
+        "en": "Drip Planner",
+        "ja": "点滴灌水プランナー",
+        "ko": "점적 관수 플래너",
+        "es": "Planificador de Goteo",
+        "pt": "Planejador de Gotejamento",
+        "de": "Tropfbewässerungsplaner",
+        "fr": "Planificateur Goutte-à-Goutte",
+        "ru": "Планировщик капельного полива"
+      }
     }
   ]
 }
