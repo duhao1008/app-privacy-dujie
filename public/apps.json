@@ -2714,6 +2714,21 @@
         "fr": "Accord d’Anches",
         "ru": "Подбор тростей"
       }
+    },
+    {
+      "appleId": "6799000995",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "桥架配缆",
+        "en": "Cable Tray Planner",
+        "ja": "ケーブルトレイ配線",
+        "ko": "케이블 트레이 설계",
+        "es": "Planificador de Bandejas",
+        "pt": "Planejador de Eletrocalhas",
+        "de": "Kabelrinnen-Planer",
+        "fr": "Planificateur de Chemins",
+        "ru": "Планировщик кабельных лотков"
+      }
     }
   ]
 }
