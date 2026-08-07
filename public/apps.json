@@ -3254,6 +3254,21 @@
         "fr": "Audit des Rayons",
         "ru": "Проверка книжных полок"
       }
+    },
+    {
+      "appleId": "6799162934",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "异常品单",
+        "en": "NCR Quality Desk",
+        "ja": "品質異常票",
+        "ko": "품질 이상표",
+        "es": "Parte de No Conformidad",
+        "pt": "Ficha de Não Conformidade",
+        "de": "NCR Qualitätsakte",
+        "fr": "Fiche de Non-Conformité",
+        "ru": "Акт несоответствия"
+      }
     }
   ]
 }
