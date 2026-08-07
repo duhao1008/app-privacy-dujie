@@ -3089,6 +3089,21 @@
         "fr": "Planificateur DMX",
         "ru": "DMX Планировщик"
       }
+    },
+    {
+      "appleId": "6799116775",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "箭靶记",
+        "en": "TargetLog",
+        "ja": "TargetLog",
+        "ko": "TargetLog",
+        "es": "TargetLog",
+        "pt": "TargetLog",
+        "de": "TargetLog",
+        "fr": "TargetLog",
+        "ru": "TargetLog"
+      }
     }
   ]
 }
