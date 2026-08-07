@@ -2459,6 +2459,21 @@
         "fr": "Salinité du Récif",
         "ru": "Солёность рифового аквариума"
       }
+    },
+    {
+      "appleId": "6798927682",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "星镜配算",
+        "en": "Stellar Optics Planner",
+        "ja": "星空アイピース計算",
+        "ko": "별빛 접안렌즈 계산기",
+        "es": "Planificador de Oculares",
+        "pt": "Planejador de Oculares",
+        "de": "Okular-Rechner",
+        "fr": "Planificateur d’oculaires",
+        "ru": "Расчёт окуляров"
+      }
     }
   ]
 }
