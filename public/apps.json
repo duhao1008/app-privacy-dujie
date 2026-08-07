@@ -2729,6 +2729,21 @@
         "fr": "Planificateur de Chemins",
         "ru": "Планировщик кабельных лотков"
       }
+    },
+    {
+      "appleId": "6799005099",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "铁三配速",
+        "en": "Triathlon Pace Planner",
+        "ja": "トライアスロン配分計画",
+        "ko": "철인3종 페이스 플래너",
+        "es": "Ritmo de Triatlón",
+        "pt": "Ritmo de Triatlo",
+        "de": "Triathlon Tempoplan",
+        "fr": "Allure Triathlon",
+        "ru": "Темп триатлона"
+      }
     }
   ]
 }
