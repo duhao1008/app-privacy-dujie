@@ -3329,6 +3329,21 @@
         "fr": "Découpe de Moustiquaire",
         "ru": "Раскрой москитных сеток"
       }
+    },
+    {
+      "appleId": "6799184494",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "飞镖结镖",
+        "en": "Darts Checkout",
+        "ja": "ダーツチェックアウト",
+        "ko": "다트 체크아웃",
+        "es": "Cierre de Dardos",
+        "pt": "Fechamento de Dardos",
+        "de": "Darts Checkout",
+        "fr": "Checkout Fléchettes",
+        "ru": "Дартс Чекаут"
+      }
     }
   ]
 }
