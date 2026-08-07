@@ -3614,6 +3614,21 @@
         "fr": "Ordre des Pages BD",
         "ru": "Порядок страниц комикса"
       }
+    },
+    {
+      "appleId": "6799263275",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "留样簿",
+        "en": "Sample Retention Ledger",
+        "ja": "留样管理簿",
+        "ko": "보관 샘플 대장",
+        "es": "Libro de Muestras",
+        "pt": "Livro de Amostras",
+        "de": "Probenbuch",
+        "fr": "Registre d’Échantillons",
+        "ru": "Журнал образцов"
+      }
     }
   ]
 }
