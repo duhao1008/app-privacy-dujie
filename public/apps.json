@@ -3584,6 +3584,21 @@
         "fr": "Carnet de Poule",
         "ru": "Фехтование: Пулы"
       }
+    },
+    {
+      "appleId": "6799256784",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "俄语连写",
+        "en": "Russian Cursive Tutor",
+        "ja": "ロシア語筆記体",
+        "ko": "러시아어 필기체",
+        "es": "Cursiva Rusa",
+        "pt": "Cursiva Russa",
+        "de": "Russische Schreibschrift",
+        "fr": "Cursive Russe",
+        "ru": "Русская пропись"
+      }
     }
   ]
 }
