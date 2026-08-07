@@ -3374,6 +3374,21 @@
         "fr": "Vérificateur ISBN",
         "ru": "Проверка ISBN"
       }
+    },
+    {
+      "appleId": "6799203794",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "箱规配货",
+        "en": "Case Pack Picking",
+        "ja": "ケース入数ピッキング",
+        "ko": "박스 단위 피킹",
+        "es": "Picking por Cajas",
+        "pt": "Separação por Caixas",
+        "de": "Karton-Kommissionierung",
+        "fr": "Préparation par Cartons",
+        "ru": "Сборка по коробкам"
+      }
     }
   ]
 }
