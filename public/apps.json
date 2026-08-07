@@ -3554,6 +3554,21 @@
         "fr": "Jauge Thermorétractable",
         "ru": "Калибр термоусадки"
       }
+    },
+    {
+      "appleId": "6799247753",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "木材含水率",
+        "en": "Wood Moisture Workshop",
+        "ja": "木材含水率ワークショップ",
+        "ko": "목재 함수율 작업실",
+        "es": "Humedad de la Madera",
+        "pt": "Umidade da Madeira",
+        "de": "Holzfeuchte Werkstatt",
+        "fr": "Atelier Humidité du Bois",
+        "ru": "Влажность древесины"
+      }
     }
   ]
 }
