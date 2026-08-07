@@ -2489,6 +2489,21 @@
         "fr": "Formation de Chœur",
         "ru": "Расстановка хора"
       }
+    },
+    {
+      "appleId": "6798936823",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "泳速组",
+        "en": "Swim Pace Set",
+        "ja": "スイムペースセット",
+        "ko": "수영 페이스 세트",
+        "es": "Series de Ritmo Swim",
+        "pt": "Séries de Ritmo Swim",
+        "de": "Schwimmtempo Sets",
+        "fr": "Séries Allure Natation",
+        "ru": "Темп Плавания: Сеты"
+      }
     }
   ]
 }
