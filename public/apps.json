@@ -2339,6 +2339,21 @@
         "fr": "Registre du Souvenir",
         "ru": "Книга памятных дат"
       }
+    },
+    {
+      "appleId": "6798905919",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "风管尺",
+        "en": "Duct Sizing Workbench",
+        "ja": "ダクト寸法ワークベンチ",
+        "ko": "덕트 사이징 워크벤치",
+        "es": "Banco de Cálculo de Ductos",
+        "pt": "Bancada de Cálculo de Dutos",
+        "de": "Luftkanal-Rechner",
+        "fr": "Atelier de Calcul de Gaines",
+        "ru": "Расчёт воздуховодов"
+      }
     }
   ]
 }
