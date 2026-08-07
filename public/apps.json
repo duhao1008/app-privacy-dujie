@@ -2504,6 +2504,21 @@
         "fr": "Séries Allure Natation",
         "ru": "Темп Плавания: Сеты"
       }
+    },
+    {
+      "appleId": "6798939520",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "纸样识图",
+        "en": "Pattern Symbol Tutor",
+        "ja": "型紙記号トレーナー",
+        "ko": "패턴 기호 학습",
+        "es": "Símbolos de Patrones",
+        "pt": "Símbolos de Moldes",
+        "de": "Schnittzeichen lernen",
+        "fr": "Symboles de Patron",
+        "ru": "Знаки выкройки"
+      }
     }
   ]
 }
