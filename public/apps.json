@@ -2849,6 +2849,21 @@
         "fr": "Atelier Accord Piano",
         "ru": "Мастерская настройки"
       }
+    },
+    {
+      "appleId": "6799045579",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "冰壶赛记",
+        "en": "Curling Match Log",
+        "ja": "カーリング試合記録",
+        "ko": "컬링 경기 기록",
+        "es": "Registro de Curling",
+        "pt": "Registro de Curling",
+        "de": "Curling Spielprotokoll",
+        "fr": "Carnet de Curling",
+        "ru": "Журнал кёрлинга"
+      }
     }
   ]
 }
