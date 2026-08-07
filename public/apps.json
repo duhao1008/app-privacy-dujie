@@ -2894,6 +2894,21 @@
         "fr": "Chronique des Éditions",
         "ru": "Летопись изданий"
       }
+    },
+    {
+      "appleId": "6799060139",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "展会回本",
+        "en": "Expo ROI Planner",
+        "ja": "展示会ROIプランナー",
+        "ko": "전시회 ROI 플래너",
+        "es": "Planificador ROI de Ferias",
+        "pt": "Planejador de ROI de Feiras",
+        "de": "Messe-ROI-Planer",
+        "fr": "Planificateur ROI Salon",
+        "ru": "Планировщик ROI выставки"
+      }
     }
   ]
 }
