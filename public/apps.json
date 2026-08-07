@@ -3224,6 +3224,21 @@
         "fr": "Table CuePath",
         "ru": "Доска CuePath"
       }
+    },
+    {
+      "appleId": "6799154249",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "水准测练",
+        "en": "Leveling Survey Tutor",
+        "ja": "水準測量トレーナー",
+        "ko": "수준측량 트레이너",
+        "es": "Tutor de Nivelación",
+        "pt": "Tutor de Nivelamento",
+        "de": "Nivellement-Trainer",
+        "fr": "Coach de Nivellement",
+        "ru": "Тренажёр нивелирования"
+      }
     }
   ]
 }
