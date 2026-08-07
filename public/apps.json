@@ -3404,6 +3404,21 @@
         "fr": "Classeur de Cartes",
         "ru": "Альбом для карт"
       }
+    },
+    {
+      "appleId": "6799212687",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "章法尺",
+        "en": "Calligraphy Layout Ruler",
+        "ja": "書道レイアウト定規",
+        "ko": "서예 배치 자",
+        "es": "Regla de Caligrafía",
+        "pt": "Régua de Caligrafia",
+        "de": "Kalligrafie-Raster",
+        "fr": "Règle de Calligraphie",
+        "ru": "Линейка каллиграфии"
+      }
     }
   ]
 }
