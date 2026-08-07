@@ -3479,6 +3479,21 @@
         "fr": "Tuteur de chinois classique",
         "ru": "Школа разметки вэньяня"
       }
+    },
+    {
+      "appleId": "6799232722",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "编目通",
+        "en": "MARC Catalog Tutor",
+        "ja": "MARC目録トレーナー",
+        "ko": "MARC 목록 튜터",
+        "es": "Tutor de Catalogación MARC",
+        "pt": "Tutor de Catalogação MARC",
+        "de": "MARC Katalogisierungstrainer",
+        "fr": "Tuteur de catalogage MARC",
+        "ru": "Тренажёр каталогизации MARC"
+      }
     }
   ]
 }
