@@ -2474,6 +2474,21 @@
         "fr": "Planificateur d’oculaires",
         "ru": "Расчёт окуляров"
       }
+    },
+    {
+      "appleId": "6798931490",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "合唱队形",
+        "en": "Choir Formation",
+        "ja": "合唱フォーメーション",
+        "ko": "합창 대형",
+        "es": "Formación Coral",
+        "pt": "Formação de Coral",
+        "de": "Choraufstellung",
+        "fr": "Formation de Chœur",
+        "ru": "Расстановка хора"
+      }
     }
   ]
 }
