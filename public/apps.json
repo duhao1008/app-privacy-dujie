@@ -3539,6 +3539,21 @@
         "fr": "Rituel Parfumé",
         "ru": "Ритм Аромата"
       }
+    },
+    {
+      "appleId": "6799245262",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "热缩管尺",
+        "en": "Heat-Shrink Gauge",
+        "ja": "熱収縮チューブゲージ",
+        "ko": "열수축 튜브 게이지",
+        "es": "Medidor Termorretráctil",
+        "pt": "Medidor Termorretrátil",
+        "de": "Schrumpfschlauch-Messer",
+        "fr": "Jauge Thermorétractable",
+        "ru": "Калибр термоусадки"
+      }
     }
   ]
 }
