@@ -2444,6 +2444,21 @@
         "fr": "Atelier de Magie",
         "ru": "Мастерская фокусника"
       }
+    },
+    {
+      "appleId": "6798925565",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "海缸盐度尺",
+        "en": "Reef Salinity Scale",
+        "ja": "海水水槽の塩分計算",
+        "ko": "해수어항 염도 계산기",
+        "es": "Salinidad de Arrecife",
+        "pt": "Salinidade do Recife",
+        "de": "Riff-Salinität",
+        "fr": "Salinité du Récif",
+        "ru": "Солёность рифового аквариума"
+      }
     }
   ]
 }
