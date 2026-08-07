@@ -2909,6 +2909,21 @@
         "fr": "Planificateur ROI Salon",
         "ru": "Планировщик ROI выставки"
       }
+    },
+    {
+      "appleId": "6799063769",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "拼图进度册",
+        "en": "Jigsaw Progress Log",
+        "ja": "ジグソー進捗ノート",
+        "ko": "직소 퍼즐 진도 노트",
+        "es": "Diario de Puzles",
+        "pt": "Diário de Quebra-Cabeças",
+        "de": "Puzzle-Fortschrittsbuch",
+        "fr": "Carnet de Puzzle",
+        "ru": "Дневник пазлов"
+      }
     }
   ]
 }
