@@ -3134,6 +3134,21 @@
         "fr": "Cahiers et Collation",
         "ru": "Тетради и подборка"
       }
+    },
+    {
+      "appleId": "6799129650",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "箱单匠",
+        "en": "Packing List Craftsman",
+        "ja": "梱包明細の匠",
+        "ko": "포장명세 장인",
+        "es": "Maestro de Packing List",
+        "pt": "Mestre da Lista de Carga",
+        "de": "Packlisten Meister",
+        "fr": "Maître du Colisage",
+        "ru": "Мастер упаковочных листов"
+      }
     }
   ]
 }
