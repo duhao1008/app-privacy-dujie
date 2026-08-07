@@ -2294,6 +2294,21 @@
         "fr": "Maître du Rayonnage",
         "ru": "Мастер расстановки"
       }
+    },
+    {
+      "appleId": "6798896470",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "席序",
+        "en": "SeatOrder",
+        "ja": "席順ノート",
+        "ko": "자리순서",
+        "es": "Orden de Mesa",
+        "pt": "Ordem de Mesa",
+        "de": "Sitzordnung",
+        "fr": "Plan de Table",
+        "ru": "Порядок мест"
+      }
     }
   ]
 }
