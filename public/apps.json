@@ -2519,6 +2519,21 @@
         "fr": "Symboles de Patron",
         "ru": "Знаки выкройки"
       }
+    },
+    {
+      "appleId": "6798945225",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "书况",
+        "en": "Book Condition Desk",
+        "ja": "本の状態カルテ",
+        "ko": "책 상태 기록장",
+        "es": "Estado de Libros",
+        "pt": "Estado dos Livros",
+        "de": "Buchzustand",
+        "fr": "État des Livres",
+        "ru": "Состояние книг"
+      }
     }
   ]
 }
