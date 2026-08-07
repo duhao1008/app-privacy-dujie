@@ -2609,6 +2609,21 @@
         "fr": "Échelle Céramique",
         "ru": "Керамический масштаб"
       }
+    },
+    {
+      "appleId": "6798971526",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "马术地杆尺",
+        "en": "Equestrian Pole Planner",
+        "ja": "馬術ポールプランナー",
+        "ko": "승마 폴 플래너",
+        "es": "Planificador de Barras",
+        "pt": "Planejador de Barras",
+        "de": "Stangenplaner Reiten",
+        "fr": "Planificateur de barres",
+        "ru": "Планировщик жердей"
+      }
     }
   ]
 }
