@@ -2834,6 +2834,21 @@
         "fr": "Calcul de Pliage",
         "ru": "Расчёт гибки листа"
       }
+    },
+    {
+      "appleId": "6799039895",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "调律工尺",
+        "en": "Piano Tuning Workbench",
+        "ja": "ピアノ調律ワークベンチ",
+        "ko": "피아노 조율 워크벤치",
+        "es": "Banco de Afinación Piano",
+        "pt": "Bancada de Afinação",
+        "de": "Klavierstimm-Werkbank",
+        "fr": "Atelier Accord Piano",
+        "ru": "Мастерская настройки"
+      }
     }
   ]
 }
