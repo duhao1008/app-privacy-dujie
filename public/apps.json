@@ -3074,6 +3074,21 @@
         "fr": "Règle Passe-Partout",
         "ru": "Линейка паспарту"
       }
+    },
+    {
+      "appleId": "6799113712",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "灯址簿",
+        "en": "DMX Patch Planner",
+        "ja": "DMXアドレス帳",
+        "ko": "DMX 주소 노트",
+        "es": "Planificador DMX",
+        "pt": "Planejador DMX",
+        "de": "DMX Patchplaner",
+        "fr": "Planificateur DMX",
+        "ru": "DMX Планировщик"
+      }
     }
   ]
 }
