@@ -3359,6 +3359,21 @@
         "fr": "Symboles de Carte Aérienne",
         "ru": "Символы авиакарт"
       }
+    },
+    {
+      "appleId": "6799199441",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "书号校验",
+        "en": "ISBN Check",
+        "ja": "ISBNチェック",
+        "ko": "ISBN 검사",
+        "es": "Verificador ISBN",
+        "pt": "Verificador ISBN",
+        "de": "ISBN Prüfer",
+        "fr": "Vérificateur ISBN",
+        "ru": "Проверка ISBN"
+      }
     }
   ]
 }
