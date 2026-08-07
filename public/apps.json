@@ -3449,6 +3449,21 @@
         "fr": "Règle de Strings Solaires",
         "ru": "Линейка солнечных стрингов"
       }
+    },
+    {
+      "appleId": "6799225484",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "龙舟排位",
+        "en": "Dragon Boat Lineup",
+        "ja": "ドラゴンボート配艇",
+        "ko": "드래곤보트 라인업",
+        "es": "Alineación Dragon Boat",
+        "pt": "Escalação Dragon Boat",
+        "de": "Drachenboot-Aufstellung",
+        "fr": "Équipage Dragon Boat",
+        "ru": "Состав лодки-дракона"
+      }
     }
   ]
 }
