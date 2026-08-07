@@ -2564,6 +2564,21 @@
         "fr": "Carnet de Mise en Scène",
         "ru": "Сценический блокнот"
       }
+    },
+    {
+      "appleId": "6798960616",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "暗房计时",
+        "en": "Darkroom Process Timer",
+        "ja": "暗室現像タイマー",
+        "ko": "암실 현상 타이머",
+        "es": "Temporizador de Revelado",
+        "pt": "Timer de Revelação",
+        "de": "Dunkelkammer-Timer",
+        "fr": "Minuteur de Développement",
+        "ru": "Таймер фотолаборатории"
+      }
     }
   ]
 }
