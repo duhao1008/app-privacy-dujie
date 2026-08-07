@@ -2384,6 +2384,21 @@
         "fr": "Atelier Spine de Flèche",
         "ru": "Мастерская спайна стрел"
       }
+    },
+    {
+      "appleId": "6798913993",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "移调读谱",
+        "en": "Concert Pitch Trainer",
+        "ja": "移調読譜トレーナー",
+        "ko": "이조 초견 트레이너",
+        "es": "Entrenador de Transposición",
+        "pt": "Treino de Transposição",
+        "de": "Transpositions-Trainer",
+        "fr": "Coach de Transposition",
+        "ru": "Тренажёр транспонирования"
+      }
     }
   ]
 }
