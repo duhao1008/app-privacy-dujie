@@ -2594,6 +2594,21 @@
         "fr": "Calibrage du Couple",
         "ru": "Калибровка момента"
       }
+    },
+    {
+      "appleId": "6798967353",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "陶缩尺",
+        "en": "ClayScale",
+        "ja": "陶芸収縮スケール",
+        "ko": "도예 수축자",
+        "es": "Escala Cerámica",
+        "pt": "Escala Cerâmica",
+        "de": "Tonmaß",
+        "fr": "Échelle Céramique",
+        "ru": "Керамический масштаб"
+      }
     }
   ]
 }
