@@ -2819,6 +2819,21 @@
         "fr": "Exposition Argentique",
         "ru": "Плёночная экспозиция"
       }
+    },
+    {
+      "appleId": "6799032610",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "折弯展开尺",
+        "en": "Bend Flat Calculator",
+        "ja": "板金曲げ展開計算",
+        "ko": "판금 절곡 전개 계산기",
+        "es": "Cálculo de Plegado",
+        "pt": "Cálculo de Dobra",
+        "de": "Blechbiege-Rechner",
+        "fr": "Calcul de Pliage",
+        "ru": "Расчёт гибки листа"
+      }
     }
   ]
 }
