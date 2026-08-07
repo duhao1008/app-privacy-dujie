@@ -2999,6 +2999,21 @@
         "fr": "Académie Inspection de Câbles",
         "ru": "Академия проверки канатов"
       }
+    },
+    {
+      "appleId": "6799092490",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "录书工时",
+        "en": "Narration Worktime",
+        "ja": "朗読工数",
+        "ko": "낭독 작업시간",
+        "es": "Horas de Narración",
+        "pt": "Horas de Narração",
+        "de": "Sprechzeit",
+        "fr": "Temps de Narration",
+        "ru": "Время озвучивания"
+      }
     }
   ]
 }
