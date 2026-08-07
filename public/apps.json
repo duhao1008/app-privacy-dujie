@@ -2624,6 +2624,21 @@
         "fr": "Planificateur de barres",
         "ru": "Планировщик жердей"
       }
+    },
+    {
+      "appleId": "6798974495",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "卡诺图练习",
+        "en": "Karnaugh Map Practice",
+        "ja": "カルノー図練習",
+        "ko": "카르노 맵 연습",
+        "es": "Práctica de Mapas K",
+        "pt": "Prática de Mapas K",
+        "de": "Karnaugh-Map-Übungen",
+        "fr": "Exercices de Karnaugh",
+        "ru": "Карты Карно: практика"
+      }
     }
   ]
 }
