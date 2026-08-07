@@ -3104,6 +3104,21 @@
         "fr": "TargetLog",
         "ru": "TargetLog"
       }
+    },
+    {
+      "appleId": "6799121436",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "机场标志",
+        "en": "Airfield Signs",
+        "ja": "飛行場標識",
+        "ko": "비행장 표지",
+        "es": "Señales de Aeródromo",
+        "pt": "Sinais de Aeródromo",
+        "de": "Flugplatzzeichen",
+        "fr": "Signes d’Aérodrome",
+        "ru": "Знаки аэродрома"
+      }
     }
   ]
 }
