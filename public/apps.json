@@ -2579,6 +2579,21 @@
         "fr": "Minuteur de Développement",
         "ru": "Таймер фотолаборатории"
       }
+    },
+    {
+      "appleId": "6798963306",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "扭矩校算",
+        "en": "Torque Calibration",
+        "ja": "トルク校正",
+        "ko": "토크 보정",
+        "es": "Calibrador de Torque",
+        "pt": "Calibrador de Torque",
+        "de": "Drehmoment-Kalibrierung",
+        "fr": "Calibrage du Couple",
+        "ru": "Калибровка момента"
+      }
     }
   ]
 }
