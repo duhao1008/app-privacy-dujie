@@ -3494,6 +3494,21 @@
         "fr": "Tuteur de catalogage MARC",
         "ru": "Тренажёр каталогизации MARC"
       }
+    },
+    {
+      "appleId": "6799235770",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "计件工资簿",
+        "en": "Piecework Payroll Book",
+        "ja": "出来高給与台帳",
+        "ko": "성과급 임금장부",
+        "es": "Nómina por Pieza",
+        "pt": "Folha por Peça",
+        "de": "Akkordlohn-Buch",
+        "fr": "Paie à la Pièce",
+        "ru": "Сдельная зарплата"
+      }
     }
   ]
 }
