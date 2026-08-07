@@ -3179,6 +3179,21 @@
         "fr": "Laboratoire de Bougies",
         "ru": "Лаборатория свечей"
       }
+    },
+    {
+      "appleId": "6799142728",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "平键工尺",
+        "en": "Parallel Key Gauge",
+        "ja": "平行キーゲージ",
+        "ko": "평행키 게이지",
+        "es": "Calibre de Chavetas",
+        "pt": "Calibre de Chavetas",
+        "de": "Passfeder-Lehre",
+        "fr": "Jauge de Clavettes",
+        "ru": "Калибр шпонок"
+      }
     }
   ]
 }
