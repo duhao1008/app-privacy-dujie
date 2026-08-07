@@ -2279,6 +2279,21 @@
         "fr": "Coach Équations Chimiques",
         "ru": "Тренер химических уравнений"
       }
+    },
+    {
+      "appleId": "6798892568",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "排架通",
+        "en": "ShelfWise",
+        "ja": "配架マスター",
+        "ko": "배가마스터",
+        "es": "OrdenaSignaturas",
+        "pt": "Ordem na Estante",
+        "de": "RegalSortierer",
+        "fr": "Maître du Rayonnage",
+        "ru": "Мастер расстановки"
+      }
     }
   ]
 }
