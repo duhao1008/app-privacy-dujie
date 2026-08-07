@@ -2984,6 +2984,21 @@
         "fr": "Carnet de Fartage",
         "ru": "Журнал лыжной смазки"
       }
+    },
+    {
+      "appleId": "6799089068",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "绳检学堂",
+        "en": "RopeCheck Academy",
+        "ja": "ワイヤロープ検査学習室",
+        "ko": "와이어로프 검사 학당",
+        "es": "Academia Inspección de Cables",
+        "pt": "Academia de Inspeção de Cabos",
+        "de": "Drahtseil-Prüfakademie",
+        "fr": "Académie Inspection de Câbles",
+        "ru": "Академия проверки канатов"
+      }
     }
   ]
 }
