@@ -3314,6 +3314,21 @@
         "fr": "Jauge de Tension",
         "ru": "Измеритель натяжения"
       }
+    },
+    {
+      "appleId": "6799180039",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "纱窗下料",
+        "en": "Screen Cut Calculator",
+        "ja": "網戸カット計算",
+        "ko": "방충망 재단 계산기",
+        "es": "Corte de Mosquiteras",
+        "pt": "Corte de Mosquiteiros",
+        "de": "Fliegengitter Zuschnitt",
+        "fr": "Découpe de Moustiquaire",
+        "ru": "Раскрой москитных сеток"
+      }
     }
   ]
 }
