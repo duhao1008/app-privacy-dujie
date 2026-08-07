@@ -2789,6 +2789,21 @@
         "fr": "ChèqueVérif",
         "ru": "ЧекКонтроль"
       }
+    },
+    {
+      "appleId": "6799023758",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "桥牌赛分",
+        "en": "Bridge Score Ledger",
+        "ja": "ブリッジ得点帳",
+        "ko": "브리지 점수 장부",
+        "es": "Marcador de Bridge",
+        "pt": "Placar de Bridge",
+        "de": "Bridge-Punktezähler",
+        "fr": "Score de Bridge",
+        "ru": "Счёт в бридже"
+      }
     }
   ]
 }
