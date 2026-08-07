@@ -3569,6 +3569,21 @@
         "fr": "Atelier Humidité du Bois",
         "ru": "Влажность древесины"
       }
+    },
+    {
+      "appleId": "6799252760",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "剑池赛记",
+        "en": "Fencing Pool Log",
+        "ja": "フェンシング・プール記録",
+        "ko": "펜싱 풀 경기 기록",
+        "es": "Registro de Poules",
+        "pt": "Registro de Poules",
+        "de": "Fecht-Pool Protokoll",
+        "fr": "Carnet de Poule",
+        "ru": "Фехтование: Пулы"
+      }
     }
   ]
 }
