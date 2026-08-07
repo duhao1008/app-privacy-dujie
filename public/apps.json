@@ -2744,6 +2744,21 @@
         "fr": "Allure Triathlon",
         "ru": "Темп триатлона"
       }
+    },
+    {
+      "appleId": "6799009260",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "钩针识图",
+        "en": "Crochet Chart Tutor",
+        "ja": "かぎ針チャート練習帳",
+        "ko": "코바늘 도안 읽기",
+        "es": "Tutor de Gráficos Crochet",
+        "pt": "Tutor de Gráficos de Crochê",
+        "de": "Häkelschrift Trainer",
+        "fr": "Tuteur de Diagrammes Crochet",
+        "ru": "Тренажёр схем вязания"
+      }
     }
   ]
 }
