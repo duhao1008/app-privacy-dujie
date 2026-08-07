@@ -2879,6 +2879,21 @@
         "fr": "Exercice de Tours",
         "ru": "Тренажёр измерений"
       }
+    },
+    {
+      "appleId": "6799056089",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "版志",
+        "en": "Edition Chronicle",
+        "ja": "版本誌",
+        "ko": "판본지",
+        "es": "Crónica de Ediciones",
+        "pt": "Crônica de Edições",
+        "de": "Editionschronik",
+        "fr": "Chronique des Éditions",
+        "ru": "Летопись изданий"
+      }
     }
   ]
 }
