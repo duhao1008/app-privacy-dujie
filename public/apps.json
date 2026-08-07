@@ -2759,6 +2759,21 @@
         "fr": "Tuteur de Diagrammes Crochet",
         "ru": "Тренажёр схем вязания"
       }
+    },
+    {
+      "appleId": "6799014917",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "护书簿",
+        "en": "BookCare Ledger",
+        "ja": "蔵書ケア台帳",
+        "ko": "책보존 기록장",
+        "es": "Registro CuidaLibros",
+        "pt": "Diário CuidaLivros",
+        "de": "Buchpflege-Protokoll",
+        "fr": "Carnet Soin des Livres",
+        "ru": "Журнал ухода за книгами"
+      }
     }
   ]
 }
