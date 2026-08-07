@@ -2324,6 +2324,21 @@
         "fr": "Console du Maître",
         "ru": "Пульт ведущего"
       }
+    },
+    {
+      "appleId": "6798901901",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "祭期簿",
+        "en": "Memorial Date Ledger",
+        "ja": "法要日手帳",
+        "ko": "기일 기록장",
+        "es": "Libro de Conmemoraciones",
+        "pt": "Livro de Datas Memoriais",
+        "de": "Gedenktagebuch",
+        "fr": "Registre du Souvenir",
+        "ru": "Книга памятных дат"
+      }
     }
   ]
 }
