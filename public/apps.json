@@ -3164,6 +3164,21 @@
         "fr": "Pratique de Récitation",
         "ru": "Тренер скороговорок"
       }
+    },
+    {
+      "appleId": "6799137954",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "烛方",
+        "en": "Candle Formula Lab",
+        "ja": "キャンドル配合ラボ",
+        "ko": "캔들 포뮬러 랩",
+        "es": "Laboratorio de Velas",
+        "pt": "Laboratório de Velas",
+        "de": "Kerzenformel Labor",
+        "fr": "Laboratoire de Bougies",
+        "ru": "Лаборатория свечей"
+      }
     }
   ]
 }
