@@ -3194,6 +3194,21 @@
         "fr": "Jauge de Clavettes",
         "ru": "Калибр шпонок"
       }
+    },
+    {
+      "appleId": "6799145771",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "茶评簿",
+        "en": "Tea Sensory Ledger",
+        "ja": "茶審評ノート",
+        "ko": "차 감평 노트",
+        "es": "Cuaderno Sensorial de Té",
+        "pt": "Caderno Sensorial de Chá",
+        "de": "Tee-Sensorikbuch",
+        "fr": "Carnet Sensoriel du Thé",
+        "ru": "Сенсорный журнал чая"
+      }
     }
   ]
 }
