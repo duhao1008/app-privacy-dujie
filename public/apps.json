@@ -3659,6 +3659,21 @@
         "fr": "Carnet d’Éclosion",
         "ru": "Журнал инкубации"
       }
+    },
+    {
+      "appleId": "6799272471",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "纱支布重",
+        "en": "Yarn Count & Weight",
+        "ja": "糸番手・生地重量",
+        "ko": "번수와 원단 중량",
+        "es": "Título y Peso Textil",
+        "pt": "Título e Peso Têxtil",
+        "de": "Garnfeinheit & Gewicht",
+        "fr": "Titre & Poids Textile",
+        "ru": "Номер пряжи и вес ткани"
+      }
     }
   ]
 }
