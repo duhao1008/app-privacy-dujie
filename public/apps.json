@@ -2774,6 +2774,21 @@
         "fr": "Carnet Soin des Livres",
         "ru": "Журнал ухода за книгами"
       }
+    },
+    {
+      "appleId": "6799018545",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "支票核填",
+        "en": "ChequeCheck",
+        "ja": "小切手チェック",
+        "ko": "수표 확인",
+        "es": "ChequeControl",
+        "pt": "ChequeCerto",
+        "de": "ScheckPrüfer",
+        "fr": "ChèqueVérif",
+        "ru": "ЧекКонтроль"
+      }
     }
   ]
 }
