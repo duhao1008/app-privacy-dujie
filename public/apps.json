@@ -3524,6 +3524,21 @@
         "fr": "Laboratoire de Dés",
         "ru": "Лаборатория дайспулов"
       }
+    },
+    {
+      "appleId": "6799242770",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "闻序",
+        "en": "Scent Sequence",
+        "ja": "香り帖",
+        "ko": "향기결",
+        "es": "Ritual de Aroma",
+        "pt": "Ritual de Aroma",
+        "de": "Duftfolge",
+        "fr": "Rituel Parfumé",
+        "ru": "Ритм Аромата"
+      }
     }
   ]
 }
