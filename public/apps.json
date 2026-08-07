@@ -2549,6 +2549,21 @@
         "fr": "Franchise Conteneur",
         "ru": "Свободный срок контейнера"
       }
+    },
+    {
+      "appleId": "6798956289",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "走位本",
+        "en": "Blocking Book",
+        "ja": "舞台ブロッキング帳",
+        "ko": "무대 동선 노트",
+        "es": "Cuaderno de Escena",
+        "pt": "Caderno de Marcação",
+        "de": "Regiebuch",
+        "fr": "Carnet de Mise en Scène",
+        "ru": "Сценический блокнот"
+      }
     }
   ]
 }
