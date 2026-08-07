@@ -2654,6 +2654,21 @@
         "fr": "IndexPro",
         "ru": "Индексатор"
       }
+    },
+    {
+      "appleId": "6798983301",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "提成阶梯",
+        "en": "Commission Tiers",
+        "ja": "歩合報酬ステップ",
+        "ko": "단계별 수수료",
+        "es": "Comisiones por Tramos",
+        "pt": "Comissões por Faixas",
+        "de": "Provisionsstufen",
+        "fr": "Commissions par Paliers",
+        "ru": "Ступени комиссий"
+      }
     }
   ]
 }
