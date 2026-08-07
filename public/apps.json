@@ -3344,6 +3344,21 @@
         "fr": "Checkout Fléchettes",
         "ru": "Дартс Чекаут"
       }
+    },
+    {
+      "appleId": "6799188101",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "航图符号通",
+        "en": "Aero Symbol Trainer",
+        "ja": "航空図記号トレーナー",
+        "ko": "항공차트 기호 트레이너",
+        "es": "Símbolos de Carta Aérea",
+        "pt": "Símbolos de Carta Aérea",
+        "de": "Flugkartensymbole",
+        "fr": "Symboles de Carte Aérienne",
+        "ru": "Символы авиакарт"
+      }
     }
   ]
 }
