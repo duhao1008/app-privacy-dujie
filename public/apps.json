@@ -3434,6 +3434,21 @@
         "fr": "Calcul Vérin Hydraulique",
         "ru": "Расчёт гидроцилиндра"
       }
+    },
+    {
+      "appleId": "6799220282",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "组串尺",
+        "en": "Solar String Ruler",
+        "ja": "太陽光ストリング定規",
+        "ko": "태양광 스트링 자",
+        "es": "Regla de Strings Solares",
+        "pt": "Régua de Strings Solares",
+        "de": "Solar-String-Maß",
+        "fr": "Règle de Strings Solaires",
+        "ru": "Линейка солнечных стрингов"
+      }
     }
   ]
 }
