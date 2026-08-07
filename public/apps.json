@@ -3419,6 +3419,21 @@
         "fr": "Règle de Calligraphie",
         "ru": "Линейка каллиграфии"
       }
+    },
+    {
+      "appleId": "6799215853",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "液压缸配算",
+        "en": "Hydraulic Cylinder Calc",
+        "ja": "油圧シリンダー計算",
+        "ko": "유압 실린더 계산기",
+        "es": "Cálculo Cilindro Hidráulico",
+        "pt": "Cálculo de Cilindro Hidráulico",
+        "de": "Hydraulikzylinder-Rechner",
+        "fr": "Calcul Vérin Hydraulique",
+        "ru": "Расчёт гидроцилиндра"
+      }
     }
   ]
 }
