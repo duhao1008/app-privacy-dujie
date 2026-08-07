@@ -2684,6 +2684,21 @@
         "fr": "Mon Ton Karaoké",
         "ru": "Караоке: Моя тональность"
       }
+    },
+    {
+      "appleId": "6798992799",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "链裁尺",
+        "en": "ZipCut Ruler",
+        "ja": "ファスナー裁断尺",
+        "ko": "지퍼 재단자",
+        "es": "Regla Cortacremalleras",
+        "pt": "Régua Corta-Zíper",
+        "de": "Reißverschluss-Schneider",
+        "fr": "Règle Coupe-Zip",
+        "ru": "Линейка для молний"
+      }
     }
   ]
 }
