@@ -2669,6 +2669,21 @@
         "fr": "Commissions par Paliers",
         "ru": "Ступени комиссий"
       }
+    },
+    {
+      "appleId": "6798987445",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "K歌定调本",
+        "en": "Karaoke Keybook",
+        "ja": "カラオケキー手帳",
+        "ko": "노래 키 노트",
+        "es": "Mi Tono Karaoke",
+        "pt": "Meu Tom de Karaokê",
+        "de": "Karaoke Tonbuch",
+        "fr": "Mon Ton Karaoké",
+        "ru": "Караоке: Моя тональность"
+      }
     }
   ]
 }
