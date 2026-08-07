@@ -2864,6 +2864,21 @@
         "fr": "Carnet de Curling",
         "ru": "Журнал кёрлинга"
       }
+    },
+    {
+      "appleId": "6799050307",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "测回练习",
+        "en": "Theodolite Round Tutor",
+        "ja": "測回トレーナー",
+        "ko": "측회 연습",
+        "es": "Práctica de Series",
+        "pt": "Prática de Séries",
+        "de": "Messsatz-Übung",
+        "fr": "Exercice de Tours",
+        "ru": "Тренажёр измерений"
+      }
     }
   ]
 }
