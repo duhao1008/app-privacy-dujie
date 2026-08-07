@@ -3014,6 +3014,21 @@
         "fr": "Temps de Narration",
         "ru": "Время озвучивания"
       }
+    },
+    {
+      "appleId": "6799096798",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "差旅核算",
+        "en": "Travel Expense Ledger",
+        "ja": "出張経費台帳",
+        "ko": "출장 경비 장부",
+        "es": "Gastos de Viaje",
+        "pt": "Despesas de Viagem",
+        "de": "Reisekostenbuch",
+        "fr": "Frais de Déplacement",
+        "ru": "Учёт командировок"
+      }
     }
   ]
 }
