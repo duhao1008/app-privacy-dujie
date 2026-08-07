@@ -2429,6 +2429,21 @@
         "fr": "Balance Âgée",
         "ru": "Реестр дебиторки"
       }
+    },
+    {
+      "appleId": "6798921599",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "魔序",
+        "en": "Magic Set Workbench",
+        "ja": "マジックセット工房",
+        "ko": "매직 세트 워크벤치",
+        "es": "Taller de Magia",
+        "pt": "Oficina de Mágica",
+        "de": "Zaubershow-Werkbank",
+        "fr": "Atelier de Magie",
+        "ru": "Мастерская фокусника"
+      }
     }
   ]
 }
