@@ -3389,6 +3389,21 @@
         "fr": "Préparation par Cartons",
         "ru": "Сборка по коробкам"
       }
+    },
+    {
+      "appleId": "6799207824",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "卡册排页",
+        "en": "Card Binder Layout",
+        "ja": "カードバインダー整理",
+        "ko": "카드 바인더 정리",
+        "es": "Organizador de Álbumes",
+        "pt": "Organizador de Fichários",
+        "de": "Kartenalbum Planer",
+        "fr": "Classeur de Cartes",
+        "ru": "Альбом для карт"
+      }
     }
   ]
 }
