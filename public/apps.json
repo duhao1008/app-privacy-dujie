@@ -3509,6 +3509,21 @@
         "fr": "Paie à la Pièce",
         "ru": "Сдельная зарплата"
       }
+    },
+    {
+      "appleId": "6799238952",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "骰池推演",
+        "en": "Dice Pool Lab",
+        "ja": "ダイスプール研究所",
+        "ko": "다이스 풀 연구소",
+        "es": "Laboratorio de Dados",
+        "pt": "Laboratório de Dados",
+        "de": "Würfelpool-Labor",
+        "fr": "Laboratoire de Dés",
+        "ru": "Лаборатория дайспулов"
+      }
     }
   ]
 }
