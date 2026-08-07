@@ -3464,6 +3464,21 @@
         "fr": "Équipage Dragon Boat",
         "ru": "Состав лодки-дракона"
       }
+    },
+    {
+      "appleId": "6799228395",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "句读研习",
+        "en": "Classical Chinese Tutor",
+        "ja": "漢文句読トレーナー",
+        "ko": "한문 구두 연습",
+        "es": "Tutor de Chino Clásico",
+        "pt": "Tutor de Chinês Clássico",
+        "de": "Klassisches Chinesisch",
+        "fr": "Tuteur de chinois classique",
+        "ru": "Школа разметки вэньяня"
+      }
     }
   ]
 }
