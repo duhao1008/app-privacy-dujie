@@ -3284,6 +3284,21 @@
         "fr": "Parcours Escape Room",
         "ru": "Сценарий квест-комнаты"
       }
+    },
+    {
+      "appleId": "6799173071",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "甲片尺",
+        "en": "Press-On Nail Sizer",
+        "ja": "ネイルチップサイズ帳",
+        "ko": "붙이는 네일 사이즈",
+        "es": "Medidor de Uñas Postizas",
+        "pt": "Medidor de Unhas Postiças",
+        "de": "Press-on-Nagelgrößen",
+        "fr": "Mesure Ongles Press-On",
+        "ru": "Размеры накладных ногтей"
+      }
     }
   ]
 }
