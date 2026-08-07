@@ -3629,6 +3629,21 @@
         "fr": "Registre d’Échantillons",
         "ru": "Журнал образцов"
       }
+    },
+    {
+      "appleId": "6799266664",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "花绳图谱",
+        "en": "String Figure Atlas",
+        "ja": "あやとり図鑑",
+        "ko": "실뜨기 도감",
+        "es": "Atlas de Figuras de Hilo",
+        "pt": "Atlas de Figuras de Barbante",
+        "de": "Fadenspiel-Atlas",
+        "fr": "Atlas des Jeux de Ficelle",
+        "ru": "Атлас фигур из верёвки"
+      }
     }
   ]
 }
