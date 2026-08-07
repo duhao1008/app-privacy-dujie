@@ -2534,6 +2534,21 @@
         "fr": "État des Livres",
         "ru": "Состояние книг"
       }
+    },
+    {
+      "appleId": "6798953619",
+      "lastUpdated": "2026-08-07",
+      "appName": {
+        "zh": "箱期费",
+        "en": "Container Free Time",
+        "ja": "コンテナフリータイム",
+        "ko": "컨테이너 프리타임",
+        "es": "Tiempo Libre Contenedor",
+        "pt": "Prazo Livre do Contêiner",
+        "de": "Container-Freistellzeit",
+        "fr": "Franchise Conteneur",
+        "ru": "Свободный срок контейнера"
+      }
     }
   ]
 }
