@@ -4409,6 +4409,21 @@
         "fr": "Mesure Filetage 3 Fils",
         "ru": "Резьба: метод трёх проволок"
       }
+    },
+    {
+      "appleId": "6799492668",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "乒团排阵",
+        "en": "Table Tennis Team Tactics",
+        "ja": "卓球チームオーダー",
+        "ko": "탁구 팀 라인업",
+        "es": "Alineación Tenis de Mesa",
+        "pt": "Escalação Tênis de Mesa",
+        "de": "Tischtennis Teamplaner",
+        "fr": "Compo Tennis de Table",
+        "ru": "Состав для настольного тенниса"
+      }
     }
   ]
 }
