@@ -4394,6 +4394,21 @@
         "fr": "Calcul Isolation Tuyaux",
         "ru": "Расчёт изоляции труб"
       }
+    },
+    {
+      "appleId": "6799489962",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "量针尺",
+        "en": "Thread Wire Gauge",
+        "ja": "ねじ三針ゲージ",
+        "ko": "나사산 3선 게이지",
+        "es": "Medidor de Roscas 3 Hilos",
+        "pt": "Medidor de Rosca 3 Fios",
+        "de": "Gewinde-Drahtmessung",
+        "fr": "Mesure Filetage 3 Fils",
+        "ru": "Резьба: метод трёх проволок"
+      }
     }
   ]
 }
