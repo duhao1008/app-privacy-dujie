@@ -4664,6 +4664,21 @@
         "fr": "Compteur de Lancers",
         "ru": "Счётчик подач"
       }
+    },
+    {
+      "appleId": "6799535143",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "有机命名训练",
+        "en": "Organic Naming Practice",
+        "ja": "有機化学命名トレーナー",
+        "ko": "유기화학 명명 연습",
+        "es": "Práctica de Nomenclatura",
+        "pt": "Prática de Nomenclatura",
+        "de": "Organische Namen üben",
+        "fr": "Exercices de Nomenclature",
+        "ru": "Практика номенклатуры"
+      }
     }
   ]
 }
