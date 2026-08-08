@@ -3689,6 +3689,21 @@
         "fr": "Jauge d'Engrenages",
         "ru": "Калибр сменных шестерён"
       }
+    },
+    {
+      "appleId": "6799277753",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "定向段策",
+        "en": "O-Leg Planner",
+        "ja": "Oレッグプランナー",
+        "ko": "O-레그 플래너",
+        "es": "Planificador de Tramos O",
+        "pt": "Planejador de Pernas O",
+        "de": "OL-Etappenplaner",
+        "fr": "Planificateur Étapes CO",
+        "ru": "Планировщик этапов ОЛ"
+      }
     }
   ]
 }
