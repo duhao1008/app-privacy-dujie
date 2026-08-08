@@ -4544,6 +4544,21 @@
         "fr": "Registre Juge de Marche",
         "ru": "Журнал судьи по ходьбе"
       }
+    },
+    {
+      "appleId": "6799514954",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "化学式练习",
+        "en": "Chemical Formula Practice",
+        "ja": "化学式トレーニング",
+        "ko": "화학식 연습",
+        "es": "Práctica de Fórmulas",
+        "pt": "Prática de Fórmulas",
+        "de": "Chemieformeln üben",
+        "fr": "Exercices de Formules",
+        "ru": "Тренажёр химических формул"
+      }
     }
   ]
 }
