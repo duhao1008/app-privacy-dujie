@@ -4514,6 +4514,21 @@
         "fr": "Jauge de Filetage",
         "ru": "Калибр трубной резьбы"
       }
+    },
+    {
+      "appleId": "6799510954",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "砝码配重",
+        "en": "Calibration Weight Planner",
+        "ja": "分銅組み合わせプランナー",
+        "ko": "분동 조합 플래너",
+        "es": "Planificador de Pesas",
+        "pt": "Planejador de Pesos",
+        "de": "Prüfgewicht-Planer",
+        "fr": "Planificateur de Poids",
+        "ru": "Планировщик гирь"
+      }
     }
   ]
 }
