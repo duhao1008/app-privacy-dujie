@@ -3749,6 +3749,21 @@
         "fr": "Clôture de Caisse",
         "ru": "Закрытие кассы"
       }
+    },
+    {
+      "appleId": "6799367138",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "手碟谱匠",
+        "en": "Handpan Pattern Studio",
+        "ja": "ハンドパン譜工房",
+        "ko": "핸드팬 패턴 스튜디오",
+        "es": "Estudio de Handpan",
+        "pt": "Estúdio de Handpan",
+        "de": "Handpan Pattern Studio",
+        "fr": "Studio de Handpan",
+        "ru": "Студия хэндпана"
+      }
     }
   ]
 }
