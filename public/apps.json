@@ -4529,6 +4529,21 @@
         "fr": "Planificateur de Poids",
         "ru": "Планировщик гирь"
       }
+    },
+    {
+      "appleId": "6799512206",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "竞走判罚簿",
+        "en": "Race Walk Judge Log",
+        "ja": "競歩ジャッジ記録簿",
+        "ko": "경보 심판 기록부",
+        "es": "Registro Juez de Marcha",
+        "pt": "Registro Juiz de Marcha",
+        "de": "Gehrichter-Protokoll",
+        "fr": "Registre Juge de Marche",
+        "ru": "Журнал судьи по ходьбе"
+      }
     }
   ]
 }
