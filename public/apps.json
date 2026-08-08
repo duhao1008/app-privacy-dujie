@@ -3809,6 +3809,21 @@
         "fr": "Règle de Biais",
         "ru": "Линейка косой бейки"
       }
+    },
+    {
+      "appleId": "6799374888",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "排球轮转板",
+        "en": "Volley Rotation Board",
+        "ja": "バレー・ローテーションボード",
+        "ko": "배구 로테이션 보드",
+        "es": "Pizarra Rotación Vóley",
+        "pt": "Quadro de Rotação Vôlei",
+        "de": "Volleyball Rotationsplan",
+        "fr": "Tableau Rotation Volley",
+        "ru": "Ротации в волейболе"
+      }
     }
   ]
 }
