@@ -4424,6 +4424,21 @@
         "fr": "Compo Tennis de Table",
         "ru": "Состав для настольного тенниса"
       }
+    },
+    {
+      "appleId": "6799496472",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "指拼练习",
+        "en": "Fingerspelling Practice",
+        "ja": "中国指文字トレーニング",
+        "ko": "중국 지문자 연습",
+        "es": "Práctica de Dactilología",
+        "pt": "Prática de Datilologia",
+        "de": "Fingeralphabet üben",
+        "fr": "Exercices de dactylologie",
+        "ru": "Китайская дактилология"
+      }
     }
   ]
 }
