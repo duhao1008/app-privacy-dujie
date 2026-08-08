@@ -4739,6 +4739,21 @@
         "fr": "Registre d’Élevage Canin",
         "ru": "Журнал разведения собак"
       }
+    },
+    {
+      "appleId": "6799550751",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "绕组尺",
+        "en": "Coil Winding Ruler",
+        "ja": "巻線スケール",
+        "ko": "권선 자",
+        "es": "Regla de Bobinado",
+        "pt": "Régua de Enrolamento",
+        "de": "Wicklungsmaß",
+        "fr": "Règle de Bobinage",
+        "ru": "Линейка намотки"
+      }
     }
   ]
 }
