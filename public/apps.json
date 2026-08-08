@@ -3839,6 +3839,21 @@
         "fr": "Pratique des citations",
         "ru": "Тренажёр цитирования"
       }
+    },
+    {
+      "appleId": "6799377734",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "四角检字",
+        "en": "Four-Corner Lookup",
+        "ja": "四角号碼検索",
+        "ko": "사각번호 한자 찾기",
+        "es": "Buscador de Cuatro Esquinas",
+        "pt": "Busca Quatro Cantos",
+        "de": "Vier-Ecken-Suche",
+        "fr": "Recherche Quatre Coins",
+        "ru": "Поиск по четырём углам"
+      }
     }
   ]
 }
