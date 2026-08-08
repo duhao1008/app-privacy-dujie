@@ -4154,6 +4154,21 @@
         "fr": "BeadFit",
         "ru": "BeadFit"
       }
+    },
+    {
+      "appleId": "6799409839",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "换装台",
+        "en": "Costume Desk",
+        "ja": "衣装替え台",
+        "ko": "의상 교체대",
+        "es": "Mesa de Vestuario",
+        "pt": "Mesa de Figurino",
+        "de": "Kostümtisch",
+        "fr": "Table de Costumes",
+        "ru": "Костюмерная"
+      }
     }
   ]
 }
