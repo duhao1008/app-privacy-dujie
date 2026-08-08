@@ -4214,6 +4214,21 @@
         "fr": "Devis Impression Livre",
         "ru": "Смета печати книг"
       }
+    },
+    {
+      "appleId": "6799452060",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "排面尺",
+        "en": "Facing Gauge",
+        "ja": "フェイス定規",
+        "ko": "페이싱 자",
+        "es": "Medidor de Frentes",
+        "pt": "Medidor de Frentes",
+        "de": "Facing-Maß",
+        "fr": "Mesure de Facings",
+        "ru": "Линейка фейсингов"
+      }
     }
   ]
 }
