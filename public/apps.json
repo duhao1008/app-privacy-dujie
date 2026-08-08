@@ -3974,6 +3974,21 @@
         "fr": "Chronologie du Roman",
         "ru": "Хронология романа"
       }
+    },
+    {
+      "appleId": "6799391165",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "账期折算",
+        "en": "Payment Terms Calculator",
+        "ja": "支払条件コスト計算",
+        "ko": "결제조건 비용 계산기",
+        "es": "Coste de Plazos de Pago",
+        "pt": "Custo dos Prazos de Pagamento",
+        "de": "Zahlungsziel-Kostenrechner",
+        "fr": "Coût des Délais de Paiement",
+        "ru": "Стоимость отсрочки платежа"
+      }
     }
   ]
 }
