@@ -4019,6 +4019,21 @@
         "fr": "Carnet de mesures Qipao",
         "ru": "Мерки для ципао"
       }
+    },
+    {
+      "appleId": "6799393119",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "褶量尺",
+        "en": "Pleat Measure",
+        "ja": "プリーツ定規",
+        "ko": "주름 자",
+        "es": "Medidor de Pliegues",
+        "pt": "Medidor de Pregas",
+        "de": "Faltenmaß",
+        "fr": "Mesure de Plis",
+        "ru": "Мера складок"
+      }
     }
   ]
 }
