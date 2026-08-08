@@ -4754,6 +4754,21 @@
         "fr": "Règle de Bobinage",
         "ru": "Линейка намотки"
       }
+    },
+    {
+      "appleId": "6799543592",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "镜片移心尺",
+        "en": "Lens Decentration Ruler",
+        "ja": "レンズ偏心定規",
+        "ko": "렌즈 편심 자",
+        "es": "Regla de descentrado",
+        "pt": "Régua de Descentração",
+        "de": "Brillenglas-Dezentrierung",
+        "fr": "Règle de décentrage",
+        "ru": "Линейка децентрации линз"
+      }
     }
   ]
 }
