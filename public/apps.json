@@ -3959,6 +3959,21 @@
         "fr": "Tuteur de Notation Guqin",
         "ru": "Тренажёр нотации гуциня"
       }
+    },
+    {
+      "appleId": "6799390174",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "小说时序",
+        "en": "Novel Chronology",
+        "ja": "小説クロノロジー",
+        "ko": "소설 연대기",
+        "es": "Cronología de Novela",
+        "pt": "Cronologia do Romance",
+        "de": "Roman-Chronologie",
+        "fr": "Chronologie du Roman",
+        "ru": "Хронология романа"
+      }
     }
   ]
 }
