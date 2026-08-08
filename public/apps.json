@@ -4004,6 +4004,21 @@
         "fr": "Arène Fleur Volante",
         "ru": "Арена Летящего Цветка"
       }
+    },
+    {
+      "appleId": "6799392642",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "旗袍量体簿",
+        "en": "Qipao Measurement Book",
+        "ja": "チャイナドレス採寸帳",
+        "ko": "치파오 치수 수첩",
+        "es": "Medidas para Qipao",
+        "pt": "Medidas para Qipao",
+        "de": "Qipao Maßbuch",
+        "fr": "Carnet de mesures Qipao",
+        "ru": "Мерки для ципао"
+      }
     }
   ]
 }
