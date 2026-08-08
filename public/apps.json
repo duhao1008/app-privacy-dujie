@@ -3854,6 +3854,21 @@
         "fr": "Recherche Quatre Coins",
         "ru": "Поиск по четырём углам"
       }
+    },
+    {
+      "appleId": "6799379847",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "贸价尺",
+        "en": "TradePrice Ruler",
+        "ja": "貿易価格ルーラー",
+        "ko": "무역가격자",
+        "es": "Regla de Precio Comercial",
+        "pt": "Régua de Preço Comercial",
+        "de": "Handelspreis-Rechner",
+        "fr": "Règle de Prix Commercial",
+        "ru": "Линейка торговой цены"
+      }
     }
   ]
 }
