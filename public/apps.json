@@ -4469,6 +4469,21 @@
         "fr": "Liste des Chambres",
         "ru": "Список номеров"
       }
+    },
+    {
+      "appleId": "6799503676",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "剧场视线尺",
+        "en": "Theater Sightline Ruler",
+        "ja": "劇場サイトライン定規",
+        "ko": "극장 시야 자",
+        "es": "Regla de Visión Teatral",
+        "pt": "Régua de Visão Teatral",
+        "de": "Theater-Sichtlinienmaß",
+        "fr": "Règle de Visibilité Scène",
+        "ru": "Линейка обзора театра"
+      }
     }
   ]
 }
