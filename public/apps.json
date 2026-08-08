@@ -4484,6 +4484,21 @@
         "fr": "Règle de Visibilité Scène",
         "ru": "Линейка обзора театра"
       }
+    },
+    {
+      "appleId": "6799504923",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "往礼簿",
+        "en": "Gift Exchange Ledger",
+        "ja": "贈答つきあい帳",
+        "ko": "경조사 주고받은 장부",
+        "es": "Libro de Regalos",
+        "pt": "Livro de Presentes",
+        "de": "Geschenke-Kassenbuch",
+        "fr": "Carnet de Cadeaux",
+        "ru": "Книга подарков"
+      }
     }
   ]
 }
