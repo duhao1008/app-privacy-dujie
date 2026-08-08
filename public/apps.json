@@ -4274,6 +4274,21 @@
         "fr": "Mesure de Panneaux",
         "ru": "Замер стеклянных панелей"
       }
+    },
+    {
+      "appleId": "6799461315",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "缩水裁尺",
+        "en": "ShrinkCut",
+        "ja": "布縮み裁断計算",
+        "ko": "원단 수축 재단계산",
+        "es": "Corte y Encogimiento",
+        "pt": "Corte e Encolhimento",
+        "de": "Stoffschwund Rechner",
+        "fr": "Retrait et Coupe Tissu",
+        "ru": "Усадка и раскрой ткани"
+      }
     }
   ]
 }
