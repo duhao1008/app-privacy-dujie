@@ -4109,6 +4109,21 @@
         "fr": "Score d’Audit Usine",
         "ru": "Оценка аудита фабрики"
       }
+    },
+    {
+      "appleId": "6799395505",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "日麻符练",
+        "en": "Riichi Fu Trainer",
+        "ja": "麻雀符計算トレーナー",
+        "ko": "리치마작 부수 트레이너",
+        "es": "Entrenador Fu Riichi",
+        "pt": "Treinador de Fu Riichi",
+        "de": "Riichi-Fu-Trainer",
+        "fr": "Entraîneur Fu Riichi",
+        "ru": "Тренажёр фу риичи"
+      }
     }
   ]
 }
