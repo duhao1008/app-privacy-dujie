@@ -3884,6 +3884,21 @@
         "fr": "Carnet de Stand-up",
         "ru": "Блокнот стендапа"
       }
+    },
+    {
+      "appleId": "6799385401",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "草缸配肥",
+        "en": "Planted Tank Dosing",
+        "ja": "水草水槽の肥料計算",
+        "ko": "수초항 비료 계산기",
+        "es": "Dosis para Acuario Plantado",
+        "pt": "Dosagem de Aquário Plantado",
+        "de": "Pflanzenaquarium Dosierung",
+        "fr": "Dosage Aquarium Planté",
+        "ru": "Дозировка для травника"
+      }
     }
   ]
 }
