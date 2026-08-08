@@ -4319,6 +4319,21 @@
         "fr": "Tuteur Courbes de Niveau",
         "ru": "Тренажёр горизонталей"
       }
+    },
+    {
+      "appleId": "6799470154",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "共读主持",
+        "en": "Book Club Facilitator",
+        "ja": "読書会ファシリテーター",
+        "ko": "독서모임 진행자",
+        "es": "Moderador de Lectura",
+        "pt": "Mediador de Leitura",
+        "de": "Lesekreis-Moderation",
+        "fr": "Animateur de Lecture",
+        "ru": "Ведущий книжного клуба"
+      }
     }
   ]
 }
