@@ -3764,6 +3764,21 @@
         "fr": "Studio de Handpan",
         "ru": "Студия хэндпана"
       }
+    },
+    {
+      "appleId": "6799368421",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "婚宴酒水规划",
+        "en": "Wedding Drink Planner",
+        "ja": "披露宴ドリンクプランナー",
+        "ko": "웨딩 음료 플래너",
+        "es": "Bebidas para Bodas",
+        "pt": "Bebidas para Casamento",
+        "de": "Hochzeitsgetränke Planer",
+        "fr": "Boissons de Mariage",
+        "ru": "Напитки для свадьбы"
+      }
     }
   ]
 }
