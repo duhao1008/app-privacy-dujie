@@ -4079,6 +4079,21 @@
         "fr": "Guide des Symboles de Lavage",
         "ru": "Знаки ухода за одеждой"
       }
+    },
+    {
+      "appleId": "6799394422",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "采书预算",
+        "en": "Book Acquisition Budget",
+        "ja": "図書購入予算",
+        "ko": "도서 구입 예산",
+        "es": "Presupuesto de Libros",
+        "pt": "Orçamento de Livros",
+        "de": "Bücherbudget",
+        "fr": "Budget Livres",
+        "ru": "Бюджет книг"
+      }
     }
   ]
 }
