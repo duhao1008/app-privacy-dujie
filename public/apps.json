@@ -4034,6 +4034,21 @@
         "fr": "Mesure de Plis",
         "ru": "Мера складок"
       }
+    },
+    {
+      "appleId": "6799392961",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "喷雾校准",
+        "en": "Sprayer Calibration",
+        "ja": "噴霧器キャリブレーション",
+        "ko": "분무기 보정",
+        "es": "Calibración de Pulverizador",
+        "pt": "Calibração de Pulverizador",
+        "de": "Spritzenkalibrierung",
+        "fr": "Calibrage du Pulvérisateur",
+        "ru": "Калибровка опрыскивателя"
+      }
     }
   ]
 }
