@@ -4694,6 +4694,21 @@
         "fr": "Chronique des ères chinoises",
         "ru": "Летопись китайских эр"
       }
+    },
+    {
+      "appleId": "6799537820",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "卷标报价",
+        "en": "Roll Label Quote",
+        "ja": "ロールラベル見積",
+        "ko": "롤 라벨 견적",
+        "es": "Cotizador de Etiquetas",
+        "pt": "Orçamento de Etiquetas",
+        "de": "Etiketten-Kalkulation",
+        "fr": "Devis Étiquettes",
+        "ru": "Смета рулонных этикеток"
+      }
     }
   ]
 }
