@@ -4679,6 +4679,21 @@
         "fr": "Exercices de Nomenclature",
         "ru": "Практика номенклатуры"
       }
+    },
+    {
+      "appleId": "6799536464",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "纪年考",
+        "en": "Reign Era Scholar",
+        "ja": "紀年考",
+        "ko": "연호고",
+        "es": "Cronista de Eras Chinas",
+        "pt": "Cronista das Eras Chinesas",
+        "de": "Chronik Chinas",
+        "fr": "Chronique des ères chinoises",
+        "ru": "Летопись китайских эр"
+      }
     }
   ]
 }
