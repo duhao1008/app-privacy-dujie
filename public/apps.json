@@ -4574,6 +4574,21 @@
         "fr": "Atelier de Contrôle EPUB",
         "ru": "EPUB Контроль"
       }
+    },
+    {
+      "appleId": "6799521159",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "商摄报价",
+        "en": "Photo Quote Pro",
+        "ja": "商業写真見積",
+        "ko": "상업 사진 견적",
+        "es": "FotoPresupuesto Pro",
+        "pt": "Orçamento Foto Pro",
+        "de": "Fotoangebot Pro",
+        "fr": "Devis Photo Pro",
+        "ru": "Фотосмета Про"
+      }
     }
   ]
 }
