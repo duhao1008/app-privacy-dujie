@@ -4604,6 +4604,21 @@
         "fr": "Atelier Perruques Cosplay",
         "ru": "Мастерская косплей-париков"
       }
+    },
+    {
+      "appleId": "6799526444",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "洗碟簿",
+        "en": "Vinyl Care Log",
+        "ja": "レコード洗浄ノート",
+        "ko": "바이닐 세척 기록장",
+        "es": "Bitácora de Vinilos",
+        "pt": "Diário de Vinil",
+        "de": "Vinyl-Pflegebuch",
+        "fr": "Carnet d’Entretien Vinyle",
+        "ru": "Уход за винилом"
+      }
     }
   ]
 }
