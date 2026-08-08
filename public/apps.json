@@ -4709,6 +4709,21 @@
         "fr": "Devis Étiquettes",
         "ru": "Смета рулонных этикеток"
       }
+    },
+    {
+      "appleId": "6799539637",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "水贴工序",
+        "en": "Decal Workflow",
+        "ja": "デカール工程",
+        "ko": "데칼 워크플로",
+        "es": "Flujo de Calcas",
+        "pt": "Fluxo de Decalques",
+        "de": "Decal-Ablauf",
+        "fr": "Flux de Décalques",
+        "ru": "Процесс декалей"
+      }
     }
   ]
 }
