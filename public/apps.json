@@ -3734,6 +3734,21 @@
         "fr": "Correcteur de Pinyin",
         "ru": "Корректор пиньиня"
       }
+    },
+    {
+      "appleId": "6799365776",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "清柜",
+        "en": "Cash Drawer Closeout",
+        "ja": "レジ締め現金カウント",
+        "ko": "현금 시재 마감",
+        "es": "Cierre de Caja",
+        "pt": "Fechamento de Caixa",
+        "de": "Kassenabschluss",
+        "fr": "Clôture de Caisse",
+        "ru": "Закрытие кассы"
+      }
     }
   ]
 }
