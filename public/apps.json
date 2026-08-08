@@ -4499,6 +4499,21 @@
         "fr": "Carnet de Cadeaux",
         "ru": "Книга подарков"
       }
+    },
+    {
+      "appleId": "6799508238",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "管牙尺",
+        "en": "Pipe Thread Gauge",
+        "ja": "管用ねじゲージ",
+        "ko": "파이프 나사 게이지",
+        "es": "Calibre de Roscas",
+        "pt": "Calibre de Roscas",
+        "de": "Rohrgewinde-Lehre",
+        "fr": "Jauge de Filetage",
+        "ru": "Калибр трубной резьбы"
+      }
     }
   ]
 }
