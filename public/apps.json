@@ -4124,6 +4124,21 @@
         "fr": "Entraîneur Fu Riichi",
         "ru": "Тренажёр фу риичи"
       }
+    },
+    {
+      "appleId": "6799396791",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "邮票齿孔尺",
+        "en": "Stamp Perforation Gauge",
+        "ja": "切手目打ちゲージ",
+        "ko": "우표 천공 게이지",
+        "es": "Calibre de Sellos",
+        "pt": "Calibre de Selos",
+        "de": "Briefmarken-Zähnungsmesser",
+        "fr": "Jauge de Dentelure",
+        "ru": "Зубцемер для марок"
+      }
     }
   ]
 }
