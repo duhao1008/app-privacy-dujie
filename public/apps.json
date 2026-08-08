@@ -4559,6 +4559,21 @@
         "fr": "Exercices de Formules",
         "ru": "Тренажёр химических формул"
       }
+    },
+    {
+      "appleId": "6799519023",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "EPUB验书",
+        "en": "EPUB Proof Desk",
+        "ja": "EPUB校正デスク",
+        "ko": "EPUB 교정 데스크",
+        "es": "Mesa de Revisión EPUB",
+        "pt": "Mesa de Revisão EPUB",
+        "de": "EPUB Prüfdesk",
+        "fr": "Atelier de Contrôle EPUB",
+        "ru": "EPUB Контроль"
+      }
     }
   ]
 }
