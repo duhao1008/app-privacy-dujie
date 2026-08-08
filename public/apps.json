@@ -4184,6 +4184,21 @@
         "fr": "Séries d'Athlétisme",
         "ru": "Забеги и дорожки"
       }
+    },
+    {
+      "appleId": "6799446988",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "电控识图",
+        "en": "Electrical Circuit Tutor",
+        "ja": "電気制御回路トレーナー",
+        "ko": "전기 제어회로 트레이너",
+        "es": "Tutor de Control Eléctrico",
+        "pt": "Tutor de Comandos Elétricos",
+        "de": "Elektro-Schaltplantrainer",
+        "fr": "Coach de Commande Électrique",
+        "ru": "Тренажёр электросхем"
+      }
     }
   ]
 }
