@@ -4199,6 +4199,21 @@
         "fr": "Coach de Commande Électrique",
         "ru": "Тренажёр электросхем"
       }
+    },
+    {
+      "appleId": "6799450417",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "书印报价",
+        "en": "BookPrint Quote",
+        "ja": "書籍印刷見積",
+        "ko": "책 인쇄 견적",
+        "es": "CotizaLibros",
+        "pt": "Orçamento de Livros",
+        "de": "Buchdruck Kalkulator",
+        "fr": "Devis Impression Livre",
+        "ru": "Смета печати книг"
+      }
     }
   ]
 }
