@@ -3719,6 +3719,21 @@
         "fr": "Tuteur de Matériel Chimique",
         "ru": "Тренажёр химических приборов"
       }
+    },
+    {
+      "appleId": "6799363184",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "注音审校",
+        "en": "Pinyin Proofreader",
+        "ja": "ピンイン校正",
+        "ko": "병음 교정기",
+        "es": "Revisor de Pinyin",
+        "pt": "Revisor de Pinyin",
+        "de": "Pinyin-Prüfer",
+        "fr": "Correcteur de Pinyin",
+        "ru": "Корректор пиньиня"
+      }
     }
   ]
 }
