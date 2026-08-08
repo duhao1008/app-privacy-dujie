@@ -4229,6 +4229,21 @@
         "fr": "Mesure de Facings",
         "ru": "Линейка фейсингов"
       }
+    },
+    {
+      "appleId": "6799454846",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "节目序",
+        "en": "ShowFlow Planner",
+        "ja": "演目順プランナー",
+        "ko": "공연순서 플래너",
+        "es": "Orden de Escena",
+        "pt": "Ordem do Espetáculo",
+        "de": "Ablaufplan Bühne",
+        "fr": "Ordre de Scène",
+        "ru": "Порядок выступлений"
+      }
     }
   ]
 }
