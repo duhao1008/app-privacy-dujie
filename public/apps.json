@@ -3779,6 +3779,21 @@
         "fr": "Boissons de Mariage",
         "ru": "Напитки для свадьбы"
       }
+    },
+    {
+      "appleId": "6799371051",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "冷媒工尺",
+        "en": "Refrigerant Gauge",
+        "ja": "冷媒ゲージ",
+        "ko": "냉매 게이지",
+        "es": "Medidor Refrigerante",
+        "pt": "Medidor de Refrigerante",
+        "de": "Kältemittel-Messgerät",
+        "fr": "Jauge de Réfrigérant",
+        "ru": "Манометр хладагента"
+      }
     }
   ]
 }
