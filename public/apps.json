@@ -4049,6 +4049,21 @@
         "fr": "Calibrage du Pulvérisateur",
         "ru": "Калибровка опрыскивателя"
       }
+    },
+    {
+      "appleId": "6799393533",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "骑行胎压尺",
+        "en": "Bike Tire Pressure Guide",
+        "ja": "自転車タイヤ空気圧ガイド",
+        "ko": "자전거 타이어 공기압 가이드",
+        "es": "Presión de Neumáticos Bici",
+        "pt": "Pressão de Pneus da Bike",
+        "de": "Fahrrad-Reifendruck Planer",
+        "fr": "Pression Pneus Vélo",
+        "ru": "Давление в шинах велосипеда"
+      }
     }
   ]
 }
