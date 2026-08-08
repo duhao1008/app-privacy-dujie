@@ -3704,6 +3704,21 @@
         "fr": "Planificateur Étapes CO",
         "ru": "Планировщик этапов ОЛ"
       }
+    },
+    {
+      "appleId": "6799361121",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "化学装置通",
+        "en": "Chem Apparatus Tutor",
+        "ja": "化学装置トレーナー",
+        "ko": "화학 장치 트레이너",
+        "es": "Tutor de Aparatos Químicos",
+        "pt": "Tutor de Aparatos Químicos",
+        "de": "Chemieapparatur Trainer",
+        "fr": "Tuteur de Matériel Chimique",
+        "ru": "Тренажёр химических приборов"
+      }
     }
   ]
 }
