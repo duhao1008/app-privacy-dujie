@@ -3914,6 +3914,21 @@
         "fr": "Atelier Thermocouple",
         "ru": "Термопары: Инструменты"
       }
+    },
+    {
+      "appleId": "6799387204",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "硬度换算尺",
+        "en": "Hardness Converter",
+        "ja": "硬度換算スケール",
+        "ko": "경도 변환자",
+        "es": "Conversor de Dureza",
+        "pt": "Conversor de Dureza",
+        "de": "Härtegrad-Umrechner",
+        "fr": "Convertisseur de Dureté",
+        "ru": "Конвертер твёрдости"
+      }
     }
   ]
 }
