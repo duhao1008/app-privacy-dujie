@@ -4649,6 +4649,21 @@
         "fr": "Règle d'espacement garde-corps",
         "ru": "Разметка перил"
       }
+    },
+    {
+      "appleId": "6799532667",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "投球数",
+        "en": "Pitch Count",
+        "ja": "投球数カウンター",
+        "ko": "투구수 카운터",
+        "es": "Conteo de Lanzamientos",
+        "pt": "Contagem de Arremessos",
+        "de": "Pitch-Zähler",
+        "fr": "Compteur de Lancers",
+        "ru": "Счётчик подач"
+      }
     }
   ]
 }
