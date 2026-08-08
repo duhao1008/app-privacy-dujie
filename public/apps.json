@@ -4139,6 +4139,21 @@
         "fr": "Jauge de Dentelure",
         "ru": "Зубцемер для марок"
       }
+    },
+    {
+      "appleId": "6799397651",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "配珠尺",
+        "en": "BeadFit",
+        "ja": "ビーズフィット",
+        "ko": "비드핏",
+        "es": "BeadFit",
+        "pt": "BeadFit",
+        "de": "BeadFit",
+        "fr": "BeadFit",
+        "ru": "BeadFit"
+      }
     }
   ]
 }
