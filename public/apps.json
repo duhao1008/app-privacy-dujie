@@ -4304,6 +4304,21 @@
         "fr": "Table de Water-polo",
         "ru": "Секретарь водного поло"
       }
+    },
+    {
+      "appleId": "6799468422",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "等高线研习",
+        "en": "Contour Map Tutor",
+        "ja": "等高線トレーナー",
+        "ko": "등고선 학습기",
+        "es": "Tutor de Curvas de Nivel",
+        "pt": "Tutor de Curvas de Nível",
+        "de": "Höhenlinien-Trainer",
+        "fr": "Tuteur Courbes de Niveau",
+        "ru": "Тренажёр горизонталей"
+      }
     }
   ]
 }
