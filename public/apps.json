@@ -4289,6 +4289,21 @@
         "fr": "Retrait et Coupe Tissu",
         "ru": "Усадка и раскрой ткани"
       }
+    },
+    {
+      "appleId": "6799464913",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "水球判罚台",
+        "en": "Water Polo Match Desk",
+        "ja": "水球マッチデスク",
+        "ko": "수구 매치 데스크",
+        "es": "Mesa de Waterpolo",
+        "pt": "Mesa de Polo Aquático",
+        "de": "Wasserball Spieltisch",
+        "fr": "Table de Water-polo",
+        "ru": "Секретарь водного поло"
+      }
     }
   ]
 }
