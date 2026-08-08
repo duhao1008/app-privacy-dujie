@@ -3989,6 +3989,21 @@
         "fr": "Coût des Délais de Paiement",
         "ru": "Стоимость отсрочки платежа"
       }
+    },
+    {
+      "appleId": "6799392071",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "飞花令台",
+        "en": "Flying Flower Arena",
+        "ja": "飛花令アリーナ",
+        "ko": "비화령 아레나",
+        "es": "Arena Flor Voladora",
+        "pt": "Arena Flor Voadora",
+        "de": "Fliegende-Blüte-Arena",
+        "fr": "Arène Fleur Volante",
+        "ru": "Арена Летящего Цветка"
+      }
     }
   ]
 }
