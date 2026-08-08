@@ -3899,6 +3899,21 @@
         "fr": "Dosage Aquarium Planté",
         "ru": "Дозировка для травника"
       }
+    },
+    {
+      "appleId": "6799386481",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "热偶分度",
+        "en": "Thermocouple Workbench",
+        "ja": "熱電対ワークベンチ",
+        "ko": "열전대 워크벤치",
+        "es": "Banco de Termopares",
+        "pt": "Bancada de Termopares",
+        "de": "Thermoelement-Werkbank",
+        "fr": "Atelier Thermocouple",
+        "ru": "Термопары: Инструменты"
+      }
     }
   ]
 }
