@@ -3944,6 +3944,21 @@
         "fr": "Carnet de Cotations",
         "ru": "Скалолазный журнал"
       }
+    },
+    {
+      "appleId": "6799389199",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "琴谱识字",
+        "en": "Guqin Notation Tutor",
+        "ja": "古琴減字譜トレーナー",
+        "ko": "고금 감자보 학습",
+        "es": "Tutor de Notación Guqin",
+        "pt": "Tutor de Notação Guqin",
+        "de": "Guqin-Notenschrift Tutor",
+        "fr": "Tuteur de Notation Guqin",
+        "ru": "Тренажёр нотации гуциня"
+      }
     }
   ]
 }
