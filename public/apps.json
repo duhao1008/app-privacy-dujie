@@ -4439,6 +4439,21 @@
         "fr": "Exercices de dactylologie",
         "ru": "Китайская дактилология"
       }
+    },
+    {
+      "appleId": "6799497752",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "漫译格",
+        "en": "Manga Lettering Desk",
+        "ja": "マンガ翻訳デスク",
+        "ko": "만화 번역 데스크",
+        "es": "Mesa de Traducción Manga",
+        "pt": "Mesa de Tradução de Mangá",
+        "de": "Manga-Übersetzungsdesk",
+        "fr": "Atelier Traduction Manga",
+        "ru": "Студия перевода манги"
+      }
     }
   ]
 }
