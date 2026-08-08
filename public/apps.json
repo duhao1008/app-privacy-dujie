@@ -4619,6 +4619,21 @@
         "fr": "Carnet d’Entretien Vinyle",
         "ru": "Уход за винилом"
       }
+    },
+    {
+      "appleId": "6799528992",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "锯带配算",
+        "en": "BandSaw Setup",
+        "ja": "バンドソー計算",
+        "ko": "밴드쏘 계산기",
+        "es": "Ajuste de Sierra de Cinta",
+        "pt": "Ajuste de Serra de Fita",
+        "de": "Bandsäge Rechner",
+        "fr": "Réglage Scie à Ruban",
+        "ru": "Расчёт ленточной пилы"
+      }
     }
   ]
 }
