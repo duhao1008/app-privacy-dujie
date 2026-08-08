@@ -3824,6 +3824,21 @@
         "fr": "Tableau Rotation Volley",
         "ru": "Ротации в волейболе"
       }
+    },
+    {
+      "appleId": "6799375689",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "引文格式练习",
+        "en": "Citation Format Practice",
+        "ja": "引用形式トレーニング",
+        "ko": "인용 형식 연습",
+        "es": "Práctica de citas",
+        "pt": "Prática de Citações",
+        "de": "Zitierformat üben",
+        "fr": "Pratique des citations",
+        "ru": "Тренажёр цитирования"
+      }
     }
   ]
 }
