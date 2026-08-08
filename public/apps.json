@@ -3794,6 +3794,21 @@
         "fr": "Jauge de Réfrigérant",
         "ru": "Манометр хладагента"
       }
+    },
+    {
+      "appleId": "6799373487",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "包边条尺",
+        "en": "Bias Tape Ruler",
+        "ja": "バイアステープ定規",
+        "ko": "바이어스 테이프 자",
+        "es": "Regla de Bies",
+        "pt": "Régua de Viés",
+        "de": "Schrägband-Rechner",
+        "fr": "Règle de Biais",
+        "ru": "Линейка косой бейки"
+      }
     }
   ]
 }
