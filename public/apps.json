@@ -4244,6 +4244,21 @@
         "fr": "Ordre de Scène",
         "ru": "Порядок выступлений"
       }
+    },
+    {
+      "appleId": "6799459193",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "宠衣打版尺",
+        "en": "Pet Pattern Ruler",
+        "ja": "ペット服型紙メジャー",
+        "ko": "펫옷 패턴 자",
+        "es": "Patrones para Mascotas",
+        "pt": "Moldes para Pets",
+        "de": "Schnittmuster für Haustiere",
+        "fr": "Patrons pour Animaux",
+        "ru": "Выкройки для питомцев"
+      }
     }
   ]
 }
