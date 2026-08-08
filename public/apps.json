@@ -4634,6 +4634,21 @@
         "fr": "Réglage Scie à Ruban",
         "ru": "Расчёт ленточной пилы"
       }
+    },
+    {
+      "appleId": "6799531264",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "栏杆分格尺",
+        "en": "Railing Spacing Ruler",
+        "ja": "手すり支柱割付定規",
+        "ko": "난간 기둥 간격자",
+        "es": "Regla para Barandillas",
+        "pt": "Régua de Espaço de Corrimão",
+        "de": "Geländer-Abstandsmaß",
+        "fr": "Règle d'espacement garde-corps",
+        "ru": "Разметка перил"
+      }
     }
   ]
 }
