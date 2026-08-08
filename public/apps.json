@@ -3869,6 +3869,21 @@
         "fr": "Règle de Prix Commercial",
         "ru": "Линейка торговой цены"
       }
+    },
+    {
+      "appleId": "6799383589",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "段子本",
+        "en": "Stand-up Setbook",
+        "ja": "ネタ帳",
+        "ko": "스탠드업 대본노트",
+        "es": "Guion de Stand-up",
+        "pt": "Caderno de Stand-up",
+        "de": "Stand-up Setbuch",
+        "fr": "Carnet de Stand-up",
+        "ru": "Блокнот стендапа"
+      }
     }
   ]
 }
