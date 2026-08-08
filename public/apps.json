@@ -3929,6 +3929,21 @@
         "fr": "Convertisseur de Dureté",
         "ru": "Конвертер твёрдости"
       }
+    },
+    {
+      "appleId": "6799388201",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "攀级簿",
+        "en": "ClimbGrade Ledger",
+        "ja": "クライムグレード帳",
+        "ko": "클라이밍 등급 노트",
+        "es": "Grados de Escalada",
+        "pt": "Diário de Graus",
+        "de": "Klettergradbuch",
+        "fr": "Carnet de Cotations",
+        "ru": "Скалолазный журнал"
+      }
     }
   ]
 }
