@@ -4349,6 +4349,21 @@
         "fr": "Matrice Commandes Mode",
         "ru": "Матрица заказов одежды"
       }
+    },
+    {
+      "appleId": "6799480782",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "接亲控场",
+        "en": "Wedding Door Game Host",
+        "ja": "お迎えゲーム進行役",
+        "ko": "웨딩 도어게임 진행",
+        "es": "Anfitrión de Juegos de Boda",
+        "pt": "Mestre de Jogos de Casamento",
+        "de": "Hochzeitsspiel-Moderator",
+        "fr": "Maître des Jeux de Mariage",
+        "ru": "Ведущий свадебных игр"
+      }
     }
   ]
 }
