@@ -4169,6 +4169,21 @@
         "fr": "Table de Costumes",
         "ru": "Костюмерная"
       }
+    },
+    {
+      "appleId": "6799429016",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "径赛分组",
+        "en": "Track Heat Seeder",
+        "ja": "トラック競技組分け",
+        "ko": "트랙 경기 조 편성",
+        "es": "Series de Atletismo",
+        "pt": "Séries de Atletismo",
+        "de": "Laufserien Planer",
+        "fr": "Séries d'Athlétisme",
+        "ru": "Забеги и дорожки"
+      }
     }
   ]
 }
