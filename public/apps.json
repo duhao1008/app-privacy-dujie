@@ -4064,6 +4064,21 @@
         "fr": "Pression Pneus Vélo",
         "ru": "Давление в шинах велосипеда"
       }
+    },
+    {
+      "appleId": "6799394030",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "洗标通",
+        "en": "Laundry Label Tutor",
+        "ja": "洗濯表示マスター",
+        "ko": "세탁 기호 마스터",
+        "es": "Guía de Símbolos de Lavado",
+        "pt": "Guia de Símbolos de Lavagem",
+        "de": "Wäschezeichen-Trainer",
+        "fr": "Guide des Symboles de Lavage",
+        "ru": "Знаки ухода за одеждой"
+      }
     }
   ]
 }
