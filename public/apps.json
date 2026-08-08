@@ -4589,6 +4589,21 @@
         "fr": "Devis Photo Pro",
         "ru": "Фотосмета Про"
       }
+    },
+    {
+      "appleId": "6799523229",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "假发造型簿",
+        "en": "Cosplay Wig Workshop",
+        "ja": "コスプレウィッグ工房",
+        "ko": "코스프레 가발 공방",
+        "es": "Taller de Pelucas Cosplay",
+        "pt": "Ateliê de Perucas Cosplay",
+        "de": "Cosplay-Perückenwerkstatt",
+        "fr": "Atelier Perruques Cosplay",
+        "ru": "Мастерская косплей-париков"
+      }
     }
   ]
 }
