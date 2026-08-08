@@ -4094,6 +4094,21 @@
         "fr": "Budget Livres",
         "ru": "Бюджет книг"
       }
+    },
+    {
+      "appleId": "6799394638",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "验厂评分",
+        "en": "Factory Audit Score",
+        "ja": "工場監査スコア",
+        "ko": "공장 심사 점수",
+        "es": "Puntuación de Auditoría",
+        "pt": "Pontuação de Auditoria",
+        "de": "Fabrikaudit Bewertung",
+        "fr": "Score d’Audit Usine",
+        "ru": "Оценка аудита фабрики"
+      }
     }
   ]
 }
