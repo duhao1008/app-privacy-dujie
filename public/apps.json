@@ -4259,6 +4259,21 @@
         "fr": "Patrons pour Animaux",
         "ru": "Выкройки для питомцев"
       }
+    },
+    {
+      "appleId": "6799459848",
+      "lastUpdated": "2026-08-08",
+      "appName": {
+        "zh": "玻璃配片尺",
+        "en": "Glass Panel Measure",
+        "ja": "ガラス割付メジャー",
+        "ko": "유리 재단 자",
+        "es": "Medidor de Paneles",
+        "pt": "Medidor de Painéis",
+        "de": "Glasplatten-Maß",
+        "fr": "Mesure de Panneaux",
+        "ru": "Замер стеклянных панелей"
+      }
     }
   ]
 }
