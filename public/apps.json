@@ -4994,6 +4994,21 @@
         "fr": "Règle des Modes",
         "ru": "Линейка мод"
       }
+    },
+    {
+      "appleId": "6799584597",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "釉方工尺",
+        "en": "Glaze Workbench",
+        "ja": "釉薬工房",
+        "ko": "유약 작업대",
+        "es": "Taller de Esmaltes",
+        "pt": "Oficina de Esmaltes",
+        "de": "Glasurwerkstatt",
+        "fr": "Atelier des Émaux",
+        "ru": "Мастерская глазурей"
+      }
     }
   ]
 }
