@@ -4919,6 +4919,21 @@
         "fr": "Tuteur Radiographie RT",
         "ru": "Тренер радиографии сварки"
       }
+    },
+    {
+      "appleId": "6799562178",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "烫脊尺",
+        "en": "Spine Foil Ruler",
+        "ja": "背表紙箔押し定規",
+        "ko": "책등 박 인쇄 자",
+        "es": "Regla de lomo dorado",
+        "pt": "Régua de lombada dourada",
+        "de": "Präge-Lineal für Buchrücken",
+        "fr": "Règle de dorure du dos",
+        "ru": "Линейка тиснения корешка"
+      }
     }
   ]
 }
