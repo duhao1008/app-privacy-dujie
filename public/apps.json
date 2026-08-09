@@ -4829,6 +4829,21 @@
         "fr": "Comparateur de devis",
         "ru": "Сравнение предложений"
       }
+    },
+    {
+      "appleId": "6799567799",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "影展排片",
+        "en": "Festival Film Planner",
+        "ja": "映画祭スケジュール",
+        "ko": "영화제 상영 플래너",
+        "es": "Planificador de Festivales",
+        "pt": "Planejador de Festivais",
+        "de": "Filmfestival-Planer",
+        "fr": "Planificateur de Festivals",
+        "ru": "Планировщик кинофестиваля"
+      }
     }
   ]
 }
