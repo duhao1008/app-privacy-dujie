@@ -5009,6 +5009,21 @@
         "fr": "Atelier des Émaux",
         "ru": "Мастерская глазурей"
       }
+    },
+    {
+      "appleId": "6799586346",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "花滑分册",
+        "en": "Skate Scorebook",
+        "ja": "フィギュア採点ノート",
+        "ko": "피겨 점수 노트",
+        "es": "Cuaderno de Patinaje",
+        "pt": "Caderno de Patinação",
+        "de": "Eiskunstlauf-Notizbuch",
+        "fr": "Carnet de Patinage",
+        "ru": "Дневник фигуриста"
+      }
     }
   ]
 }
