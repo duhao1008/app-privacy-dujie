@@ -4814,6 +4814,21 @@
         "fr": "Relieur de Périodiques",
         "ru": "Переплёт журналов"
       }
+    },
+    {
+      "appleId": "6799566307",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "采购比价",
+        "en": "Quote Cost Compare",
+        "ja": "仕入れ見積比較",
+        "ko": "구매 견적 비교",
+        "es": "Comparador de Cotizaciones",
+        "pt": "Comparador de Cotações",
+        "de": "Angebote vergleichen",
+        "fr": "Comparateur de devis",
+        "ru": "Сравнение предложений"
+      }
     }
   ]
 }
