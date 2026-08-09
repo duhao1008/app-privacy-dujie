@@ -4874,6 +4874,21 @@
         "fr": "Poids de Coulée",
         "ru": "Вес для литья"
       }
+    },
+    {
+      "appleId": "6799550217",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "铰链定位尺",
+        "en": "Cabinet Hinge Locator",
+        "ja": "蝶番位置決め定規",
+        "ko": "경첩 위치 자",
+        "es": "Localizador de Bisagras",
+        "pt": "Localizador de Dobradiças",
+        "de": "Scharnier-Positionshilfe",
+        "fr": "Repère de Charnières",
+        "ru": "Разметка мебельных петель"
+      }
     }
   ]
 }
