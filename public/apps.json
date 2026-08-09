@@ -4784,6 +4784,21 @@
         "fr": "Banc Relèves Hockey",
         "ru": "Хоккейная скамейка"
       }
+    },
+    {
+      "appleId": "6799556990",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "信号研习",
+        "en": "Rail Signal Tutor",
+        "ja": "鉄道信号トレーナー",
+        "ko": "철도 신호 학습",
+        "es": "Tutor de Señales Ferroviarias",
+        "pt": "Tutor de Sinais Ferroviários",
+        "de": "Bahnsignal-Trainer",
+        "fr": "Coach Signaux Ferroviaires",
+        "ru": "Тренажёр ж/д сигналов"
+      }
     }
   ]
 }
