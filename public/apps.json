@@ -4859,6 +4859,21 @@
         "fr": "Mapping de Cils",
         "ru": "Карта ресниц"
       }
+    },
+    {
+      "appleId": "6799571275",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "铸金尺",
+        "en": "CastWeight",
+        "ja": "鋳金スケール",
+        "ko": "주조금 저울",
+        "es": "Peso de Fundición",
+        "pt": "Peso de Fundição",
+        "de": "Gussgewicht",
+        "fr": "Poids de Coulée",
+        "ru": "Вес для литья"
+      }
     }
   ]
 }
