@@ -5039,6 +5039,21 @@
         "fr": "Doigtés de Clarinette",
         "ru": "Аппликатура кларнета"
       }
+    },
+    {
+      "appleId": "6799591931",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "包书皮尺",
+        "en": "Book Cover Ruler",
+        "ja": "ブックカバー定規",
+        "ko": "책커버 자",
+        "es": "Regla para Cubiertas",
+        "pt": "Régua para Capas",
+        "de": "Buchumschlag-Maß",
+        "fr": "Règle Couvre-livre",
+        "ru": "Линейка для обложек"
+      }
     }
   ]
 }
