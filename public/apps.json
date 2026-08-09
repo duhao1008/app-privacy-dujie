@@ -4979,6 +4979,21 @@
         "fr": "Recettes Couleur Gel",
         "ru": "Рецепты гель-цветов"
       }
+    },
+    {
+      "appleId": "6799583151",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "驻波尺",
+        "en": "Room Mode Ruler",
+        "ja": "定在波ルーラー",
+        "ko": "정재파 자",
+        "es": "Regla de Modos",
+        "pt": "Régua de Modos",
+        "de": "Raummoden-Messer",
+        "fr": "Règle des Modes",
+        "ru": "Линейка мод"
+      }
     }
   ]
 }
