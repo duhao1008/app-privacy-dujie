@@ -4934,6 +4934,21 @@
         "fr": "Règle de dorure du dos",
         "ru": "Линейка тиснения корешка"
       }
+    },
+    {
+      "appleId": "6799578240",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "银企对账簿",
+        "en": "Bank Reconcile Ledger",
+        "ja": "銀行帳簿照合",
+        "ko": "은행 장부 대사",
+        "es": "Conciliador Bancario",
+        "pt": "Conciliador Bancário",
+        "de": "Bankabgleich Offline",
+        "fr": "Rapprochement Bancaire",
+        "ru": "Сверка банка и учёта"
+      }
     }
   ]
 }
