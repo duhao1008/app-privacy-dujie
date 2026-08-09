@@ -4799,6 +4799,21 @@
         "fr": "Coach Signaux Ferroviaires",
         "ru": "Тренажёр ж/д сигналов"
       }
+    },
+    {
+      "appleId": "6799557361",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "期刊合订簿",
+        "en": "Periodical Binder",
+        "ja": "雑誌製本ノート",
+        "ko": "정기간행물 제본장",
+        "es": "Encuadernador de Revistas",
+        "pt": "Encadernador de Periódicos",
+        "de": "Zeitschriftenbinder",
+        "fr": "Relieur de Périodiques",
+        "ru": "Переплёт журналов"
+      }
     }
   ]
 }
