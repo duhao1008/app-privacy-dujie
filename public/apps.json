@@ -5054,6 +5054,21 @@
         "fr": "Règle Couvre-livre",
         "ru": "Линейка для обложек"
       }
+    },
+    {
+      "appleId": "6799594028",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "布展定位尺",
+        "en": "Exhibit Wall Planner",
+        "ja": "展示壁レイアウト定規",
+        "ko": "전시벽 배치 자",
+        "es": "Regla de Montaje de Arte",
+        "pt": "Régua de Montagem de Arte",
+        "de": "Ausstellungswand Planer",
+        "fr": "Règle d’Accrochage d’Art",
+        "ru": "Разметка выставочной стены"
+      }
     }
   ]
 }
