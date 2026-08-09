@@ -4844,6 +4844,21 @@
         "fr": "Planificateur de Festivals",
         "ru": "Планировщик кинофестиваля"
       }
+    },
+    {
+      "appleId": "6799569320",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "睫毛排图",
+        "en": "Lash Mapping",
+        "ja": "まつげマッピング",
+        "ko": "속눈썹 매핑",
+        "es": "Mapa de Pestañas",
+        "pt": "Mapa de Cílios",
+        "de": "Wimpern Mapping",
+        "fr": "Mapping de Cils",
+        "ru": "Карта ресниц"
+      }
     }
   ]
 }
