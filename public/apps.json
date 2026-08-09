@@ -4949,6 +4949,21 @@
         "fr": "Rapprochement Bancaire",
         "ru": "Сверка банка и учёта"
       }
+    },
+    {
+      "appleId": "6799559852",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "分角簿",
+        "en": "Casting Ledger",
+        "ja": "配役台帳",
+        "ko": "배역 장부",
+        "es": "Cuaderno de Reparto",
+        "pt": "Caderno de Elenco",
+        "de": "Besetzungsbuch",
+        "fr": "Registre de Distribution",
+        "ru": "Журнал ролей"
+      }
     }
   ]
 }
