@@ -4769,6 +4769,21 @@
         "fr": "Règle de décentrage",
         "ru": "Линейка децентрации линз"
       }
+    },
+    {
+      "appleId": "6799547978",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "冰球换人台",
+        "en": "Hockey Shift Bench",
+        "ja": "アイスホッケー交代ベンチ",
+        "ko": "아이스하키 교대 벤치",
+        "es": "Banquillo Hockey Turnos",
+        "pt": "Banco de Turnos Hóquei",
+        "de": "Eishockey Wechselbank",
+        "fr": "Banc Relèves Hockey",
+        "ru": "Хоккейная скамейка"
+      }
     }
   ]
 }
