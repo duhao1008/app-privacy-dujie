@@ -4889,6 +4889,21 @@
         "fr": "Repère de Charnières",
         "ru": "Разметка мебельных петель"
       }
+    },
+    {
+      "appleId": "6799561707",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "球距梯",
+        "en": "Golf Gap Ladder",
+        "ja": "ゴルフ飛距離ラダー",
+        "ko": "골프 거리 래더",
+        "es": "Escalera de Distancias Golf",
+        "pt": "Escada de Distâncias Golf",
+        "de": "Golf-Distanzleiter",
+        "fr": "Échelle de Distances Golf",
+        "ru": "Лестница дистанций гольфа"
+      }
     }
   ]
 }
