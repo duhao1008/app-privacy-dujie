@@ -4904,6 +4904,21 @@
         "fr": "Échelle de Distances Golf",
         "ru": "Лестница дистанций гольфа"
       }
+    },
+    {
+      "appleId": "6799575266",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "焊片研习",
+        "en": "Weld Radiograph Tutor",
+        "ja": "溶接X線フィルム学習",
+        "ko": "용접 방사선 판독 학습",
+        "es": "Tutor de Radiografías RT",
+        "pt": "Tutor de Radiografias RT",
+        "de": "Schweiß-Röntgen Tutor",
+        "fr": "Tuteur Radiographie RT",
+        "ru": "Тренер радиографии сварки"
+      }
     }
   ]
 }
