@@ -4964,6 +4964,21 @@
         "fr": "Registre de Distribution",
         "ru": "Журнал ролей"
       }
+    },
+    {
+      "appleId": "6799581450",
+      "lastUpdated": "2026-08-09",
+      "appName": {
+        "zh": "甲色配方",
+        "en": "Gel Color Recipes",
+        "ja": "ジェルカラー配合帳",
+        "ko": "젤 컬러 배합 노트",
+        "es": "Recetas de Color Gel",
+        "pt": "Receitas de Cor em Gel",
+        "de": "Gel-Farbrezepte",
+        "fr": "Recettes Couleur Gel",
+        "ru": "Рецепты гель-цветов"
+      }
     }
   ]
 }
