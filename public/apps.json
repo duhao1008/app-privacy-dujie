@@ -5069,6 +5069,21 @@
         "fr": "Règle d’Accrochage d’Art",
         "ru": "Разметка выставочной стены"
       }
+    },
+    {
+      "appleId": "6801738876",
+      "lastUpdated": "2026-08-15",
+      "appName": {
+        "zh": "投影位尺",
+        "en": "Projector Placement Lab",
+        "ja": "プロジェクター設置ラボ",
+        "ko": "프로젝터 배치 연구소",
+        "es": "Laboratorio de Proyección",
+        "pt": "Laboratório de Projeção",
+        "de": "Projektor-Planungslabor",
+        "fr": "Laboratoire de Projection",
+        "ru": "Лаборатория проектора"
+      }
     }
   ]
 }
