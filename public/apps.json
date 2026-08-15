@@ -5099,6 +5099,21 @@
         "fr": "Atelier Filtre Enceinte",
         "ru": "Мастерская кроссоверов"
       }
+    },
+    {
+      "appleId": "6801739702",
+      "lastUpdated": "2026-08-15",
+      "appName": {
+        "zh": "皮影排演",
+        "en": "Shadow Puppet Rehearsal",
+        "ja": "影絵人形リハーサル",
+        "ko": "그림자극 리허설",
+        "es": "Ensayo de Sombras",
+        "pt": "Ensaio de Sombras",
+        "de": "Schattenspiel-Probe",
+        "fr": "Répétition d’Ombres",
+        "ru": "Репетиция теней"
+      }
     }
   ]
 }
