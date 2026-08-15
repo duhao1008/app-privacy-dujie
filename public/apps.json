@@ -5084,6 +5084,21 @@
         "fr": "Laboratoire de Projection",
         "ru": "Лаборатория проектора"
       }
+    },
+    {
+      "appleId": "6801739478",
+      "lastUpdated": "2026-08-15",
+      "appName": {
+        "zh": "分频匠",
+        "en": "Crossover Forge",
+        "ja": "クロスオーバー工房",
+        "ko": "크로스오버 공방",
+        "es": "Taller Crossover",
+        "pt": "Oficina Crossover",
+        "de": "Frequenzweichen-Werkstatt",
+        "fr": "Atelier Filtre Enceinte",
+        "ru": "Мастерская кроссоверов"
+      }
     }
   ]
 }
